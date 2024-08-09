@@ -9,8 +9,8 @@ public class CouponListVO {
 	private String gstId;
 	//쿠폰 발급일자
 	private String gclIssueDate;
-	//쿠폰 사용일자
-	private String gclUseDate;
+	//쿠폰 사용여부
+	private String gclUse;
 	
 	public int getCpnNo() {
 		return cpnNo;
@@ -36,12 +36,12 @@ public class CouponListVO {
 		this.gclIssueDate = gclIssueDate;
 	}
 	
-	public String getGclUseDate() {
-		return gclUseDate;
+	public String getGclUse() {
+		return gclUse;
 	}
 	
-	public void setGclUseDate(String gclUseDate) {
-		this.gclUseDate = gclUseDate;
+	public void setGclUse(String gclUse) {
+		this.gclUse = gclUse;
 	}
 	
 }

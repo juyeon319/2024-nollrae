@@ -2,4 +2,111 @@
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "https://mybatis.org/dtd/mybatis-3-mapper.dtd">
 <mapper namespace="kr.ac.nollrae.board.dao.EventDAO">
 <!-- 이벤트게시판 -->
+<!-- list 조회 -->
+	<select id="selectEventList" resultType="EventVO">
+		SELECT
+			EVT_NO
+			, EVT_TITLE
+			, EVT_CONTENT
+			, EVT_DATE
+			, EVT_CNT
+			, EVT_STRT_DT
+			, EVT_END_DT
+			, EVT_DEL
+		FROM EVENT_BOARD
+		WHERE EVENT_DEL != 'Y'
+	</select>
+<!-- list 조회 끝 -->
+
+<!-- 상세조회 -->
+	<select id="selectEvent" parameterType="int">
+		SELECT
+			EVT_NO
+			, EVT_TITLE
+			, EVT_CONTENT
+			, EVT_DATE
+			, EVT_CNT
+		FROM EVENT_BOARD
+		WHERE EVT_NO = #{evtNo}
+	</select>
+<!-- 상세조회 끝-->
+
+<!-- 조회수 증가 -->
+	<update id="incrementEventCnt" parameterType="int">
+		UPDATE EVENT_BOARD
+		SET
+		EVT_CNT = EVT_CNT + 1
+		WHERE EVT_NO = #{evtNo}
+	</update>
+<!-- 조회수 증가 끝 -->
+
+<!-- 이벤트 등록 -->
+	<insert id="insertEvent" parameterType="EventVO">
+		<selectKey resultType="int" keyProperty="EVT_NO" order="BEFORE">
+			SELECT 'EVT' || LPAD(EVENT_SEQ.NECTVAL, 5, '0') FROM DUAL
+		</selectKey>
+		INSERT INTO EVENT_BOARD (
+			EVT_NO
+			, EVT_TITLE
+			, EVT_CONTENT
+			, EVT_DATE
+			, EVT_CNT
+			, EVT_STRT_DT
+			, EVT_END_DT
+			, EVT_DEL
+		) VALUES (
+			#{evtNo}
+			, #{evtTitle}
+			, #{evtContent}
+			, SYSDATE
+			, 0
+			, #{evtStrtDt}
+			, #{evtEndDt}
+			, 'N'
+		)
+	</insert>
+<!-- 이벤트 등록 끝 -->
+
+<!-- 이벤트 수정 -->
+	<update id="updateEvent" parameterType="EventVO">
+		UPDATE EVENT_BOARD
+		SET
+			EVT_TITLE = #{evtTitle}
+			, EVT_CONTENT = #{evtContent}
+			, EVT_STRT_DT = #{evtStrtDt}
+			, EVT_END_DT = #{evtEndDt}
+	</update>
+<!-- 이벤트 수정 끝 -->
+
+<!-- 이벤트 삭제 -->
+	<update id="deleteEvent" parameterType="int">
+		UPDATE EVENT_BOARD
+		SET
+			EVT_DEL = 'Y'
+		WHERE EVT_NO = #{evtNo}
+	</update>
+<!-- 이벤트 삭제 끝 -->
+
 </mapper>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

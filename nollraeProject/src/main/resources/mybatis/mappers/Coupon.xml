@@ -2,4 +2,28 @@
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "https://mybatis.org/dtd/mybatis-3-mapper.dtd">
 <mapper namespace="kr.ac.nollrae.guest.dao.CouponDAO">
 <!-- 쿠폰 -->
+<!-- guest 영역 -->
+
+<!-- list 조회 -->
+	<select id="selectCouponList" resultType="CouponVO">
+		SELECT
+			A.CPN_NO
+			, A.CPN_NM
+			, A.CPN_DISCP
+			, A.CPN_STRT_DT
+			, A.CPN_END_DT
+			, A.CPN_ST
+			, B.GST_ID
+		FROM COUPON A JOIN GUEST_COUPON_LIST B 
+				ON A.CPN_NO = B.CPN_NO
+		WHERE CPN_END_DT > SYSDATE 
+				AND GCL_USE != 'Y'
+	</select>
+<!-- list 조회 끝 -->
+
+<!--  -->
+
+<!-- admin 영역 -->
+
+<!--  -->
 </mapper>
