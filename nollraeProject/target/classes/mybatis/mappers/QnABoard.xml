@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "https://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="kr.ac.nollrae.board.dao.QnADAO">
+<!-- QnA 게시판 -->
+<!-- list 조회 -->
+	<select id="selectQnAList" resultType="QnAVO">
+		SELECT 
+			QNA_NO
+			, GST_ID
+			, QNA_TITLE
+			, QNA_DATE
+			, QNA_DEL
+			, QNA_REPLY_AT
+		FROM QNA_BOARD
+		WHERE QNA_DEL != 'Y'
+	</select>
+<!-- list 조회 끝-->
+
+<!-- 상세조회 -->
+	<select id="selectQnA" parameterType="int">
+		SELECT 
+			QNA_NO
+			, GST_ID
+			, QNA_TITLE
+			, QNA_CONTENT
+			, QNA_DATE
+		FROM QNA_BOARD
+		WHERE QNA_NO = #{qnaNo}
+	</select>
+<!-- 상세조회 끝-->
+
+<!-- QnA등록 -->
+	<insert id="insertQnA" parameterType="QnAVO">
+		INSERT INTO QNA_BOARD (
+			QNA_NO
+			, GST_ID
+			, QNA_TITLE
+			, QNA_CONTENT
+			, QNA_DATE
+			, QNA_DEL
+			, QNA_REPLY_AT
+		) VALUES (
+			#{qnaNo}
+			, #{gstId}
+			, #{qnaTitle}
+			, #{qnaContent}
+			, SYSDATE
+			, 'N'
+			, 'N'
+		)
+	</insert>
+<!-- QnA등록 끝-->
+
+<!-- QnA수정 -->
+	<update id="updateQnA" parameterType="QnAVO">
+		UPDATE QNA_BOARD
+		SET QNA_TITLE = #{qnaTitle}
+			, QNA_CONTENT = #{qnaContent}
+		WHERE QNA_NO = #{qnaNo}
+	</update>
+<!-- QnA수정 끝-->
+
+<!-- QnA삭제 -->
+	<update id="deleteQnA" parameterType="int">
+		UPDATE QNA_BOARD
+		SET QNA_DEL = 'Y'
+		WHERE QNA_NO = #{qnaNo}
+	</update>
+<!-- QnA삭제 끝-->
+
+</mapper>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

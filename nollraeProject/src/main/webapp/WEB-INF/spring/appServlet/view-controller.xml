@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:mvc="http://www.springframework.org/schema/mvc"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:mybatis-spring="http://mybatis.org/schema/mybatis-spring"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans 
+                           http://www.springframework.org/schema/beans/spring-beans.xsd
+                           http://www.springframework.org/schema/context 
+                           http://www.springframework.org/schema/context/spring-context.xsd
+                           http://www.springframework.org/schema/mvc 
+                           http://www.springframework.org/schema/mvc/spring-mvc.xsd
+                           http://mybatis.org/schema/mybatis-spring 
+                           http://mybatis.org/schema/mybatis-spring.xsd">
+<!-- 공통 -->
+	<!-- 로그인 -->
+		<!-- 게스트 -->
+		<mvc:view-controller path="/guestLogin.do" view-name="auth/guest/guestLogin"/>
+		<!-- 호스트 -->
+		<mvc:view-controller path="/hostLogin.do" view-name="auth/host/hostLogin"/>
+	<!-- 회원가입 -->
+		<!-- 게스트 -->
+		<mvc:view-controller path="/guestSignUp.do" view-name="auth/guest/guestSignUp"/>
+		<!-- 호스트 -->
+		<mvc:view-controller path="/hostSignUp.do" view-name="auth/host/hostSignUp"/>
+	<!-- 아이디/비밀번호 찾기 -->
+		<mvc:view-controller path="/findId.do" view-name="auth/findId"/>
+		<mvc:view-controller path="/findPw.do" view-name="auth/findPw"/>
+	<!-- 회원정보수정/탈퇴 -->
+		<!-- 호스트 -->
+		<mvc:view-controller path="/hostInfo.do" view-name="auth/host/hostInfo"/>
+	
+<!-- 게시판 -->
+	<!-- 공지사항 -->
+	<mvc:view-controller path="/noticeSelectList.do" view-name="board/notice/noticeSelectList"/>
+	<mvc:view-controller path="/noticeSelect.do" view-name="board/notice/noticeSelect"/>
+	<mvc:view-controller path="/noticeRegist.do" view-name="board/notice/noticeRegist"/>
+	<!-- 이벤트 -->
+	<mvc:view-controller path="/eventSelectList.do" view-name="board/event/eventSelectList"/>
+	<mvc:view-controller path="/eventSelect.do" view-name="board/event/eventSelect"/>
+	<mvc:view-controller path="/eventRegist.do" view-name="board/event/eventRegist"/>
+	<!-- QnA -->
+	<mvc:view-controller path="/qnaSelectList.do" view-name="board/qna/qnaSelectList"/>
+	<mvc:view-controller path="/qnaSelect.do" view-name="board/qna/qnaSelect"/>
+	<mvc:view-controller path="/qnaRegist.do" view-name="board/qna/qnaRegist"/>
+	<!-- 커뮤니티 -->
+	<mvc:view-controller path="/communitySelectArea.do" view-name="board/community/communitySelectArea"/>
+	<mvc:view-controller path="/communitySelectList.do" view-name="board/community/communitySelectList"/>
+	<mvc:view-controller path="/communitySelect.do" view-name="board/community/communitySelect"/>
+	<mvc:view-controller path="/communityRegist.do" view-name="board/community/communityRegist"/>
+
+<!-- 게스트 -->
+	<!-- 숙소예약 -->
+	<mvc:view-controller path="/lodgmentSelectList.do" view-name="guest/lodgmentSelectList"/>
+	<mvc:view-controller path="/lodgmentSelect.do" view-name="guest/lodgmentSelect"/>
+	<mvc:view-controller path="/lodgmentSelectPay.do" view-name="guest/lodgmentPay"/>
+	<!-- 마이페이지(예약내역(숙소, 교통, 항공 등), 포인트, 쿠폰, 리뷰관리, 내정보관리) -->
+	<mvc:view-controller path="/guestMyPage.do" view-name="guest/guestMyPage"/>
+	<mvc:view-controller path="/lodgmentBookingList.do" view-name="guest/lodgmentBookingList"/>
+	<mvc:view-controller path="/guestPoints.do" view-name="guest/guestPoints"/>
+	<mvc:view-controller path="/guestCoupons.do" view-name="guest/guestCoupons"/>
+	<mvc:view-controller path="/lodgmentReviews.do" view-name="guest/lodgmentReviews"/>
+	<mvc:view-controller path="/guestInfo.do" view-name="auth/guest/guestInfo"/>
+	
+<!-- 호스트 -->
+	<!-- 숙소관리 -->
+	<mvc:view-controller path="/hostLodgmentSelectList.do" view-name="host/hostLodgmentSelectList"/>
+	<mvc:view-controller path="/hostLodgmentSelect.do" view-name="host/hostLodgmentSelect"/>
+	<mvc:view-controller path="/hostLodgmentRegist.do" view-name="host/hostLodgmentRegist"/>
+
+<!-- 관리자 -->
+
+</beans>

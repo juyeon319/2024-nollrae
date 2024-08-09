@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "https://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="kr.ac.nollrae.common.dao.UsersDAO">
+
+<!-- 회원가입(공통) -->
+	<insert id="insertUsers" parameterType="UsersVO">
+		INSERT INTO USERS(
+			USERS_ID
+			, USERS_PASS
+			, USERS_MAIL
+			, USERS_TEL
+			, USERS_ZIP
+			, USERS_ADDR1
+			, USERS_ADDR2
+			, USERS_DIV
+			, USERS_DEL
+		) VALUES (
+			#{usersId}
+			, #{usersPass}
+			, #{usersMail}
+			, #{usersTel}
+			, #{usersZip}
+			, #{usersAddr1}
+			, #{usersAddr2}
+			, #{usersDiv}
+			, #{usersDel}
+		)		
+	</insert>
+
+<!-- 회원가입(GUEST) -->
+	<insert id="insertGuest" parameterType="GuestVO">
+		INSERT INTO GUEST(
+			GST_ID
+			, GST_NM
+			, GST_BIR
+			, GST_GEN
+			, GST_IMG
+		) VALUES (
+			#{gstId}
+			, #{gstNm}
+			, #{gstBir}
+			, #{gstGen}
+			, #{gstImg}
+		)
+	</insert>
+	
+<!-- 회원가입(HOST) -->
+	<insert id="insertHost" parameterType="HostVO">
+		INSERT INTO HOST(
+			HOST_ID
+			, HOST_BSNS_LIC_NO
+			, HOST_BSNS_LIC_IMG
+			, HOST_NM
+			, HOST_ST
+		) VALUES (
+			#{hostId}
+			, #{hostBsnsLicNo}
+			, #{hostBsnsLicImg}
+			, #{hostNm}
+			, #{hostSt}
+		)
+	</insert>
+<!-- 회원가입 끝 -->
+	
+<!-- 회원정보조회(GUEST) -->
+	<select id="selectGuest" parameterType="String" resultType="UsersVO">
+		SELECT 
+			USERS_ID
+			, USERS_PASS
+			, USERS_MAIL
+			, USERS_TEL
+			, USERS_ZIP
+			, USERS_ADDR1
+			, USERS_ADDR2
+			, GST_NM
+			, GST_BIR
+			, GST_GEN
+			, GST_IMG
+		FROM USERS JOIN GUEST ON USERS_ID = GST_ID
+		WHERE USERS_ID = #{usersId}
+	</select>
+<!-- 회원정보조회(GUEST) 끝 -->
+
+<!-- 회원정보조회(HOST) -->
+	<select id="selectHost" parameterType="String" resultType="UsersVO">
+		SELECT 
+			USERS_ID
+			, USERS_PASS
+			, USERS_MAIL
+			, USERS_TEL
+			, USERS_ZIP
+			, USERS_ADDR1
+			, USERS_ADDR2
+			, HOST_BSNS_LIC_NO
+			, HOST_BSNS_LIC_IMG
+			, HOST_NM
+			, HOST_ST
+		FROM USERS JOIN HOST ON USERS_ID = HOST_ID
+		WHERE USERS_ID = #{usersIId}
+	</select>
+<!-- 회원정보조회(HOST) 끝 -->
+
+<!-- 회원정보수정(공통) -->
+	<update id="updateUsers" parameterType="UsersVO">
+		UPDATE USERS
+		SET USERS_PASS = #{usersPass}
+			, USERS_MAIL = #{usersMail}
+			, USERS_TEL = #{usersTel}
+			, USERS_ZIP = #{usersZip}
+			, USERS_ADDR1 = #{usersAddr1}
+			, USERS_ADDR2 = #{usersAddr2}
+		WHERE USERS_ID = #{usersId}
+	</update>
+<!-- 회원정보수정(공통) 끝 -->
+
+<!-- 회원정보수정(GUEST) -->
+	<update id="updateGuest" parameterType="UsersVO">
+		UPDATE GUEST
+		SET GST_IMG = #{gstImg}
+		WHERE GUEST_ID = #{usersId}
+	</update>
+<!-- 회원정보수정(GUEST) 끝 -->
+
+<!-- 회원정보수정(HOST) -->
+	<update id="updateHost" parameterType="UsersVO">
+		UPDATE HOST
+		SET HOST_NM = #{hostNm}
+		WHERE HOST_ID = #{usersId}
+	</update>
+<!-- 회원정보수정(HOST) 끝-->
+
+<!-- 탈퇴(공통) -->
+	<update id="deleteUsers" parameterType="String">
+		UPDATE USERS
+		SET USERS_DEL = 'Y'
+		WHERE USERS_ID = #{usersId}
+	</update>
+<!-- 탈퇴(공통) 끝-->
+
+</mapper>
+
+
+
+
+
+
+
+
+
+
+
+
