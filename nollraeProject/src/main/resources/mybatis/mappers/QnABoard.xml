@@ -5,14 +5,15 @@
 <!-- list 조회 -->
 	<select id="selectQnAList" resultType="QnAVO">
 		SELECT 
-			QNA_NO
-			, GST_ID
-			, QNA_TITLE
-			, QNA_DATE
-			, QNA_DEL
-			, QNA_REPLY_AT
-		FROM QNA_BOARD
-		WHERE QNA_DEL != 'Y'
+				QNA_NO
+				, GST_ID
+				, QNA_TITLE
+				, QNA_DATE
+				, QNA_DEL
+				, QNA_REPLY_AT
+		FROM 	QNA_BOARD
+		WHERE 	QNA_DEL != 'Y'
+		AND		GST_ID = #{gstId}
 	</select>
 <!-- list 조회 끝-->
 
