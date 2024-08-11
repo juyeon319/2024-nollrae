@@ -13,7 +13,7 @@
 			, NTC_AT
 			, NTC_DEL
 		FROM NOTICE_BOARD
-		WHERE NTC_DEL != 'Y'
+		WHERE NTC_DEL = 'N'
 	</select>
 <!-- list 조회 끝 -->
 
