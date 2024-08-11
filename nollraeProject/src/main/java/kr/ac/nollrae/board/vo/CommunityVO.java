@@ -6,7 +6,7 @@ public class CommunityVO implements Serializable{
 	//COMMUNITY_BOARD TABLE
 	
 	//게시글 번호
-	private int cmntNo;
+	private String cmntNo;
 	//게스트 아이디
 	private String gstId;
 	//지역코드
@@ -26,11 +26,11 @@ public class CommunityVO implements Serializable{
 	//신고여부
 	private String cmntRep;
 	
-	public int getCmntNo() {
+	public String getCmntNo() {
 		return cmntNo;
 	}
 	
-	public void setCmntNo(int cmntNo) {
+	public void setCmntNo(String cmntNo) {
 		this.cmntNo = cmntNo;
 	}
 	
@@ -105,5 +105,5 @@ public class CommunityVO implements Serializable{
 	public void setCmntRep(String cmntRep) {
 		this.cmntRep = cmntRep;
 	}
-	
+
 }

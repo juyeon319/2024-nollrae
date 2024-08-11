@@ -6,15 +6,15 @@ public class CommunityLikeVO implements Serializable{
 	//COMMUNITY_LIKE TABLE
 
 	//게시글 번호
-	private int cmntNo;
+	private String cmntNo;
 	//게스트 아이디
 	private String gstId;
 	
-	public int getCmntNo() {
+	public String getCmntNo() {
 		return cmntNo;
 	}
 	
-	public void setCmntNo(int cmntNo) {
+	public void setCmntNo(String cmntNo) {
 		this.cmntNo = cmntNo;
 	}
 	
@@ -25,5 +25,5 @@ public class CommunityLikeVO implements Serializable{
 	public void setGstId(String gstId) {
 		this.gstId = gstId;
 	}
-	
+
 }

@@ -18,7 +18,7 @@
 <!-- list 조회 끝 -->
 
 <!-- 상세조회 -->	
-	<select id="selectNotice" parameterType="int">
+	<select id="selectNotice" parameterType="String" resultType="NoticeVO">
 		SELECT
 			NTC_NO
 			, NTC_TITLE
@@ -31,7 +31,7 @@
 <!-- 상세조회 끝 -->	
 
 <!-- 조회수 증가 -->
-	<update id="incrementNoticeCnt" parameterType="int">
+	<update id="incrementNoticeCnt" parameterType="String">
 		UPDATE NOTICE_BOARD
 		SET
 		NTC_CNT = NTC_CNT + 1
@@ -41,7 +41,7 @@
 
 <!-- 공지사항 등록 -->
 	<insert id="insertNotice" parameterType="NoticeVO">
-		<selectKey resultType="int" keyProperty="NTC_NO" order="BEFORE">
+		<selectKey resultType="String" keyProperty="NTC_NO" order="BEFORE">
 			SELECT 'NTC' || LPAD(NOTICE_SEQ.NECTVAL, 5, '0') FROM DUAL
 		</selectKey>
 		INSERT INTO NOTICE_BOARD (
@@ -76,7 +76,7 @@
 <!-- 공지사항 수정 끝 -->
 	
 <!-- 공지사항 삭제 -->
-	<update id="deleteNotice" parameterType="int">
+	<update id="deleteNotice" parameterType="String">
 		UPDATE NOTICE_BOARD
 		SET 
 			NTC_DEL = 'Y'

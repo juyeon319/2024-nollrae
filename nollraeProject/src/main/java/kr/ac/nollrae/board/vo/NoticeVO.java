@@ -6,7 +6,7 @@ public class NoticeVO implements Serializable{
 	//NOTICE_BOARD TABLE
 	
 	//게시글 번호
-	private int ntcNo;
+	private String ntcNo;
 	//게시글 제목
 	private String ntcTitle;
 	//게시글 내용
@@ -20,11 +20,11 @@ public class NoticeVO implements Serializable{
 	//삭제여부
 	private String ntcDel;
 	
-	public int getNtcNo() {
+	public String getNtcNo() {
 		return ntcNo;
 	}
 	
-	public void setNtcNo(int ntcNo) {
+	public void setNtcNo(String ntcNo) {
 		this.ntcNo = ntcNo;
 	}
 	

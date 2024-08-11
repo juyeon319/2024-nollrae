@@ -21,7 +21,7 @@
 <!-- list 조회 끝-->
 
 <!-- 상세조회 -->
-	<select id="selectCommunity" parameterType="int">
+	<select id="selectCommunity" parameterType="String">
 		SELECT
 			CMNT_NO
 			, GST_ID
@@ -37,7 +37,7 @@
 <!-- 상세조회 끝 -->
 
 <!-- 조회수 증가 -->
-	<update id="incrementCommunity" parameterType="int">
+	<update id="incrementCommunity" parameterType="String">
 		UPDATE COMMUNITY_BOARD
 		SET
 		CMNT_CNT = CMNT_CNT + 1
@@ -47,7 +47,7 @@
 
 <!-- 커뮤니티 등록 -->
 	<insert id="insertCommunity" parameterType="CommunityVO">
-		<selectKey resultType="int" keyProperty="CMNT_NO" order="BEFORE">
+		<selectKey resultType="String" keyProperty="CMNT_NO" order="BEFORE">
 			SELECT 'CMNT' || LPAD(COMMUNITY_SEQ.NECTVAL, 5, '0') FROM DUAL
 		</selectKey>
 		INSERT INTO COMMUNITY_BOARD (
@@ -89,7 +89,7 @@
 <!-- 커뮤니티 수정 끝-->
 
 <!-- 커뮤니티 삭제 -->
-	<update id="deleteCommunity" parameterType="int">
+	<update id="deleteCommunity" parameterType="String">
 		UPDATE COMMUNITY_BOARD
 		SET
 			CMNT_DEL = 'Y'

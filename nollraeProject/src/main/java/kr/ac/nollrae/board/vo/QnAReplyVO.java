@@ -8,7 +8,7 @@ public class QnAReplyVO implements Serializable{
 	//답변번호
 	private int qrepNo;
 	//게시글 번호
-	private int qnaNo;
+	private String qnaNo;
 	//답변일자
 	private String qrepDt;
 	//답변내용
@@ -22,11 +22,11 @@ public class QnAReplyVO implements Serializable{
 		this.qrepNo = qrepNo;
 	}
 	
-	public int getQnaNo() {
+	public String getQnaNo() {
 		return qnaNo;
 	}
 	
-	public void setQnaNo(int qnaNo) {
+	public void setQnaNo(String qnaNo) {
 		this.qnaNo = qnaNo;
 	}
 	

@@ -6,7 +6,7 @@ public class CouponVO implements Serializable{
 	//COUPON TABLE
 	
 	//쿠폰번호
-	private int cpnNo;
+	private String cpnNo;
 	//쿠폰명
 	private String cpnNm;
 	//할인률
@@ -22,11 +22,11 @@ public class CouponVO implements Serializable{
 	
 	private CouponListVO couponList;
 
-	public int getCpnNo() {
+	public String getCpnNo() {
 		return cpnNo;
 	}
 
-	public void setCpnNo(int cpnNo) {
+	public void setCpnNo(String cpnNo) {
 		this.cpnNo = cpnNo;
 	}
 
@@ -85,5 +85,5 @@ public class CouponVO implements Serializable{
 	public void setCouponList(CouponListVO couponList) {
 		this.couponList = couponList;
 	}
-	
+
 }

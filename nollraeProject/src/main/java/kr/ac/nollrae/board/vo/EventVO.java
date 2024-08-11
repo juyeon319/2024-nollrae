@@ -6,7 +6,7 @@ public class EventVO implements Serializable{
 	//EVENT_BOARD TABLE
 	
 	//게시글 번호
-	private int evtNo;
+	private String evtNo;
 	//게시글 제목
 	private String evtTitle;
 	//게시글 내용
@@ -22,11 +22,11 @@ public class EventVO implements Serializable{
 	//삭제여부
 	private String evtDel;
 	
-	public int getEvtNo() {
+	public String getEvtNo() {
 		return evtNo;
 	}
 	
-	public void setEvtNo(int evtNo) {
+	public void setEvtNo(String evtNo) {
 		this.evtNo = evtNo;
 	}
 	

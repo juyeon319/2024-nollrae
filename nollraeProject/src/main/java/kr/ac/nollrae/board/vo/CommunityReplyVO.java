@@ -8,7 +8,7 @@ public class CommunityReplyVO implements Serializable{
 	//댓글번호
 	private int rpNo;
 	//게시글 번호
-	private int cmntNo;
+	private String cmntNo;
 	//게스트 아이디
 	private String gstId;
 	//댓글내용
@@ -28,11 +28,11 @@ public class CommunityReplyVO implements Serializable{
 		this.rpNo = rpNo;
 	}
 	
-	public int getCmntNo() {
+	public String getCmntNo() {
 		return cmntNo;
 	}
 	
-	public void setCmntNo(int cmntNo) {
+	public void setCmntNo(String cmntNo) {
 		this.cmntNo = cmntNo;
 	}
 	
@@ -75,5 +75,5 @@ public class CommunityReplyVO implements Serializable{
 	public void setRpRep(String rpRep) {
 		this.rpRep = rpRep;
 	}
-	
+
 }

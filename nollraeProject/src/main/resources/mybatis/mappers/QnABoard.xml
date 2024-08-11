@@ -18,7 +18,7 @@
 <!-- list 조회 끝-->
 
 <!-- 상세조회 -->
-	<select id="selectQnA" parameterType="int">
+	<select id="selectQnA" parameterType="String">
 		SELECT 
 			QNA_NO
 			, GST_ID
@@ -32,7 +32,7 @@
 
 <!-- QnA등록 -->
 	<insert id="insertQnA" parameterType="QnAVO">
-		<selectKey resultType="int" keyProperty="QNA_NO" order="BEFORE">
+		<selectKey resultType="String" keyProperty="QNA_NO" order="BEFORE">
 			SELECT 'QNA' || LPAD(QNA_SEQ.NECTVAL, 5, '0') FROM DUAL
 		</selectKey>
 		INSERT INTO QNA_BOARD (
@@ -66,7 +66,7 @@
 <!-- QnA수정 끝-->
 
 <!-- QnA삭제 -->
-	<update id="deleteQnA" parameterType="int">
+	<update id="deleteQnA" parameterType="String">
 		UPDATE QNA_BOARD
 		SET 
 			QNA_DEL = 'Y'

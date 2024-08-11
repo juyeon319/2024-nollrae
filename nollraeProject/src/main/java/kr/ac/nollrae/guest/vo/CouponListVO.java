@@ -4,7 +4,7 @@ public class CouponListVO {
 	//GUEST_COUPON_LIST TABLE
 	
 	//쿠폰번호
-	private int cpnNo;
+	private String cpnNo;
 	//게스트아이디
 	private String gstId;
 	//쿠폰 발급일자
@@ -12,11 +12,11 @@ public class CouponListVO {
 	//쿠폰 사용여부
 	private String gclUse;
 	
-	public int getCpnNo() {
+	public String getCpnNo() {
 		return cpnNo;
 	}
 	
-	public void setCpnNo(int cpnNo) {
+	public void setCpnNo(String cpnNo) {
 		this.cpnNo = cpnNo;
 	}
 	

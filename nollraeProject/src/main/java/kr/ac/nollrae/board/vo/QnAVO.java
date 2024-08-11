@@ -6,7 +6,7 @@ public class QnAVO implements Serializable{
 	//QNA_BOARD TABLE
 	
 	//게시글 번호
-	private int qnaNo;
+	private String qnaNo;
 	//게스트 아이디
 	private String gstId;
 	//게시글 제목
@@ -20,11 +20,11 @@ public class QnAVO implements Serializable{
 	//답변여부
 	private String qnaReplyAt;
 	
-	public int getQnaNo() {
+	public String getQnaNo() {
 		return qnaNo;
 	}
 	
-	public void setQnaNo(int qnaNo) {
+	public void setQnaNo(String qnaNo) {
 		this.qnaNo = qnaNo;
 	}
 	
