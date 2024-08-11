@@ -20,6 +20,8 @@ public class QnAVO implements Serializable{
 	//답변여부
 	private String qnaReplyAt;
 	
+	private QnAReplyVO qnaReply;
+	
 	public String getQnaNo() {
 		return qnaNo;
 	}
