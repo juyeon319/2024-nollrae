@@ -22,7 +22,7 @@ public class QnAController {
 	
 
 	@GetMapping("qnaList")
-	public String qnaList(QnAVO vo, Model model, HttpServletRequest request) {
+	public String qnaList(QnAVO vo, Model model, HttpServletRequest request) throws Exception {
 		List<QnAVO> qnaList = service.selectQnAList(vo);
 		model.addAttribute("qnaList", qnaList);
 		
