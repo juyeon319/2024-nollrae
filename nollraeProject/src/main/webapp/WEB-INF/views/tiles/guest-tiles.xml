@@ -2,13 +2,21 @@
 <!DOCTYPE tiles-definitions PUBLIC
        "-//Apache Software Foundation//DTD Tiles Configuration 3.0//EN"
        "http://tiles.apache.org/dtds/tiles-config_3_0.dtd">
+       
 <tiles-definitions>
 	<definition name="guestTiles" template="/WEB-INF/views/templates/guestTemplate.jsp">
-		<put-attribute name="title" value="놀러올래" />
-		<put-attribute name="postScript"  value="/WEB-INF/views/includee/postScript.jsp" />
-		<put-attribute name="preScript" value="/WEB-INF/views/includee/preScript.jsp" />
-		<put-attribute name="guestHeader" value="/WEB-INF/views/includee/guestHeader.jsp" />
-		<put-attribute name="footer" value="/WEB-INF/views/includee/footer.jsp" />
+		<put-attribute name="title" value="놀러올래"/>
+		<put-attribute name="postScript" value="/WEB-INF/views/includee/postScript.jsp"/>
+		<put-attribute name="preScript" value="/WEB-INF/views/includee/preScript.jsp"/>
+		<put-attribute name="guestHeader" value="/WEB-INF/views/includee/guestHeader.jsp"/>
+		<put-attribute name="guestFooter" value="/WEB-INF/views/includee/guestFooter.jsp"/>
 	</definition>
 	
+	<definition name="guestIndex" extends="guestTiles">
+		<put-attribute name="content" value="/WEB-INF/views/guest/guestIndex.jsp"/>
+	</definition>
+	
+	<definition name="guest/**" extends="guestTiles">
+		<put-attribute name="content" value="/WEB-INF/views/guest/{1}.jsp"/>
+	</definition>
 </tiles-definitions>
