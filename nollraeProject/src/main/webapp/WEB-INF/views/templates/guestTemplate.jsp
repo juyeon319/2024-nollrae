@@ -10,9 +10,6 @@
 
 <tiles:insertAttribute name="preScript"/>
 
-<style type="text/css">
-</style>
-
 <!-- GUEST CSS -->
 <link href="<%=request.getContextPath()%>/resources/css/guestFooter.css" rel="stylesheet">
 <link href="<%=request.getContextPath()%>/resources/css/b2a5c0500639968f.css" rel="stylesheet">
@@ -24,9 +21,7 @@
 <div id="__next">
 	<!-- GUEST HEADER(guestHeader.jsp, guest-tiles.xml) -->
 	<header class="css-b8sb6r">
-		<div class="css-p3zanw">
-			<tiles:insertAttribute name="guestHeader"/>
-		</div>
+		<tiles:insertAttribute name="guestHeader"/>
 	</header>
 
 	<!-- GUEST CONTENT(guest-tiles.xml) -->
