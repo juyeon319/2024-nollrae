@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "https://mybatis.org/dtd/mybatis-3-mapper.dtd">
 <mapper namespace="kr.ac.nollrae.board.dao.QnADAO">
-	<resultMap type="QnAVO" id="qnaMap" autoMapping="true">
+	<resultMap type="QnAVO" id="qnaMap">
 	    <id property="qnaNo" column="QNA_NO"/>
-	    <association property="qnaReply" javaType="QnAReplyVO" autoMapping="true">
+	    <association property="qnaReply" javaType="QnAReplyVO">
 	        <id property="qrepNo" column="QREP_NO"/>
+	        <result property="qrepContent" column="QREP_CONTENT"/>
+	        <result property="qrepDt" column="QREP_DT"/>
 	    </association>
 	</resultMap>
 <!-- 페이징+파일첨부 추가해야됨(관리자는 삭제된 문의글을 볼 수 있다?, 답변삭제는 상의), QnA테이블에 컬럼추가(분류) -->
 <!-- https://help.wisa.co.kr/document/article/1415 -->
 <!-- ==================================GUEST================================== -->
 <!-- (문의+답변) 리스트 조회(아코디언게시판) -->
-	<select id="selectQnAList" resultType="QnAVO">
+	<select id="selectQnAList" resultMap="qnaMap">
 	    SELECT 
-	        QNA_NO
-	        , GST_ID
-	        , QNA_TITLE
-	        , QNA_CONTENT
-	        , QNA_DATE
-	        , QNA_REPLY_AT
-	    FROM QNA_BOARD 
-	    WHERE GST_ID = 'user123'
-	      AND QNA_DEL = 'N'
-	    ORDER BY QNA_NO ASC
-	</select>
-	
-	<select id="selectQnAReply" resultType="QnAReplyVO">
-		SELECT
-			
+	        A.QNA_NO
+	        , A.GST_ID
+	        , A.QNA_TITLE
+	        , A.QNA_CONTENT
+	        , A.QNA_DATE
+	        , A.QNA_REPLY_AT
+	        , B.QREP_NO
+	        , B.QREP_CONTENT
+	    FROM QNA_BOARD A
+	    		LEFT JOIN QNA_REPLY B ON A.QNA_NO = B.QNA_NO
+	    WHERE A.GST_ID = #{gstId}
+	      AND A.QNA_DEL = 'N'
+	    ORDER BY A.QNA_NO ASC
 	</select>
 
 <!-- 문의글 등록 -->

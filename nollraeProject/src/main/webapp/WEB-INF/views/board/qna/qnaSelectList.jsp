@@ -17,7 +17,7 @@
 			<c:set var="qnaList" value="${qnaList }" />
 				<c:if test="${empty qnaList }">
 					<tr>
-						<td colspan="4">글없음</td>
+						<td colspan="3">글없음</td>
 					</tr>
 				</c:if>
 				<c:if test="${not empty qnaList }">

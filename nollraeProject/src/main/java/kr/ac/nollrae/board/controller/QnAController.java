@@ -20,20 +20,12 @@ public class QnAController {
 	@Autowired
 	private QnAService service;
 	
-	//문의+답변 조회
-	@GetMapping("qna")
+
+	@GetMapping("qnaList")
 	public String qnaList(QnAVO vo, Model model, HttpServletRequest request) throws Exception {
 		List<QnAVO> qnaList = service.selectQnAList(vo);
 		model.addAttribute("qnaList", qnaList);
 		
 		return "board/qna/qnaSelectList";
 	}
-	
-	//문의 등록/수정
-//	@GetMapping("qnaRegist")
-//	public String qnaRegist(QnAVO vo, Model model, HttpServletRequest request) {
-//	}
-	
-	//
-	
 }
