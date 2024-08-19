@@ -11,10 +11,14 @@
 <tiles:insertAttribute name="preScript"/>
 
 <!-- GUEST CSS -->
+<link href="<%=request.getContextPath()%>/resources/css/969f60bdd3700d13d4b9df8937fcc8745bbfa45b.css" rel="stylesheet">
+<link href="<%=request.getContextPath()%>/resources/css/d38a9d874d4c4bac6c489442cef0c7135425d51c.css" rel="stylesheet">
+<link href="<%=request.getContextPath()%>/resources/css/dc32f6b7.b9ca6854.chunk.css" rel="stylesheet">
+<link href="<%=request.getContextPath()%>/resources/css/bui-react-10.fbd3f9fd.css" rel="stylesheet">
+<link href="<%=request.getContextPath()%>/resources/css/bui-react-10.76b1441a.css" rel="stylesheet">
 
 </head>
 <body>
-<div id="__next">
 	<!-- GUEST HEADER(guestHeader.jsp, guest-tiles.xml) -->
 	<header class="css-b8sb6r">
 		<tiles:insertAttribute name="guestHeader"/>
@@ -31,7 +35,6 @@
 	</footer>
 
 	<tiles:insertAttribute name="postScript"/>
-</div>
 </body>
 </html>
 

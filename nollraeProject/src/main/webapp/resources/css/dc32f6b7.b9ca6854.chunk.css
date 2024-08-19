@@ -1,0 +1,191 @@
+@charset "UTF-8";
+.f5f314ceb7 {
+    margin: calc(var(--bui_spacing_3x) * -1);
+    padding: var(--bui_spacing_2x)
+}
+
+.f5f314ceb7 svg {
+    height: 100%!important
+}
+
+.ed48377b0e {
+    vertical-align: text-top;
+    margin-inline-start:var(--bui_spacing_2x)}
+
+.a9e515e1b4 {
+    position: relative;
+    margin-block-end:calc(var(--bui_spacing_6x) * -1);z-index: 1
+}
+
+.b284c0e8fc {
+    color: var(--bui_color_foreground_alt)
+}
+
+.ff010e9651 {
+    text-align: center;
+    white-space: nowrap;
+    width: var(--bui_spacing_6x)
+}
+
+.e3384a96ee {
+    color: inherit
+}
+
+.d5955615f7 li,.d5955615f7 ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none
+}
+
+.d5955615f7 {
+    padding-top: var(--bui_spacing_1x);
+    padding-bottom: calc(var(--bui_spacing_1x) * 20)
+}
+
+.c94ca31a4b {
+    margin-left: calc(var(--bui_spacing_3x) * -1);
+    margin-right: calc(var(--bui_spacing_3x) * -1)
+}
+
+.f7411e05ae {
+    unicode-bidi: plaintext
+}
+
+.af9e75504b {
+    width: auto
+}
+
+.bfed7cce9c {
+    padding: var(--bui_spacing_4x) var(--bui_spacing_6x) var(--bui_spacing_3x)
+}
+
+.c077112451 {
+    border: var(--bui_border_width_100) solid var(--bui_color_border_alt)
+}
+
+.d422645d7d li,.d422645d7d ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none
+}
+
+.d422645d7d {
+    padding-top: var(--bui_spacing_1x);
+    padding-bottom: calc(var(--bui_spacing_1x) * 20)
+}
+
+.cdd10e4d41 {
+    padding: var(--bui_spacing_4x) var(--bui_spacing_6x) var(--bui_spacing_3x)
+}
+
+.de5aa22313 img {
+    width: 150px
+}
+
+.e38e133b6c {
+    padding-top: var(--bui_spacing_1x);
+    padding-bottom: calc(var(--bui_spacing_1x) * 20)
+}
+
+.e38e133b6c a:link {
+    font-weight: 400;
+    text-decoration: none
+}
+
+.e38e133b6c button {
+    font-weight: 400!important
+}
+
+.ae6a73553a li,.ae6a73553a ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none
+}
+
+.ae6a73553a {
+    padding-top: var(--bui_spacing_1x);
+    padding-bottom: calc(var(--bui_spacing_1x) * 20)
+}
+
+.aed9883b9c {
+    color: var(--bui_color_accent_foreground)
+}
+
+.e7d24f4b9c {
+    text-align: left
+}
+
+.a9c8d97293 {
+    background: var(--bui_color_brand_primary_background_dynamic);
+    color: var(--bui_color_on_brand_primary_background_dynamic);
+    padding: var(--bui_spacing_2x) 0 0
+}
+
+.a9c8d97293.de2ad2bd66 {
+    background: transparent;
+    color: var(--bui_color_white)
+}
+
+.eb050df602 {
+    display: flex;
+    align-items: center;
+    padding-bottom: var(--bui_spacing_2x)
+}
+
+.d69a7204f0 {
+    padding: 0 0 var(--bui_spacing_2x)
+}
+
+.eeea03db70 {
+    flex-grow: 1;
+    padding: var(--bui_spacing_2x) var(--bui_spacing_4x) var(--bui_spacing_2x) 0
+}
+
+.f08d8a10c7 img,.f08d8a10c7 svg {
+    display: block;
+    height: calc(var(--bui_spacing_1x) * 5)
+}
+
+@media (min-width: 1024px) {
+    .f08d8a10c7 img,.f08d8a10c7 svg {
+        height:calc(var(--bui_spacing_1x) * 6)
+    }
+
+    .eb050df602,.d69a7204f0 {
+        margin: 0 auto;
+        box-sizing: border-box
+    }
+
+    .eb050df602 {
+        padding: var(--bui_spacing_1x) var(--bui_spacing_4x) var(--bui_spacing_2x)
+    }
+
+    .d69a7204f0 {
+        padding-bottom: var(--bui_spacing_3x)
+    }
+}
+
+.b5d045ac2b {
+    background-color: #fff
+}
+
+.web-shell-header-mfe a:active,.web-shell-header-mfe a:hover,.web-shell-header-mfe a:link,.web-shell-header-mfe a:visited {
+    font-weight: 500
+}
+
+[data-testid=header-mobile-menu-modal] a:active,[data-testid=header-mobile-menu-modal] a:hover,[data-testid=header-mobile-menu-modal] a:link,[data-testid=header-mobile-menu-modal] a:visited,[data-testid=header-mobile-profile-modal] a:active,[data-testid=header-mobile-profile-modal] a:hover,[data-testid=header-mobile-profile-modal] a:link,[data-testid=header-mobile-profile-modal] a:visited,[data-testid=header-profile-menu] a:active,[data-testid=header-profile-menu] a:hover,[data-testid=header-profile-menu] a:link,[data-testid=header-profile-menu] a:visited {
+    color: var(--bui_color_foreground);
+    font-weight: 400;
+    text-decoration: none
+}
+
+[data-testid=header-mobile-menu-currency-picker-modal] button,[data-testid=header-mobile-menu-language-picker-modal] button,[data-testid=header-mobile-menu-modal] button,[data-testid=header-mobile-profile-modal] button {
+    font-weight: 400!important
+}
+
+[data-testid=header-mobile-menu-currency-picker-modal] h2,[data-testid=header-mobile-menu-language-picker-modal] h2,[data-testid=header-mobile-menu-modal] h2 {
+    padding-top: 0;
+    padding-left: 0
+}
+
+/*# sourceMappingURL=https://istatic.booking.com/internal-static/capla/static/css/dc32f6b7.b9ca6854.chunk.css.map*/
