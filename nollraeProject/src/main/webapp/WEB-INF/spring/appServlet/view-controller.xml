@@ -27,7 +27,7 @@
 		<mvc:view-controller path="/hostSignUp.do" view-name="auth/host/hostSignUp"/>
 	<!-- 아이디/비밀번호 찾기 -->
 		<mvc:view-controller path="/findId.do" view-name="auth/findId"/>
-		<mvc:view-controller path="/findPw.do" view-name="auth/findPw"/>
+		<mvc:view-controller path="auth/findPw.do" view-name="auth/findPw"/>
 	<!-- 회원정보수정/탈퇴 -->
 		<!-- 호스트 -->
 		<mvc:view-controller path="/hostInfo.do" view-name="auth/host/hostInfo"/>
