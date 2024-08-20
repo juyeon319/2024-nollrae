@@ -13,9 +13,11 @@
                            http://mybatis.org/schema/mybatis-spring 
                            http://mybatis.org/schema/mybatis-spring.xsd">
 <!-- 공통 -->
+	<!-- 플랫폼/사이트 로그인 -->
+	<mvc:view-controller path="auth/login.do" view-name="auth/login"/>
 	<!-- 로그인 -->
 		<!-- 게스트 -->
-		<mvc:view-controller path="/guestLogin.do" view-name="auth/guest/guestLogin"/>
+		<mvc:view-controller path="auth/guest/login.do" view-name="auth/guest/guestLogin"/>
 		<!-- 호스트 -->
 		<mvc:view-controller path="/hostLogin.do" view-name="auth/host/hostLogin"/>
 	<!-- 회원가입 -->

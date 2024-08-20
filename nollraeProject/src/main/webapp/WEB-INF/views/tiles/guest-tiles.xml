@@ -19,4 +19,13 @@
 	<definition name="guest/**" extends="guestTiles">
 		<put-attribute name="content" value="/WEB-INF/views/guest/{1}.jsp"/>
 	</definition>
+
+	<definition name="auth/**" extends="guestTiles">
+		<put-attribute name="content" value="/WEB-INF/views/auth/{1}.jsp"/>
+	</definition>
+
+	<definition name="auth/guest/**" extends="guestTiles">
+		<put-attribute name="content" value="/WEB-INF/views/auth/guest/{1}.jsp"/>
+	</definition>
+
 </tiles-definitions>
