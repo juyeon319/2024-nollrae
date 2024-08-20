@@ -21,8 +21,10 @@
 		<!-- 호스트 -->
 		<mvc:view-controller path="/hostLogin.do" view-name="auth/host/hostLogin"/>
 	<!-- 회원가입 -->
+		<!-- 공통 -->
+		<mvc:view-controller path="auth/agree.do" view-name="auth/agree"/>
 		<!-- 게스트 -->
-		<mvc:view-controller path="/guestSignUp.do" view-name="auth/guest/guestSignUp"/>
+		<mvc:view-controller path="auth/guest/signUp.do" view-name="auth/guest/guestSignUp"/>
 		<!-- 호스트 -->
 		<mvc:view-controller path="/hostSignUp.do" view-name="auth/host/hostSignUp"/>
 	<!-- 아이디/비밀번호 찾기 -->
