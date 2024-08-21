@@ -36,22 +36,22 @@
 	
 <!-- 게시판 -->
 	<!-- 공지사항 -->
-	<mvc:view-controller path="/noticeSelectList.do" view-name="board/notice/noticeSelectList"/>
-	<mvc:view-controller path="/noticeSelect.do" view-name="board/notice/noticeSelect"/>
-	<mvc:view-controller path="/noticeRegist.do" view-name="board/notice/noticeRegist"/>
+	<mvc:view-controller path="border/noticeSelectList.do" view-name="board/notice/noticeSelectList"/>
+	<mvc:view-controller path="border/noticeSelect.do" view-name="board/notice/noticeSelect"/>
+	<mvc:view-controller path="border/noticeRegist.do" view-name="board/notice/noticeRegist"/>
 	<!-- 이벤트 -->
-	<mvc:view-controller path="/eventSelectList.do" view-name="board/event/eventSelectList"/>
-	<mvc:view-controller path="/eventSelect.do" view-name="board/event/eventSelect"/>
-	<mvc:view-controller path="/eventRegist.do" view-name="board/event/eventRegist"/>
+	<mvc:view-controller path="border/eventSelectList.do" view-name="board/event/eventSelectList"/>
+	<mvc:view-controller path="border/eventSelect.do" view-name="board/event/eventSelect"/>
+	<mvc:view-controller path="border/eventRegist.do" view-name="board/event/eventRegist"/>
 	<!-- QnA -->
-	<mvc:view-controller path="/qnaSelectList.do" view-name="board/qna/qnaSelectList"/>
-	<mvc:view-controller path="/qnaSelect.do" view-name="board/qna/qnaSelect"/>
-	<mvc:view-controller path="/qnaRegist.do" view-name="board/qna/qnaRegist"/>
+	<mvc:view-controller path="border/qnaSelectList.do" view-name="board/qna/qnaSelectList"/>
+	<mvc:view-controller path="border/qnaSelect.do" view-name="board/qna/qnaSelect"/>
+	<mvc:view-controller path="border/qnaRegist.do" view-name="board/qna/qnaRegist"/>
 	<!-- 커뮤니티 -->
-	<mvc:view-controller path="/communitySelectArea.do" view-name="board/community/communitySelectArea"/>
-	<mvc:view-controller path="/communitySelectList.do" view-name="board/community/communitySelectList"/>
-	<mvc:view-controller path="/communitySelect.do" view-name="board/community/communitySelect"/>
-	<mvc:view-controller path="/communityRegist.do" view-name="board/community/communityRegist"/>
+	<mvc:view-controller path="border/communitySelectArea.do" view-name="board/community/communitySelectArea"/>
+	<mvc:view-controller path="border/communitySelectList.do" view-name="board/community/communitySelectList"/>
+	<mvc:view-controller path="border/communitySelect.do" view-name="board/community/communitySelect"/>
+	<mvc:view-controller path="border/communityRegist.do" view-name="board/community/communityRegist"/>
 
 <!-- 게스트 -->
 	<!-- 숙소예약 -->
