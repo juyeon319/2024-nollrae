@@ -28,8 +28,8 @@
 		<put-attribute name="content" value="/WEB-INF/views/auth/guest/{1}.jsp"/>
 	</definition>
 
-	<definition name="border/**" extends="guestTiles">
-		<put-attribute name="content" value="/WEB-INF/views/board/**/{1}.jsp"/>
+	<definition name="board/notice/**" extends="guestTiles">
+		<put-attribute name="content" value="/WEB-INF/views/board/notice/{1}.jsp"/>
 	</definition>
 
 </tiles-definitions>

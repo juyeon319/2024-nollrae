@@ -1,8 +1,8 @@
 header {
-  position: sticky;
-  top: 0px; /* 도달했을때 고정시킬 위치 */
-  padding: 5px;
-  z-index: 10;
+    position: sticky;
+    top: 0px;
+    padding: 0px 5px;
+    z-index: 10;
 }
 
 .member-panel-wrapper .profile .company[data-v-cc306bbc] {

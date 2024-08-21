@@ -1,0 +1,274 @@
+* {
+    -webkit-font-smoothing: antialiased;
+    /*-moz-osx-font-smoothing: grayscale;*/
+}
+a, input, button, div, li, textarea, form, label, select {
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+:root {
+    --side-menu__z-index: 999;
+}
+body * ::-webkit-scrollbar {
+    width: 16px;
+}
+body * ::-webkit-scrollbar-thumb {
+    width: 8px;
+    border: 4px solid #ffffff;
+    border-radius: 8px;
+    --tw-bg-opacity: 1;
+    background-color: rgb(235 235 235 / var(--tw-bg-opacity));
+}
+body * ::-webkit-scrollbar-track {
+    background-color: transparent;
+}
+@media (max-width: 911.98px) {
+    .css-1621qh5 {
+        width: 100%;
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 8px;
+    }
+}
+.css-1621qh5 {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 894px;
+    padding-top: 20px;
+    padding-bottom: 96px;
+}
+.css-6dsmwj {
+    padding-top: 16px;
+    padding-bottom: 20px;
+}
+@media (max-width: 911.98px) {
+    a, input, button, div, li, textarea, form, label, select {
+        outline: 2px solid transparent;
+        outline-offset: 2px;
+        outline-width: 0px;
+    }
+}
+.css-117epsa {
+    margin-top: 2px;
+    margin-bottom: 2px;
+    font-size: 1.5rem;
+    line-height: normal;
+    letter-spacing: 0px;
+    font-weight: 700;
+    --tw-text-opacity: 1;
+    color: rgb(51 51 51 / var(--tw-text-opacity));
+}
+.css-1cjo2yk {
+    margin-top: 4px;
+    font-size: 1rem;
+    line-height: 1.5rem;
+    letter-spacing: 0px;
+    --tw-text-opacity: 1;
+    color: rgb(153 153 153 / var(--tw-text-opacity));
+}
+.css-1b8ghid {
+    width: 100%;
+    overflow: hidden;
+    background-color: rgb(255, 255, 255);
+}
+@media (min-width: 912px) {
+    a, input, button, div, li, textarea, form, label, select {
+        outline: 2px solid transparent;
+        outline-offset: 2px;
+    }
+}
+@media (min-width: 912px) {
+    .css-e5cbkg {
+        display: flex;
+    }
+}
+.css-e5cbkg {
+    cursor: pointer;
+    flex-direction: row;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    --tw-border-opacity: 1;
+    border-color: rgb(235 235 235 / var(--tw-border-opacity));
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+@media (min-width: 912px) {
+    .css-1hgvqv2 {
+        display: flex;
+    }
+}
+.css-1hgvqv2 {
+    -webkit-box-align: center;
+    align-items: center;
+}
+.css-6q8663 {
+    display: inline-block;
+    min-width: 42px;
+}
+.css-6q8663 .gc-tag {
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+}
+.css-bm68df {
+/*    display: flex;
+    -webkit-box-align: center;
+    align-items: center;*/
+    -webkit-box-pack: center;
+    justify-content: center;
+    white-space: nowrap;
+    font-weight: 700;
+    --tw-bg-opacity: 1;
+    background-color: rgb(255 235 235 / var(--tw-bg-opacity));
+    --tw-text-opacity: 1;
+    color: rgb(244 88 88 / var(--tw-text-opacity));
+    border-radius: 2px;
+    padding: 1.5px 4px;
+    font-size: 0.5625rem;
+    line-height: normal;
+    letter-spacing: 0px;
+    height: 14px;
+}
+.css-iul3il {
+    width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.css-bm68df {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    white-space: nowrap;
+    font-weight: 700;
+    --tw-bg-opacity: 1;
+    background-color: rgb(255 235 235 / var(--tw-bg-opacity));
+    --tw-text-opacity: 1;
+    color: rgb(244 88 88 / var(--tw-text-opacity));
+    border-radius: 2px;
+    padding: 1.5px 4px;
+    font-size: 0.5625rem;
+    line-height: normal;
+    letter-spacing: 0px;
+    height: 14px;
+}
+.css-r6g00 {
+    -webkit-line-clamp: 2;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    font-size: 1rem;
+    line-height: 1.5rem;
+    letter-spacing: 0px;
+    font-weight: 600;
+    --tw-text-opacity: 1;
+    color: rgb(51 51 51 / var(--tw-text-opacity));
+}
+.css-1t9h5va {
+    margin-left: 4px;
+    display: inline-block;
+    height: 4px;
+    width: 4px;
+    border-radius: 50%;
+    --tw-bg-opacity: 1;
+    background-color: rgb(235 66 66 / var(--tw-bg-opacity));
+    vertical-align: top;
+}
+.css-1ph4msk {
+    font-size: 0.8125rem;
+    line-height: 1.25rem;
+    letter-spacing: 0px;
+    --tw-text-opacity: 1;
+    color: rgb(194 194 194 / var(--tw-text-opacity));
+}
+.css-y1gt6f {
+    margin-top: 40px;
+}
+.css-tdk8um {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+}
+.css-tdk8um button:first-of-type {
+    margin-left: 0px;
+}
+.css-dv31e9:disabled {
+    cursor: not-allowed;
+}
+.css-dv31e9 {
+    height: 32px;
+    width: 32px;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    margin: 0px 4px;
+    border-radius: 500px;
+    /*cursor: pointer;*/
+}
+.css-tdk8um button:disabled svg {
+    fill: rgb(214, 214, 214);
+}
+.css-tdk8um button svg {
+    /*fill: rgb(51, 51, 51);*/
+}
+.css-9tsuhl {
+    height: 32px;
+    width: 32px;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    margin: 0px 4px;
+    border-radius: 500px;
+    cursor: pointer;
+    --tw-bg-opacity: 1;
+    background-color: rgb(18 115 228 / var(--tw-bg-opacity));
+    font-size: 0.75rem;
+    line-height: normal;
+    letter-spacing: 0px;
+    font-weight: 600;
+    color: rgb(255, 255, 255);
+}
+.css-1v52o0s {
+    height: 32px;
+    width: 32px;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    margin: 0px 4px;
+    border-radius: 500px;
+    cursor: pointer;
+    font-size: 0.75rem;
+    line-height: normal;
+    letter-spacing: 0px;
+    font-weight: 600;
+}
+.css-tdk8um button:last-of-type {
+    margin-right: 0px;
+}
+.css-dv31e9 {
+    height: 32px;
+    width: 32px;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    margin: 0px 4px;
+    border-radius: 500px;
+    cursor: pointer;
+}
+.css-tdk8um button svg {
+    fill: rgb(51, 51, 51);
+}
