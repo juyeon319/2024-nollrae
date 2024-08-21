@@ -1,3 +1,10 @@
+footer{
+    height: 100%;
+    position : relative;
+    transform : translateY(-100%);
+}
+
+
 .css-9qom1h {
     width: 100%;
     --tw-bg-opacity: 1;
@@ -6,6 +13,7 @@
 
 * {
     -webkit-font-smoothing: antialiased;
+
     -moz-osx-font-smoothing: grayscale;
 }
 
@@ -26,7 +34,7 @@ a, input, button, div, li, textarea, form, label, select {
     flex-direction: column;
     gap: 16px;
     padding-top: 50px;
-    padding-bottom: 64px;
+    padding-bottom: 50px;
     margin: auto;
 }
 
