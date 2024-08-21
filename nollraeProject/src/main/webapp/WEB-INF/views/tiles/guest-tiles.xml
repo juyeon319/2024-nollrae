@@ -5,7 +5,7 @@
        
 <tiles-definitions>
 	<definition name="guestTiles" template="/WEB-INF/views/templates/guestTemplate.jsp">
-		<put-attribute name="title" value="놀러올래"/>
+		<put-attribute name="title" value="놀러갈래"/>
 		<put-attribute name="postScript" value="/WEB-INF/views/includee/postScript.jsp"/>
 		<put-attribute name="preScript" value="/WEB-INF/views/includee/preScript.jsp"/>
 		<put-attribute name="guestHeader" value="/WEB-INF/views/includee/guestHeader.jsp"/>
