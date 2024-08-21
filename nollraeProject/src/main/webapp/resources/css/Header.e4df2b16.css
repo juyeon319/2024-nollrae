@@ -2,8 +2,6 @@ header {
   position: sticky;
   top: 0px; /* 도달했을때 고정시킬 위치 */
   padding: 5px;
-  background-color: gold;
-  border: 2px solid orange;
   z-index: 10;
 }
 
