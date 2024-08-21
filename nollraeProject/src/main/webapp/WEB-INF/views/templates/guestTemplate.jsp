@@ -5,6 +5,13 @@
 <html>
 <head>
 <meta charset="UTF-8">
+
+<style>
+	main {
+		margin-bottom: 100px;
+	}
+</style>
+
 <!-- TITLE(guest-tiles.xml) -->
 <title><tiles:getAsString name="title"/></title>
 
@@ -19,25 +26,22 @@
 <link href="<%=request.getContextPath()%>/resources/css/Header.e4df2b16.css" rel="stylesheet">
 <link href="<%=request.getContextPath()%>/resources/css/index.446d509f.css" rel="stylesheet">
 <link href="<%=request.getContextPath()%>/resources/css/index.f898286a.css" rel="stylesheet">
-
+<link href="<%=request.getContextPath()%>/resources/css/50cce34ba8e82948.css" rel="stylesheet">
+<link href="<%=request.getContextPath()%>/resources/css/b2a5c0500639968f.css" rel="stylesheet">
+<link href="<%=request.getContextPath()%>/resources/css/d5ffef77c62fd5ac.css" rel="stylesheet">
+<link href="<%=request.getContextPath()%>/resources/css/guestFooter.css" rel="stylesheet">
 
 </head>
 <body>
-<div id="__next">
+<div id="__nuxt">
 	<!-- GUEST HEADER(guestHeader.jsp, guest-tiles.xml) -->
-	<header class="css-b8sb6r">
 		<tiles:insertAttribute name="guestHeader"/>
-	</header>
 
 	<!-- GUEST CONTENT(guest-tiles.xml) -->
-	<main class="css-1xkde92">
 		<tiles:insertAttribute name="content"/>
-	</main>
 
 	<!-- GUEST FOOTER(guestFooter.jsp, guest-tiles.xml) -->
-	<footer class="css-9qom1h">
 		<tiles:insertAttribute name="guestFooter"/>
-	</footer>
 
 	<tiles:insertAttribute name="postScript"/>
 </div>
