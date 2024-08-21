@@ -31,6 +31,7 @@
 <link href="<%=request.getContextPath()%>/resources/css/d5ffef77c62fd5ac.css" rel="stylesheet">
 <link href="<%=request.getContextPath()%>/resources/css/guestFooter.css" rel="stylesheet">
 <link href="<%=request.getContextPath()%>/resources/css/notice.css" rel="stylesheet">
+<link href="<%=request.getContextPath()%>/resources/css/event.css" rel="stylesheet">
 
 </head>
 <body>

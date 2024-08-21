@@ -15,7 +15,7 @@
 	<definition name="guestIndex" extends="guestTiles">
 		<put-attribute name="content" value="/WEB-INF/views/guest/guestIndex.jsp"/>
 	</definition>
-	
+
 	<definition name="guest/**" extends="guestTiles">
 		<put-attribute name="content" value="/WEB-INF/views/guest/{1}.jsp"/>
 	</definition>
@@ -30,6 +30,10 @@
 
 	<definition name="board/notice/**" extends="guestTiles">
 		<put-attribute name="content" value="/WEB-INF/views/board/notice/{1}.jsp"/>
+	</definition>
+
+	<definition name="board/event/**" extends="guestTiles">
+		<put-attribute name="content" value="/WEB-INF/views/board/event/{1}.jsp"/>
 	</definition>
 
 </tiles-definitions>
