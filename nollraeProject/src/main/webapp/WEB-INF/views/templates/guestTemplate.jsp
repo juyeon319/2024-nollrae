@@ -32,10 +32,11 @@
 <link href="<%=request.getContextPath()%>/resources/css/guestFooter.css" rel="stylesheet">
 <link href="<%=request.getContextPath()%>/resources/css/notice.css" rel="stylesheet">
 <link href="<%=request.getContextPath()%>/resources/css/event.css" rel="stylesheet">
+<link href="<%=request.getContextPath()%>/resources/css/guestIndex.css" rel="stylesheet">
 
 </head>
 <body>
-<div id="__nuxt">
+<div id="__next">
 	<!-- GUEST HEADER(guestHeader.jsp, guest-tiles.xml) -->
 		<tiles:insertAttribute name="guestHeader"/>
 

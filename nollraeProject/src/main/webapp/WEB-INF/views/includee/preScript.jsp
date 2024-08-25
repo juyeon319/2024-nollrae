@@ -2,4 +2,4 @@
     pageEncoding="UTF-8"%>
 
 <!-- 파비콘(아이콘 수정하기) -->
-<link href="<%=request.getContextPath()%>/resources/images/파비콘6.png" type="image/x-icon" rel="icon">
+<link href="<%=request.getContextPath()%>/resources/images/파비콘8.png" type="image/x-icon" rel="icon">
