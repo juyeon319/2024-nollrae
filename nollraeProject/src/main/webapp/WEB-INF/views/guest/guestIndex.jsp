@@ -118,394 +118,15 @@
                                                                                              href="/event#HOT"><span>더보기</span></a>
             </div>
         </div>
-        <div class="css-1oiph1y">
+        <div class="css-1oiph1y"><span style="visibility: hidden;"></span>
             <div class="gc-indicator-carousel css-8u5eea">
                 <div class="swiper swiper-initialized swiper-horizontal swiper-pointer-events swiper-watch-progress"
                      aria-label="Slide Container">
                     <div class="swiper-wrapper" id="home-events-swiper" aria-live="off"
-                         style="transition-duration: 0ms; transform: translate3d(-5853px, 0px, 0px);">
-                        <div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="0" role="group"
-                             aria-label="Slide" style="margin-right: 12px;">
-                            <article role="presentation" class="home-event-banner css-e7lzfy"><a aria-label="전 세계 월클 할인"
-                                                                                                 class="css-ehfifb"
-                                                                                                 href="/event/3892?title=%EC%A0%84%20%EC%84%B8%EA%B3%84%20%EC%9B%94%ED%81%B4%20%ED%95%A0%EC%9D%B8&amp;url=https://api3.goodchoice.kr/event3/web/adEventView?aevno=3892">
-                                <div class="css-y6a1r7">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 106 18" width="94.21"
-                                         height="16" class="css-1ir6nbl">
-                                        <path d="M94.8 18V6.7c0-.4-.3-.8-.8-.8-.4 0-.8.3-.8.8V18h-5.1V5.9C88.1 2.6 90.8 0 94 0s5.9 2.6 5.9 5.9V18h-5.1zm-9.5-5.1h1.8V18H76.9c-2.3 0-4.1-1.8-4.1-4.1V4.1c0-2.3 1.8-4.1 4.1-4.1h10.2v5.1h-1.8v7.8zm-4.5 0V5.1H79c-.6 0-1 .5-1 1v5.7c0 .6.5 1 1 1l1.8.1zM19.4 3.3v-.7c0-1.4 1.1-2.6 2.5-2.6s2.5 1.2 2.5 2.6V18h-5.1v-3.3h-3.5c-1.6 2-4.1 3.3-6.9 3.3C4 18 0 14 0 9s4-9 8.9-9c2.8 0 5.3 1.3 6.9 3.3h3.6zM17.8 8c0 .3.1.7.1 1s0 .7-.1 1h1.6V8h-1.6zm-8.9 5.1c2.3 0 4.1-1.8 4.1-4.1s-1.8-4.1-4.1-4.1S4.8 6.7 4.8 9s1.9 4.1 4.1 4.1zM38.3 1.2c.7.7 1.2 1.8 1.2 2.9V18h-5.1V6.2c0-.6-.5-1-1-1h-5.6c-1.4 0-2.5-1.2-2.5-2.6S26.4 0 27.8 0h7.6c1.1 0 2.2.5 2.9 1.2zM43.1 0c1.4 0 2.5 1.2 2.5 2.6V18h-5.1V2.6c0-1.4 1.1-2.6 2.6-2.6zm23.1 6.4V2.6c0-1.4 1.1-2.6 2.5-2.6s2.5 1.2 2.5 2.6V18h-5.1v-6.4h-1.9c-1.1 3.7-4.5 6.4-8.5 6.4-4.9 0-8.9-4-8.9-9s4-9 8.9-9c4 0 7.4 2.7 8.5 6.4h2zm-10.4 6.7c2.3 0 4.1-1.8 4.1-4.1S58 4.9 55.8 4.9 51.7 6.7 51.7 9s1.8 4.1 4.1 4.1zm47.6 4.9c-1.4 0-2.5-1.2-2.5-2.6s1.1-2.6 2.5-2.6 2.5 1.2 2.5 2.6-1.1 2.6-2.5 2.6z"
-                                              fill="current"></path>
-                                    </svg>
-                                </div>
-                            </a></article>
-                        </div>
-                        <div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="1" role="group"
-                             aria-label="Slide" style="margin-right: 12px;">
-                            <article role="presentation" class="home-event-banner css-e7lzfy"><a aria-label="월클특가 오픈런"
-                                                                                                 class="css-ehfifb"
-                                                                                                 href="/event/3606?title=%EC%9B%94%ED%81%B4%ED%8A%B9%EA%B0%80%20%EC%98%A4%ED%94%88%EB%9F%B0&amp;url=https://api3.goodchoice.kr/event3/web/adEventView?aevno=3606">
-                                <div class="css-y6a1r7">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 106 18" width="94.21"
-                                         height="16" class="css-1ir6nbl">
-                                        <path d="M94.8 18V6.7c0-.4-.3-.8-.8-.8-.4 0-.8.3-.8.8V18h-5.1V5.9C88.1 2.6 90.8 0 94 0s5.9 2.6 5.9 5.9V18h-5.1zm-9.5-5.1h1.8V18H76.9c-2.3 0-4.1-1.8-4.1-4.1V4.1c0-2.3 1.8-4.1 4.1-4.1h10.2v5.1h-1.8v7.8zm-4.5 0V5.1H79c-.6 0-1 .5-1 1v5.7c0 .6.5 1 1 1l1.8.1zM19.4 3.3v-.7c0-1.4 1.1-2.6 2.5-2.6s2.5 1.2 2.5 2.6V18h-5.1v-3.3h-3.5c-1.6 2-4.1 3.3-6.9 3.3C4 18 0 14 0 9s4-9 8.9-9c2.8 0 5.3 1.3 6.9 3.3h3.6zM17.8 8c0 .3.1.7.1 1s0 .7-.1 1h1.6V8h-1.6zm-8.9 5.1c2.3 0 4.1-1.8 4.1-4.1s-1.8-4.1-4.1-4.1S4.8 6.7 4.8 9s1.9 4.1 4.1 4.1zM38.3 1.2c.7.7 1.2 1.8 1.2 2.9V18h-5.1V6.2c0-.6-.5-1-1-1h-5.6c-1.4 0-2.5-1.2-2.5-2.6S26.4 0 27.8 0h7.6c1.1 0 2.2.5 2.9 1.2zM43.1 0c1.4 0 2.5 1.2 2.5 2.6V18h-5.1V2.6c0-1.4 1.1-2.6 2.6-2.6zm23.1 6.4V2.6c0-1.4 1.1-2.6 2.5-2.6s2.5 1.2 2.5 2.6V18h-5.1v-6.4h-1.9c-1.1 3.7-4.5 6.4-8.5 6.4-4.9 0-8.9-4-8.9-9s4-9 8.9-9c4 0 7.4 2.7 8.5 6.4h2zm-10.4 6.7c2.3 0 4.1-1.8 4.1-4.1S58 4.9 55.8 4.9 51.7 6.7 51.7 9s1.8 4.1 4.1 4.1zm47.6 4.9c-1.4 0-2.5-1.2-2.5-2.6s1.1-2.6 2.5-2.6 2.5 1.2 2.5 2.6-1.1 2.6-2.5 2.6z"
-                                              fill="current"></path>
-                                    </svg>
-                                </div>
-                            </a></article>
-                        </div>
-                        <div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="2" role="group"
-                             aria-label="Slide" style="margin-right: 12px;">
-                            <article role="presentation" class="home-event-banner css-e7lzfy"><a aria-label="베스트 호텔딜"
-                                                                                                 class="css-ehfifb"
-                                                                                                 href="/event/3608?title=%EB%B2%A0%EC%8A%A4%ED%8A%B8%20%ED%98%B8%ED%85%94%EB%94%9C&amp;url=https://api3.goodchoice.kr/event3/web/adEventView?aevno=3608">
-                                <div class="css-y6a1r7">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 106 18" width="94.21"
-                                         height="16" class="css-1ir6nbl">
-                                        <path d="M94.8 18V6.7c0-.4-.3-.8-.8-.8-.4 0-.8.3-.8.8V18h-5.1V5.9C88.1 2.6 90.8 0 94 0s5.9 2.6 5.9 5.9V18h-5.1zm-9.5-5.1h1.8V18H76.9c-2.3 0-4.1-1.8-4.1-4.1V4.1c0-2.3 1.8-4.1 4.1-4.1h10.2v5.1h-1.8v7.8zm-4.5 0V5.1H79c-.6 0-1 .5-1 1v5.7c0 .6.5 1 1 1l1.8.1zM19.4 3.3v-.7c0-1.4 1.1-2.6 2.5-2.6s2.5 1.2 2.5 2.6V18h-5.1v-3.3h-3.5c-1.6 2-4.1 3.3-6.9 3.3C4 18 0 14 0 9s4-9 8.9-9c2.8 0 5.3 1.3 6.9 3.3h3.6zM17.8 8c0 .3.1.7.1 1s0 .7-.1 1h1.6V8h-1.6zm-8.9 5.1c2.3 0 4.1-1.8 4.1-4.1s-1.8-4.1-4.1-4.1S4.8 6.7 4.8 9s1.9 4.1 4.1 4.1zM38.3 1.2c.7.7 1.2 1.8 1.2 2.9V18h-5.1V6.2c0-.6-.5-1-1-1h-5.6c-1.4 0-2.5-1.2-2.5-2.6S26.4 0 27.8 0h7.6c1.1 0 2.2.5 2.9 1.2zM43.1 0c1.4 0 2.5 1.2 2.5 2.6V18h-5.1V2.6c0-1.4 1.1-2.6 2.6-2.6zm23.1 6.4V2.6c0-1.4 1.1-2.6 2.5-2.6s2.5 1.2 2.5 2.6V18h-5.1v-6.4h-1.9c-1.1 3.7-4.5 6.4-8.5 6.4-4.9 0-8.9-4-8.9-9s4-9 8.9-9c4 0 7.4 2.7 8.5 6.4h2zm-10.4 6.7c2.3 0 4.1-1.8 4.1-4.1S58 4.9 55.8 4.9 51.7 6.7 51.7 9s1.8 4.1 4.1 4.1zm47.6 4.9c-1.4 0-2.5-1.2-2.5-2.6s1.1-2.6 2.5-2.6 2.5 1.2 2.5 2.6-1.1 2.6-2.5 2.6z"
-                                              fill="current"></path>
-                                    </svg>
-                                </div>
-                            </a></article>
-                        </div>
-                        <div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="3" role="group"
-                             aria-label="Slide" style="margin-right: 12px;">
-                            <article role="presentation" class="home-event-banner css-e7lzfy"><a
-                                    aria-label="추석 연휴 미리 예약 할인!" class="css-ehfifb"
-                                    href="/special-deal/P20240709152824362">
-                                <div class="css-y6a1r7">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 106 18" width="94.21"
-                                         height="16" class="css-1ir6nbl">
-                                        <path d="M94.8 18V6.7c0-.4-.3-.8-.8-.8-.4 0-.8.3-.8.8V18h-5.1V5.9C88.1 2.6 90.8 0 94 0s5.9 2.6 5.9 5.9V18h-5.1zm-9.5-5.1h1.8V18H76.9c-2.3 0-4.1-1.8-4.1-4.1V4.1c0-2.3 1.8-4.1 4.1-4.1h10.2v5.1h-1.8v7.8zm-4.5 0V5.1H79c-.6 0-1 .5-1 1v5.7c0 .6.5 1 1 1l1.8.1zM19.4 3.3v-.7c0-1.4 1.1-2.6 2.5-2.6s2.5 1.2 2.5 2.6V18h-5.1v-3.3h-3.5c-1.6 2-4.1 3.3-6.9 3.3C4 18 0 14 0 9s4-9 8.9-9c2.8 0 5.3 1.3 6.9 3.3h3.6zM17.8 8c0 .3.1.7.1 1s0 .7-.1 1h1.6V8h-1.6zm-8.9 5.1c2.3 0 4.1-1.8 4.1-4.1s-1.8-4.1-4.1-4.1S4.8 6.7 4.8 9s1.9 4.1 4.1 4.1zM38.3 1.2c.7.7 1.2 1.8 1.2 2.9V18h-5.1V6.2c0-.6-.5-1-1-1h-5.6c-1.4 0-2.5-1.2-2.5-2.6S26.4 0 27.8 0h7.6c1.1 0 2.2.5 2.9 1.2zM43.1 0c1.4 0 2.5 1.2 2.5 2.6V18h-5.1V2.6c0-1.4 1.1-2.6 2.6-2.6zm23.1 6.4V2.6c0-1.4 1.1-2.6 2.5-2.6s2.5 1.2 2.5 2.6V18h-5.1v-6.4h-1.9c-1.1 3.7-4.5 6.4-8.5 6.4-4.9 0-8.9-4-8.9-9s4-9 8.9-9c4 0 7.4 2.7 8.5 6.4h2zm-10.4 6.7c2.3 0 4.1-1.8 4.1-4.1S58 4.9 55.8 4.9 51.7 6.7 51.7 9s1.8 4.1 4.1 4.1zm47.6 4.9c-1.4 0-2.5-1.2-2.5-2.6s1.1-2.6 2.5-2.6 2.5 1.2 2.5 2.6-1.1 2.6-2.5 2.6z"
-                                              fill="current"></path>
-                                    </svg>
-                                </div>
-                            </a></article>
-                        </div>
-                        <div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="4" role="group"
-                             aria-label="Slide" style="margin-right: 12px;">
-                            <article role="presentation" class="home-event-banner css-e7lzfy"><a
-                                    aria-label="전국 인기 펜션 최대 5만원 할인" class="css-ehfifb"
-                                    href="/special-deal/P20240709152849067">
-                                <div class="css-y6a1r7">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 106 18" width="94.21"
-                                         height="16" class="css-1ir6nbl">
-                                        <path d="M94.8 18V6.7c0-.4-.3-.8-.8-.8-.4 0-.8.3-.8.8V18h-5.1V5.9C88.1 2.6 90.8 0 94 0s5.9 2.6 5.9 5.9V18h-5.1zm-9.5-5.1h1.8V18H76.9c-2.3 0-4.1-1.8-4.1-4.1V4.1c0-2.3 1.8-4.1 4.1-4.1h10.2v5.1h-1.8v7.8zm-4.5 0V5.1H79c-.6 0-1 .5-1 1v5.7c0 .6.5 1 1 1l1.8.1zM19.4 3.3v-.7c0-1.4 1.1-2.6 2.5-2.6s2.5 1.2 2.5 2.6V18h-5.1v-3.3h-3.5c-1.6 2-4.1 3.3-6.9 3.3C4 18 0 14 0 9s4-9 8.9-9c2.8 0 5.3 1.3 6.9 3.3h3.6zM17.8 8c0 .3.1.7.1 1s0 .7-.1 1h1.6V8h-1.6zm-8.9 5.1c2.3 0 4.1-1.8 4.1-4.1s-1.8-4.1-4.1-4.1S4.8 6.7 4.8 9s1.9 4.1 4.1 4.1zM38.3 1.2c.7.7 1.2 1.8 1.2 2.9V18h-5.1V6.2c0-.6-.5-1-1-1h-5.6c-1.4 0-2.5-1.2-2.5-2.6S26.4 0 27.8 0h7.6c1.1 0 2.2.5 2.9 1.2zM43.1 0c1.4 0 2.5 1.2 2.5 2.6V18h-5.1V2.6c0-1.4 1.1-2.6 2.6-2.6zm23.1 6.4V2.6c0-1.4 1.1-2.6 2.5-2.6s2.5 1.2 2.5 2.6V18h-5.1v-6.4h-1.9c-1.1 3.7-4.5 6.4-8.5 6.4-4.9 0-8.9-4-8.9-9s4-9 8.9-9c4 0 7.4 2.7 8.5 6.4h2zm-10.4 6.7c2.3 0 4.1-1.8 4.1-4.1S58 4.9 55.8 4.9 51.7 6.7 51.7 9s1.8 4.1 4.1 4.1zm47.6 4.9c-1.4 0-2.5-1.2-2.5-2.6s1.1-2.6 2.5-2.6 2.5 1.2 2.5 2.6-1.1 2.6-2.5 2.6z"
-                                              fill="current"></path>
-                                    </svg>
-                                </div>
-                            </a></article>
-                        </div>
-                        <div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="5" role="group"
-                             aria-label="Slide" style="margin-right: 12px;">
-                            <article role="presentation" class="home-event-banner css-e7lzfy"><a
-                                    aria-label="지금 할인 중인 게스트하우스" class="css-ehfifb"
-                                    href="/special-deal/P20240820091851736">
-                                <div class="css-y6a1r7">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 106 18" width="94.21"
-                                         height="16" class="css-1ir6nbl">
-                                        <path d="M94.8 18V6.7c0-.4-.3-.8-.8-.8-.4 0-.8.3-.8.8V18h-5.1V5.9C88.1 2.6 90.8 0 94 0s5.9 2.6 5.9 5.9V18h-5.1zm-9.5-5.1h1.8V18H76.9c-2.3 0-4.1-1.8-4.1-4.1V4.1c0-2.3 1.8-4.1 4.1-4.1h10.2v5.1h-1.8v7.8zm-4.5 0V5.1H79c-.6 0-1 .5-1 1v5.7c0 .6.5 1 1 1l1.8.1zM19.4 3.3v-.7c0-1.4 1.1-2.6 2.5-2.6s2.5 1.2 2.5 2.6V18h-5.1v-3.3h-3.5c-1.6 2-4.1 3.3-6.9 3.3C4 18 0 14 0 9s4-9 8.9-9c2.8 0 5.3 1.3 6.9 3.3h3.6zM17.8 8c0 .3.1.7.1 1s0 .7-.1 1h1.6V8h-1.6zm-8.9 5.1c2.3 0 4.1-1.8 4.1-4.1s-1.8-4.1-4.1-4.1S4.8 6.7 4.8 9s1.9 4.1 4.1 4.1zM38.3 1.2c.7.7 1.2 1.8 1.2 2.9V18h-5.1V6.2c0-.6-.5-1-1-1h-5.6c-1.4 0-2.5-1.2-2.5-2.6S26.4 0 27.8 0h7.6c1.1 0 2.2.5 2.9 1.2zM43.1 0c1.4 0 2.5 1.2 2.5 2.6V18h-5.1V2.6c0-1.4 1.1-2.6 2.6-2.6zm23.1 6.4V2.6c0-1.4 1.1-2.6 2.5-2.6s2.5 1.2 2.5 2.6V18h-5.1v-6.4h-1.9c-1.1 3.7-4.5 6.4-8.5 6.4-4.9 0-8.9-4-8.9-9s4-9 8.9-9c4 0 7.4 2.7 8.5 6.4h2zm-10.4 6.7c2.3 0 4.1-1.8 4.1-4.1S58 4.9 55.8 4.9 51.7 6.7 51.7 9s1.8 4.1 4.1 4.1zm47.6 4.9c-1.4 0-2.5-1.2-2.5-2.6s1.1-2.6 2.5-2.6 2.5 1.2 2.5 2.6-1.1 2.6-2.5 2.6z"
-                                              fill="current"></path>
-                                    </svg>
-                                </div>
-                            </a></article>
-                        </div>
-                        <div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="6" role="group"
-                             aria-label="Slide" style="margin-right: 12px;">
-                            <article role="presentation" class="home-event-banner css-e7lzfy"><a
-                                    aria-label="부산 워케이션 참가자 전용 배너" class="css-ehfifb"
-                                    href="/special-deal/P20230908152035921">
-                                <div class="css-y6a1r7">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 106 18" width="94.21"
-                                         height="16" class="css-1ir6nbl">
-                                        <path d="M94.8 18V6.7c0-.4-.3-.8-.8-.8-.4 0-.8.3-.8.8V18h-5.1V5.9C88.1 2.6 90.8 0 94 0s5.9 2.6 5.9 5.9V18h-5.1zm-9.5-5.1h1.8V18H76.9c-2.3 0-4.1-1.8-4.1-4.1V4.1c0-2.3 1.8-4.1 4.1-4.1h10.2v5.1h-1.8v7.8zm-4.5 0V5.1H79c-.6 0-1 .5-1 1v5.7c0 .6.5 1 1 1l1.8.1zM19.4 3.3v-.7c0-1.4 1.1-2.6 2.5-2.6s2.5 1.2 2.5 2.6V18h-5.1v-3.3h-3.5c-1.6 2-4.1 3.3-6.9 3.3C4 18 0 14 0 9s4-9 8.9-9c2.8 0 5.3 1.3 6.9 3.3h3.6zM17.8 8c0 .3.1.7.1 1s0 .7-.1 1h1.6V8h-1.6zm-8.9 5.1c2.3 0 4.1-1.8 4.1-4.1s-1.8-4.1-4.1-4.1S4.8 6.7 4.8 9s1.9 4.1 4.1 4.1zM38.3 1.2c.7.7 1.2 1.8 1.2 2.9V18h-5.1V6.2c0-.6-.5-1-1-1h-5.6c-1.4 0-2.5-1.2-2.5-2.6S26.4 0 27.8 0h7.6c1.1 0 2.2.5 2.9 1.2zM43.1 0c1.4 0 2.5 1.2 2.5 2.6V18h-5.1V2.6c0-1.4 1.1-2.6 2.6-2.6zm23.1 6.4V2.6c0-1.4 1.1-2.6 2.5-2.6s2.5 1.2 2.5 2.6V18h-5.1v-6.4h-1.9c-1.1 3.7-4.5 6.4-8.5 6.4-4.9 0-8.9-4-8.9-9s4-9 8.9-9c4 0 7.4 2.7 8.5 6.4h2zm-10.4 6.7c2.3 0 4.1-1.8 4.1-4.1S58 4.9 55.8 4.9 51.7 6.7 51.7 9s1.8 4.1 4.1 4.1zm47.6 4.9c-1.4 0-2.5-1.2-2.5-2.6s1.1-2.6 2.5-2.6 2.5 1.2 2.5 2.6-1.1 2.6-2.5 2.6z"
-                                              fill="current"></path>
-                                    </svg>
-                                </div>
-                            </a></article>
-                        </div>
-                        <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-prev"
-                             data-swiper-slide-index="7" role="group" aria-label="Slide" style="margin-right: 12px;">
-                            <article role="presentation" class="home-event-banner css-e7lzfy"><a aria-label="인기공간 할인파티"
-                                                                                                 class="css-ehfifb"
-                                                                                                 href="/event/3458?title=%EC%9D%B8%EA%B8%B0%EA%B3%B5%EA%B0%84%20%ED%95%A0%EC%9D%B8%ED%8C%8C%ED%8B%B0&amp;url=https://api3.goodchoice.kr/event3/web/adEventView?aevno=3458">
-                                <div class="css-y6a1r7">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 106 18" width="94.21"
-                                         height="16" class="css-1ir6nbl">
-                                        <path d="M94.8 18V6.7c0-.4-.3-.8-.8-.8-.4 0-.8.3-.8.8V18h-5.1V5.9C88.1 2.6 90.8 0 94 0s5.9 2.6 5.9 5.9V18h-5.1zm-9.5-5.1h1.8V18H76.9c-2.3 0-4.1-1.8-4.1-4.1V4.1c0-2.3 1.8-4.1 4.1-4.1h10.2v5.1h-1.8v7.8zm-4.5 0V5.1H79c-.6 0-1 .5-1 1v5.7c0 .6.5 1 1 1l1.8.1zM19.4 3.3v-.7c0-1.4 1.1-2.6 2.5-2.6s2.5 1.2 2.5 2.6V18h-5.1v-3.3h-3.5c-1.6 2-4.1 3.3-6.9 3.3C4 18 0 14 0 9s4-9 8.9-9c2.8 0 5.3 1.3 6.9 3.3h3.6zM17.8 8c0 .3.1.7.1 1s0 .7-.1 1h1.6V8h-1.6zm-8.9 5.1c2.3 0 4.1-1.8 4.1-4.1s-1.8-4.1-4.1-4.1S4.8 6.7 4.8 9s1.9 4.1 4.1 4.1zM38.3 1.2c.7.7 1.2 1.8 1.2 2.9V18h-5.1V6.2c0-.6-.5-1-1-1h-5.6c-1.4 0-2.5-1.2-2.5-2.6S26.4 0 27.8 0h7.6c1.1 0 2.2.5 2.9 1.2zM43.1 0c1.4 0 2.5 1.2 2.5 2.6V18h-5.1V2.6c0-1.4 1.1-2.6 2.6-2.6zm23.1 6.4V2.6c0-1.4 1.1-2.6 2.5-2.6s2.5 1.2 2.5 2.6V18h-5.1v-6.4h-1.9c-1.1 3.7-4.5 6.4-8.5 6.4-4.9 0-8.9-4-8.9-9s4-9 8.9-9c4 0 7.4 2.7 8.5 6.4h2zm-10.4 6.7c2.3 0 4.1-1.8 4.1-4.1S58 4.9 55.8 4.9 51.7 6.7 51.7 9s1.8 4.1 4.1 4.1zm47.6 4.9c-1.4 0-2.5-1.2-2.5-2.6s1.1-2.6 2.5-2.6 2.5 1.2 2.5 2.6-1.1 2.6-2.5 2.6z"
-                                              fill="current"></path>
-                                    </svg>
-                                </div>
-                            </a></article>
-                        </div>
+                         style="transition-duration: 0ms; transform: translate3d(-4896px, 0px, 0px);">
                         <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active"
-                             data-swiper-slide-index="8" role="group" aria-label="Slide" style="margin-right: 12px;">
-                            <article role="presentation" class="home-event-banner css-e7lzfy"><a
-                                    aria-label="8월 결제 프로모션 모음" class="css-ehfifb"
-                                    href="/event/4061?title=8%EC%9B%94%20%EA%B2%B0%EC%A0%9C%20%ED%94%84%EB%A1%9C%EB%AA%A8%EC%85%98%20%EB%AA%A8%EC%9D%8C&amp;url=https://api3.goodchoice.kr/event3/web/adEventView?aevno=4061">
-                                <div class="css-y6a1r7">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 106 18" width="94.21"
-                                         height="16" class="css-1ir6nbl">
-                                        <path d="M94.8 18V6.7c0-.4-.3-.8-.8-.8-.4 0-.8.3-.8.8V18h-5.1V5.9C88.1 2.6 90.8 0 94 0s5.9 2.6 5.9 5.9V18h-5.1zm-9.5-5.1h1.8V18H76.9c-2.3 0-4.1-1.8-4.1-4.1V4.1c0-2.3 1.8-4.1 4.1-4.1h10.2v5.1h-1.8v7.8zm-4.5 0V5.1H79c-.6 0-1 .5-1 1v5.7c0 .6.5 1 1 1l1.8.1zM19.4 3.3v-.7c0-1.4 1.1-2.6 2.5-2.6s2.5 1.2 2.5 2.6V18h-5.1v-3.3h-3.5c-1.6 2-4.1 3.3-6.9 3.3C4 18 0 14 0 9s4-9 8.9-9c2.8 0 5.3 1.3 6.9 3.3h3.6zM17.8 8c0 .3.1.7.1 1s0 .7-.1 1h1.6V8h-1.6zm-8.9 5.1c2.3 0 4.1-1.8 4.1-4.1s-1.8-4.1-4.1-4.1S4.8 6.7 4.8 9s1.9 4.1 4.1 4.1zM38.3 1.2c.7.7 1.2 1.8 1.2 2.9V18h-5.1V6.2c0-.6-.5-1-1-1h-5.6c-1.4 0-2.5-1.2-2.5-2.6S26.4 0 27.8 0h7.6c1.1 0 2.2.5 2.9 1.2zM43.1 0c1.4 0 2.5 1.2 2.5 2.6V18h-5.1V2.6c0-1.4 1.1-2.6 2.6-2.6zm23.1 6.4V2.6c0-1.4 1.1-2.6 2.5-2.6s2.5 1.2 2.5 2.6V18h-5.1v-6.4h-1.9c-1.1 3.7-4.5 6.4-8.5 6.4-4.9 0-8.9-4-8.9-9s4-9 8.9-9c4 0 7.4 2.7 8.5 6.4h2zm-10.4 6.7c2.3 0 4.1-1.8 4.1-4.1S58 4.9 55.8 4.9 51.7 6.7 51.7 9s1.8 4.1 4.1 4.1zm47.6 4.9c-1.4 0-2.5-1.2-2.5-2.6s1.1-2.6 2.5-2.6 2.5 1.2 2.5 2.6-1.1 2.6-2.5 2.6z"
-                                              fill="current"></path>
-                                    </svg>
-                                </div>
-                            </a></article>
-                        </div>
-                        <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next"
-                             data-swiper-slide-index="9" role="group" aria-label="Slide" style="margin-right: 12px;">
-                            <article role="presentation" class="home-event-banner css-e7lzfy"><a
-                                    aria-label="8월 신규회원 웰컴쿠폰" class="css-ehfifb"
-                                    href="/event/4052?title=8%EC%9B%94%20%EC%8B%A0%EA%B7%9C%ED%9A%8C%EC%9B%90%20%EC%9B%B0%EC%BB%B4%EC%BF%A0%ED%8F%B0&amp;url=https://api3.goodchoice.kr/event3/web/adEventView?aevno=4052"><img
-                                    alt="8월 신규회원 웰컴쿠폰" sizes="100vw"
-                                    srcset="https://image.goodchoice.kr/resize_768x308/exhibition/cms/8dnjftlsrbznvhs_8184_Web_20240730184251.png 340w, https://image.goodchoice.kr/resize_768x308/exhibition/cms/8dnjftlsrbznvhs_8184_Web_20240730184251.png 912w, https://image.goodchoice.kr/resize_768x308/exhibition/cms/8dnjftlsrbznvhs_8184_Web_20240730184251.png 1200w"
-                                    src="https://image.goodchoice.kr/resize_768x308/exhibition/cms/8dnjftlsrbznvhs_8184_Web_20240730184251.png"
-                                    decoding="async" data-nimg="fill" loading="lazy"
-                                    style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"></a>
-                            </article>
-                        </div>
-                        <div class="swiper-slide" data-swiper-slide-index="0" role="group" aria-label="Slide"
-                             style="margin-right: 12px;">
-                            <article role="presentation" class="home-event-banner css-e7lzfy"><a aria-label="전 세계 월클 할인"
-                                                                                                 class="css-ehfifb"
-                                                                                                 href="/event/3892?title=%EC%A0%84%20%EC%84%B8%EA%B3%84%20%EC%9B%94%ED%81%B4%20%ED%95%A0%EC%9D%B8&amp;url=https://api3.goodchoice.kr/event3/web/adEventView?aevno=3892"><img
-                                    alt="전 세계 월클 할인" sizes="100vw"
-                                    srcset="https://image.goodchoice.kr/resize_768x308/exhibition/cms/e3892_dnpqqosj_1200x480hotxoq_1_20240726164916.png 340w, https://image.goodchoice.kr/resize_768x308/exhibition/cms/e3892_dnpqqosj_1200x480hotxoq_1_20240726164916.png 912w, https://image.goodchoice.kr/resize_768x308/exhibition/cms/e3892_dnpqqosj_1200x480hotxoq_1_20240726164916.png 1200w"
-                                    src="https://image.goodchoice.kr/resize_768x308/exhibition/cms/e3892_dnpqqosj_1200x480hotxoq_1_20240726164916.png"
-                                    decoding="async" data-nimg="fill" loading="lazy"
-                                    style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"></a>
-                            </article>
-                        </div>
-                        <div class="swiper-slide" data-swiper-slide-index="1" role="group" aria-label="Slide"
-                             style="margin-right: 12px;">
-                            <article role="presentation" class="home-event-banner css-e7lzfy"><a aria-label="월클특가 오픈런"
-                                                                                                 class="css-ehfifb"
-                                                                                                 href="/event/3606?title=%EC%9B%94%ED%81%B4%ED%8A%B9%EA%B0%80%20%EC%98%A4%ED%94%88%EB%9F%B0&amp;url=https://api3.goodchoice.kr/event3/web/adEventView?aevno=3606"><img
-                                    alt="월클특가 오픈런" sizes="100vw"
-                                    srcset="https://image.goodchoice.kr/resize_768x308/exhibition/cms/e3606_dnpqqosj_1200x480_1_20240605101842_20240605102555.png 340w, https://image.goodchoice.kr/resize_768x308/exhibition/cms/e3606_dnpqqosj_1200x480_1_20240605101842_20240605102555.png 912w, https://image.goodchoice.kr/resize_768x308/exhibition/cms/e3606_dnpqqosj_1200x480_1_20240605101842_20240605102555.png 1200w"
-                                    src="https://image.goodchoice.kr/resize_768x308/exhibition/cms/e3606_dnpqqosj_1200x480_1_20240605101842_20240605102555.png"
-                                    decoding="async" data-nimg="fill" loading="lazy"
-                                    style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"></a>
-                            </article>
-                        </div>
-                        <div class="swiper-slide" data-swiper-slide-index="2" role="group" aria-label="Slide"
-                             style="margin-right: 12px;">
-                            <article role="presentation" class="home-event-banner css-e7lzfy"><a aria-label="베스트 호텔딜"
-                                                                                                 class="css-ehfifb"
-                                                                                                 href="/event/3608?title=%EB%B2%A0%EC%8A%A4%ED%8A%B8%20%ED%98%B8%ED%85%94%EB%94%9C&amp;url=https://api3.goodchoice.kr/event3/web/adEventView?aevno=3608"><img
-                                    alt="베스트 호텔딜" sizes="100vw"
-                                    srcset="https://image.goodchoice.kr/resize_768x308/exhibition/cms/e3608_dnpqqosj_1200x480_20240823195646.png 340w, https://image.goodchoice.kr/resize_768x308/exhibition/cms/e3608_dnpqqosj_1200x480_20240823195646.png 912w, https://image.goodchoice.kr/resize_768x308/exhibition/cms/e3608_dnpqqosj_1200x480_20240823195646.png 1200w"
-                                    src="https://image.goodchoice.kr/resize_768x308/exhibition/cms/e3608_dnpqqosj_1200x480_20240823195646.png"
-                                    decoding="async" data-nimg="fill" loading="lazy"
-                                    style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"></a>
-                            </article>
-                        </div>
-                        <div class="swiper-slide" data-swiper-slide-index="3" role="group" aria-label="Slide"
-                             style="margin-right: 12px;">
-                            <article role="presentation" class="home-event-banner css-e7lzfy"><a
-                                    aria-label="추석 연휴 미리 예약 할인!" class="css-ehfifb"
-                                    href="/special-deal/P20240709152824362"><img alt="추석 연휴 미리 예약 할인!" sizes="100vw"
-                                                                                 srcset="https://image.goodchoice.kr/resize_768x308/exhibition/cms/ghxpfeksxhd2_dnpqqosj_1200x480_20240821082015.png 340w, https://image.goodchoice.kr/resize_768x308/exhibition/cms/ghxpfeksxhd2_dnpqqosj_1200x480_20240821082015.png 912w, https://image.goodchoice.kr/resize_768x308/exhibition/cms/ghxpfeksxhd2_dnpqqosj_1200x480_20240821082015.png 1200w"
-                                                                                 src="https://image.goodchoice.kr/resize_768x308/exhibition/cms/ghxpfeksxhd2_dnpqqosj_1200x480_20240821082015.png"
-                                                                                 decoding="async" data-nimg="fill"
-                                                                                 loading="lazy"
-                                                                                 style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"></a>
-                            </article>
-                        </div>
-                        <div class="swiper-slide" data-swiper-slide-index="4" role="group" aria-label="Slide"
-                             style="margin-right: 12px;">
-                            <article role="presentation" class="home-event-banner css-e7lzfy"><a
-                                    aria-label="전국 인기 펜션 최대 5만원 할인" class="css-ehfifb"
-                                    href="/special-deal/P20240709152849067"><img alt="전국 인기 펜션 최대 5만원 할인" sizes="100vw"
-                                                                                 srcset="https://image.goodchoice.kr/resize_768x308/exhibition/cms/vpstus_eksrlxhdgkq1dnpqqosj_1200x480_20240820193821.png 340w, https://image.goodchoice.kr/resize_768x308/exhibition/cms/vpstus_eksrlxhdgkq1dnpqqosj_1200x480_20240820193821.png 912w, https://image.goodchoice.kr/resize_768x308/exhibition/cms/vpstus_eksrlxhdgkq1dnpqqosj_1200x480_20240820193821.png 1200w"
-                                                                                 src="https://image.goodchoice.kr/resize_768x308/exhibition/cms/vpstus_eksrlxhdgkq1dnpqqosj_1200x480_20240820193821.png"
-                                                                                 decoding="async" data-nimg="fill"
-                                                                                 loading="lazy"
-                                                                                 style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"></a>
-                            </article>
-                        </div>
-                        <div class="swiper-slide" data-swiper-slide-index="5" role="group" aria-label="Slide"
-                             style="margin-right: 12px;">
-                            <article role="presentation" class="home-event-banner css-e7lzfy"><a
-                                    aria-label="지금 할인 중인 게스트하우스" class="css-ehfifb"
-                                    href="/special-deal/P20240820091851736"><img alt="지금 할인 중인 게스트하우스" sizes="100vw"
-                                                                                 srcset="https://image.goodchoice.kr/resize_768x308/exhibition/cms/rpgk_eksrlxhdgkq1dnpqqosj_1200x480_20240820094317.png 340w, https://image.goodchoice.kr/resize_768x308/exhibition/cms/rpgk_eksrlxhdgkq1dnpqqosj_1200x480_20240820094317.png 912w, https://image.goodchoice.kr/resize_768x308/exhibition/cms/rpgk_eksrlxhdgkq1dnpqqosj_1200x480_20240820094317.png 1200w"
-                                                                                 src="https://image.goodchoice.kr/resize_768x308/exhibition/cms/rpgk_eksrlxhdgkq1dnpqqosj_1200x480_20240820094317.png"
-                                                                                 decoding="async" data-nimg="fill"
-                                                                                 loading="lazy"
-                                                                                 style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"></a>
-                            </article>
-                        </div>
-                        <div class="swiper-slide" data-swiper-slide-index="6" role="group" aria-label="Slide"
-                             style="margin-right: 12px;">
-                            <article role="presentation" class="home-event-banner css-e7lzfy"><a
-                                    aria-label="부산 워케이션 참가자 전용 배너" class="css-ehfifb"
-                                    href="/special-deal/P20230908152035921"><img alt="부산 워케이션 참가자 전용 배너" sizes="100vw"
-                                                                                 srcset="https://image.goodchoice.kr/resize_768x308/exhibition/cms/0716_dnpqqosj_1200x480_20240716165731.png 340w, https://image.goodchoice.kr/resize_768x308/exhibition/cms/0716_dnpqqosj_1200x480_20240716165731.png 912w, https://image.goodchoice.kr/resize_768x308/exhibition/cms/0716_dnpqqosj_1200x480_20240716165731.png 1200w"
-                                                                                 src="https://image.goodchoice.kr/resize_768x308/exhibition/cms/0716_dnpqqosj_1200x480_20240716165731.png"
-                                                                                 decoding="async" data-nimg="fill"
-                                                                                 loading="lazy"
-                                                                                 style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"></a>
-                            </article>
-                        </div>
-                        <div class="swiper-slide swiper-slide-visible swiper-slide-prev" data-swiper-slide-index="7"
-                             role="group" aria-label="Slide" style="margin-right: 12px;">
-                            <article role="presentation" class="home-event-banner css-e7lzfy"><a aria-label="인기공간 할인파티"
-                                                                                                 class="css-ehfifb"
-                                                                                                 href="/event/3458?title=%EC%9D%B8%EA%B8%B0%EA%B3%B5%EA%B0%84%20%ED%95%A0%EC%9D%B8%ED%8C%8C%ED%8B%B0&amp;url=https://api3.goodchoice.kr/event3/web/adEventView?aevno=3458"><img
-                                    alt="인기공간 할인파티" sizes="100vw"
-                                    srcset="https://image.goodchoice.kr/resize_768x308/exhibition/cms/e3458_dnpqqosj_1200x480_1_20240401202304.png 340w, https://image.goodchoice.kr/resize_768x308/exhibition/cms/e3458_dnpqqosj_1200x480_1_20240401202304.png 912w, https://image.goodchoice.kr/resize_768x308/exhibition/cms/e3458_dnpqqosj_1200x480_1_20240401202304.png 1200w"
-                                    src="https://image.goodchoice.kr/resize_768x308/exhibition/cms/e3458_dnpqqosj_1200x480_1_20240401202304.png"
-                                    decoding="async" data-nimg="fill" loading="lazy"
-                                    style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"></a>
-                            </article>
-                        </div>
-                        <div class="swiper-slide swiper-slide-visible swiper-slide-active" data-swiper-slide-index="8"
-                             role="group" aria-label="Slide" style="margin-right: 12px;">
-                            <article role="presentation" class="home-event-banner css-e7lzfy"><a
-                                    aria-label="8월 결제 프로모션 모음" class="css-ehfifb"
-                                    href="/event/4061?title=8%EC%9B%94%20%EA%B2%B0%EC%A0%9C%20%ED%94%84%EB%A1%9C%EB%AA%A8%EC%85%98%20%EB%AA%A8%EC%9D%8C&amp;url=https://api3.goodchoice.kr/event3/web/adEventView?aevno=4061"><img
-                                    alt="8월 결제 프로모션 모음" sizes="100vw"
-                                    srcset="https://image.goodchoice.kr/resize_768x308/exhibition/cms/e4061_______________________1200x480_20240730184859.png 340w, https://image.goodchoice.kr/resize_768x308/exhibition/cms/e4061_______________________1200x480_20240730184859.png 912w, https://image.goodchoice.kr/resize_768x308/exhibition/cms/e4061_______________________1200x480_20240730184859.png 1200w"
-                                    src="https://image.goodchoice.kr/resize_768x308/exhibition/cms/e4061_______________________1200x480_20240730184859.png"
-                                    decoding="async" data-nimg="fill" loading="lazy"
-                                    style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"></a>
-                            </article>
-                        </div>
-                        <div class="swiper-slide swiper-slide-visible swiper-slide-next" data-swiper-slide-index="9"
-                             role="group" aria-label="Slide" style="margin-right: 12px;">
-                            <article role="presentation" class="home-event-banner css-e7lzfy"><a
-                                    aria-label="8월 신규회원 웰컴쿠폰" class="css-ehfifb"
-                                    href="/event/4052?title=8%EC%9B%94%20%EC%8B%A0%EA%B7%9C%ED%9A%8C%EC%9B%90%20%EC%9B%B0%EC%BB%B4%EC%BF%A0%ED%8F%B0&amp;url=https://api3.goodchoice.kr/event3/web/adEventView?aevno=4052"><img
-                                    alt="8월 신규회원 웰컴쿠폰" sizes="100vw"
-                                    srcset="https://image.goodchoice.kr/resize_768x308/exhibition/cms/8dnjftlsrbznvhs_8184_Web_20240730184251.png 340w, https://image.goodchoice.kr/resize_768x308/exhibition/cms/8dnjftlsrbznvhs_8184_Web_20240730184251.png 912w, https://image.goodchoice.kr/resize_768x308/exhibition/cms/8dnjftlsrbznvhs_8184_Web_20240730184251.png 1200w"
-                                    src="https://image.goodchoice.kr/resize_768x308/exhibition/cms/8dnjftlsrbznvhs_8184_Web_20240730184251.png"
-                                    decoding="async" data-nimg="fill" loading="lazy"
-                                    style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"></a>
-                            </article>
-                        </div>
-                        <div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="0" role="group"
-                             aria-label="Slide" style="margin-right: 12px;">
-                            <article role="presentation" class="home-event-banner css-e7lzfy"><a aria-label="전 세계 월클 할인"
-                                                                                                 class="css-ehfifb"
-                                                                                                 href="/event/3892?title=%EC%A0%84%20%EC%84%B8%EA%B3%84%20%EC%9B%94%ED%81%B4%20%ED%95%A0%EC%9D%B8&amp;url=https://api3.goodchoice.kr/event3/web/adEventView?aevno=3892"><img
-                                    alt="전 세계 월클 할인" sizes="100vw"
-                                    srcset="https://image.goodchoice.kr/resize_768x308/exhibition/cms/e3892_dnpqqosj_1200x480hotxoq_1_20240726164916.png 340w, https://image.goodchoice.kr/resize_768x308/exhibition/cms/e3892_dnpqqosj_1200x480hotxoq_1_20240726164916.png 912w, https://image.goodchoice.kr/resize_768x308/exhibition/cms/e3892_dnpqqosj_1200x480hotxoq_1_20240726164916.png 1200w"
-                                    src="https://image.goodchoice.kr/resize_768x308/exhibition/cms/e3892_dnpqqosj_1200x480hotxoq_1_20240726164916.png"
-                                    decoding="async" data-nimg="fill" loading="lazy"
-                                    style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"></a>
-                            </article>
-                        </div>
-                        <div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="1" role="group"
-                             aria-label="Slide" style="margin-right: 12px;">
-                            <article role="presentation" class="home-event-banner css-e7lzfy"><a aria-label="월클특가 오픈런"
-                                                                                                 class="css-ehfifb"
-                                                                                                 href="/event/3606?title=%EC%9B%94%ED%81%B4%ED%8A%B9%EA%B0%80%20%EC%98%A4%ED%94%88%EB%9F%B0&amp;url=https://api3.goodchoice.kr/event3/web/adEventView?aevno=3606"><img
-                                    alt="월클특가 오픈런" sizes="100vw"
-                                    srcset="https://image.goodchoice.kr/resize_768x308/exhibition/cms/e3606_dnpqqosj_1200x480_1_20240605101842_20240605102555.png 340w, https://image.goodchoice.kr/resize_768x308/exhibition/cms/e3606_dnpqqosj_1200x480_1_20240605101842_20240605102555.png 912w, https://image.goodchoice.kr/resize_768x308/exhibition/cms/e3606_dnpqqosj_1200x480_1_20240605101842_20240605102555.png 1200w"
-                                    src="https://image.goodchoice.kr/resize_768x308/exhibition/cms/e3606_dnpqqosj_1200x480_1_20240605101842_20240605102555.png"
-                                    decoding="async" data-nimg="fill" loading="lazy"
-                                    style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"></a>
-                            </article>
-                        </div>
-                        <div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="2" role="group"
-                             aria-label="Slide" style="margin-right: 12px;">
-                            <article role="presentation" class="home-event-banner css-e7lzfy"><a aria-label="베스트 호텔딜"
-                                                                                                 class="css-ehfifb"
-                                                                                                 href="/event/3608?title=%EB%B2%A0%EC%8A%A4%ED%8A%B8%20%ED%98%B8%ED%85%94%EB%94%9C&amp;url=https://api3.goodchoice.kr/event3/web/adEventView?aevno=3608">
-                                <div class="css-y6a1r7">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 106 18" width="94.21"
-                                         height="16" class="css-1ir6nbl">
-                                        <path d="M94.8 18V6.7c0-.4-.3-.8-.8-.8-.4 0-.8.3-.8.8V18h-5.1V5.9C88.1 2.6 90.8 0 94 0s5.9 2.6 5.9 5.9V18h-5.1zm-9.5-5.1h1.8V18H76.9c-2.3 0-4.1-1.8-4.1-4.1V4.1c0-2.3 1.8-4.1 4.1-4.1h10.2v5.1h-1.8v7.8zm-4.5 0V5.1H79c-.6 0-1 .5-1 1v5.7c0 .6.5 1 1 1l1.8.1zM19.4 3.3v-.7c0-1.4 1.1-2.6 2.5-2.6s2.5 1.2 2.5 2.6V18h-5.1v-3.3h-3.5c-1.6 2-4.1 3.3-6.9 3.3C4 18 0 14 0 9s4-9 8.9-9c2.8 0 5.3 1.3 6.9 3.3h3.6zM17.8 8c0 .3.1.7.1 1s0 .7-.1 1h1.6V8h-1.6zm-8.9 5.1c2.3 0 4.1-1.8 4.1-4.1s-1.8-4.1-4.1-4.1S4.8 6.7 4.8 9s1.9 4.1 4.1 4.1zM38.3 1.2c.7.7 1.2 1.8 1.2 2.9V18h-5.1V6.2c0-.6-.5-1-1-1h-5.6c-1.4 0-2.5-1.2-2.5-2.6S26.4 0 27.8 0h7.6c1.1 0 2.2.5 2.9 1.2zM43.1 0c1.4 0 2.5 1.2 2.5 2.6V18h-5.1V2.6c0-1.4 1.1-2.6 2.6-2.6zm23.1 6.4V2.6c0-1.4 1.1-2.6 2.5-2.6s2.5 1.2 2.5 2.6V18h-5.1v-6.4h-1.9c-1.1 3.7-4.5 6.4-8.5 6.4-4.9 0-8.9-4-8.9-9s4-9 8.9-9c4 0 7.4 2.7 8.5 6.4h2zm-10.4 6.7c2.3 0 4.1-1.8 4.1-4.1S58 4.9 55.8 4.9 51.7 6.7 51.7 9s1.8 4.1 4.1 4.1zm47.6 4.9c-1.4 0-2.5-1.2-2.5-2.6s1.1-2.6 2.5-2.6 2.5 1.2 2.5 2.6-1.1 2.6-2.5 2.6z"
-                                              fill="current"></path>
-                                    </svg>
-                                </div>
-                            </a></article>
-                        </div>
-                        <div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="3" role="group"
-                             aria-label="Slide" style="margin-right: 12px;">
-                            <article role="presentation" class="home-event-banner css-e7lzfy"><a
-                                    aria-label="추석 연휴 미리 예약 할인!" class="css-ehfifb"
-                                    href="/special-deal/P20240709152824362">
-                                <div class="css-y6a1r7">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 106 18" width="94.21"
-                                         height="16" class="css-1ir6nbl">
-                                        <path d="M94.8 18V6.7c0-.4-.3-.8-.8-.8-.4 0-.8.3-.8.8V18h-5.1V5.9C88.1 2.6 90.8 0 94 0s5.9 2.6 5.9 5.9V18h-5.1zm-9.5-5.1h1.8V18H76.9c-2.3 0-4.1-1.8-4.1-4.1V4.1c0-2.3 1.8-4.1 4.1-4.1h10.2v5.1h-1.8v7.8zm-4.5 0V5.1H79c-.6 0-1 .5-1 1v5.7c0 .6.5 1 1 1l1.8.1zM19.4 3.3v-.7c0-1.4 1.1-2.6 2.5-2.6s2.5 1.2 2.5 2.6V18h-5.1v-3.3h-3.5c-1.6 2-4.1 3.3-6.9 3.3C4 18 0 14 0 9s4-9 8.9-9c2.8 0 5.3 1.3 6.9 3.3h3.6zM17.8 8c0 .3.1.7.1 1s0 .7-.1 1h1.6V8h-1.6zm-8.9 5.1c2.3 0 4.1-1.8 4.1-4.1s-1.8-4.1-4.1-4.1S4.8 6.7 4.8 9s1.9 4.1 4.1 4.1zM38.3 1.2c.7.7 1.2 1.8 1.2 2.9V18h-5.1V6.2c0-.6-.5-1-1-1h-5.6c-1.4 0-2.5-1.2-2.5-2.6S26.4 0 27.8 0h7.6c1.1 0 2.2.5 2.9 1.2zM43.1 0c1.4 0 2.5 1.2 2.5 2.6V18h-5.1V2.6c0-1.4 1.1-2.6 2.6-2.6zm23.1 6.4V2.6c0-1.4 1.1-2.6 2.5-2.6s2.5 1.2 2.5 2.6V18h-5.1v-6.4h-1.9c-1.1 3.7-4.5 6.4-8.5 6.4-4.9 0-8.9-4-8.9-9s4-9 8.9-9c4 0 7.4 2.7 8.5 6.4h2zm-10.4 6.7c2.3 0 4.1-1.8 4.1-4.1S58 4.9 55.8 4.9 51.7 6.7 51.7 9s1.8 4.1 4.1 4.1zm47.6 4.9c-1.4 0-2.5-1.2-2.5-2.6s1.1-2.6 2.5-2.6 2.5 1.2 2.5 2.6-1.1 2.6-2.5 2.6z"
-                                              fill="current"></path>
-                                    </svg>
-                                </div>
-                            </a></article>
-                        </div>
-                        <div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="4" role="group"
-                             aria-label="Slide" style="margin-right: 12px;">
-                            <article role="presentation" class="home-event-banner css-e7lzfy"><a
-                                    aria-label="전국 인기 펜션 최대 5만원 할인" class="css-ehfifb"
-                                    href="/special-deal/P20240709152849067">
-                                <div class="css-y6a1r7">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 106 18" width="94.21"
-                                         height="16" class="css-1ir6nbl">
-                                        <path d="M94.8 18V6.7c0-.4-.3-.8-.8-.8-.4 0-.8.3-.8.8V18h-5.1V5.9C88.1 2.6 90.8 0 94 0s5.9 2.6 5.9 5.9V18h-5.1zm-9.5-5.1h1.8V18H76.9c-2.3 0-4.1-1.8-4.1-4.1V4.1c0-2.3 1.8-4.1 4.1-4.1h10.2v5.1h-1.8v7.8zm-4.5 0V5.1H79c-.6 0-1 .5-1 1v5.7c0 .6.5 1 1 1l1.8.1zM19.4 3.3v-.7c0-1.4 1.1-2.6 2.5-2.6s2.5 1.2 2.5 2.6V18h-5.1v-3.3h-3.5c-1.6 2-4.1 3.3-6.9 3.3C4 18 0 14 0 9s4-9 8.9-9c2.8 0 5.3 1.3 6.9 3.3h3.6zM17.8 8c0 .3.1.7.1 1s0 .7-.1 1h1.6V8h-1.6zm-8.9 5.1c2.3 0 4.1-1.8 4.1-4.1s-1.8-4.1-4.1-4.1S4.8 6.7 4.8 9s1.9 4.1 4.1 4.1zM38.3 1.2c.7.7 1.2 1.8 1.2 2.9V18h-5.1V6.2c0-.6-.5-1-1-1h-5.6c-1.4 0-2.5-1.2-2.5-2.6S26.4 0 27.8 0h7.6c1.1 0 2.2.5 2.9 1.2zM43.1 0c1.4 0 2.5 1.2 2.5 2.6V18h-5.1V2.6c0-1.4 1.1-2.6 2.6-2.6zm23.1 6.4V2.6c0-1.4 1.1-2.6 2.5-2.6s2.5 1.2 2.5 2.6V18h-5.1v-6.4h-1.9c-1.1 3.7-4.5 6.4-8.5 6.4-4.9 0-8.9-4-8.9-9s4-9 8.9-9c4 0 7.4 2.7 8.5 6.4h2zm-10.4 6.7c2.3 0 4.1-1.8 4.1-4.1S58 4.9 55.8 4.9 51.7 6.7 51.7 9s1.8 4.1 4.1 4.1zm47.6 4.9c-1.4 0-2.5-1.2-2.5-2.6s1.1-2.6 2.5-2.6 2.5 1.2 2.5 2.6-1.1 2.6-2.5 2.6z"
-                                              fill="current"></path>
-                                    </svg>
-                                </div>
-                            </a></article>
-                        </div>
-                        <div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="5" role="group"
-                             aria-label="Slide" style="margin-right: 12px;">
-                            <article role="presentation" class="home-event-banner css-e7lzfy"><a
-                                    aria-label="지금 할인 중인 게스트하우스" class="css-ehfifb"
-                                    href="/special-deal/P20240820091851736">
-                                <div class="css-y6a1r7">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 106 18" width="94.21"
-                                         height="16" class="css-1ir6nbl">
-                                        <path d="M94.8 18V6.7c0-.4-.3-.8-.8-.8-.4 0-.8.3-.8.8V18h-5.1V5.9C88.1 2.6 90.8 0 94 0s5.9 2.6 5.9 5.9V18h-5.1zm-9.5-5.1h1.8V18H76.9c-2.3 0-4.1-1.8-4.1-4.1V4.1c0-2.3 1.8-4.1 4.1-4.1h10.2v5.1h-1.8v7.8zm-4.5 0V5.1H79c-.6 0-1 .5-1 1v5.7c0 .6.5 1 1 1l1.8.1zM19.4 3.3v-.7c0-1.4 1.1-2.6 2.5-2.6s2.5 1.2 2.5 2.6V18h-5.1v-3.3h-3.5c-1.6 2-4.1 3.3-6.9 3.3C4 18 0 14 0 9s4-9 8.9-9c2.8 0 5.3 1.3 6.9 3.3h3.6zM17.8 8c0 .3.1.7.1 1s0 .7-.1 1h1.6V8h-1.6zm-8.9 5.1c2.3 0 4.1-1.8 4.1-4.1s-1.8-4.1-4.1-4.1S4.8 6.7 4.8 9s1.9 4.1 4.1 4.1zM38.3 1.2c.7.7 1.2 1.8 1.2 2.9V18h-5.1V6.2c0-.6-.5-1-1-1h-5.6c-1.4 0-2.5-1.2-2.5-2.6S26.4 0 27.8 0h7.6c1.1 0 2.2.5 2.9 1.2zM43.1 0c1.4 0 2.5 1.2 2.5 2.6V18h-5.1V2.6c0-1.4 1.1-2.6 2.6-2.6zm23.1 6.4V2.6c0-1.4 1.1-2.6 2.5-2.6s2.5 1.2 2.5 2.6V18h-5.1v-6.4h-1.9c-1.1 3.7-4.5 6.4-8.5 6.4-4.9 0-8.9-4-8.9-9s4-9 8.9-9c4 0 7.4 2.7 8.5 6.4h2zm-10.4 6.7c2.3 0 4.1-1.8 4.1-4.1S58 4.9 55.8 4.9 51.7 6.7 51.7 9s1.8 4.1 4.1 4.1zm47.6 4.9c-1.4 0-2.5-1.2-2.5-2.6s1.1-2.6 2.5-2.6 2.5 1.2 2.5 2.6-1.1 2.6-2.5 2.6z"
-                                              fill="current"></path>
-                                    </svg>
-                                </div>
-                            </a></article>
-                        </div>
-                        <div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="6" role="group"
-                             aria-label="Slide" style="margin-right: 12px;">
-                            <article role="presentation" class="home-event-banner css-e7lzfy"><a
-                                    aria-label="부산 워케이션 참가자 전용 배너" class="css-ehfifb"
-                                    href="/special-deal/P20230908152035921">
-                                <div class="css-y6a1r7">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 106 18" width="94.21"
-                                         height="16" class="css-1ir6nbl">
-                                        <path d="M94.8 18V6.7c0-.4-.3-.8-.8-.8-.4 0-.8.3-.8.8V18h-5.1V5.9C88.1 2.6 90.8 0 94 0s5.9 2.6 5.9 5.9V18h-5.1zm-9.5-5.1h1.8V18H76.9c-2.3 0-4.1-1.8-4.1-4.1V4.1c0-2.3 1.8-4.1 4.1-4.1h10.2v5.1h-1.8v7.8zm-4.5 0V5.1H79c-.6 0-1 .5-1 1v5.7c0 .6.5 1 1 1l1.8.1zM19.4 3.3v-.7c0-1.4 1.1-2.6 2.5-2.6s2.5 1.2 2.5 2.6V18h-5.1v-3.3h-3.5c-1.6 2-4.1 3.3-6.9 3.3C4 18 0 14 0 9s4-9 8.9-9c2.8 0 5.3 1.3 6.9 3.3h3.6zM17.8 8c0 .3.1.7.1 1s0 .7-.1 1h1.6V8h-1.6zm-8.9 5.1c2.3 0 4.1-1.8 4.1-4.1s-1.8-4.1-4.1-4.1S4.8 6.7 4.8 9s1.9 4.1 4.1 4.1zM38.3 1.2c.7.7 1.2 1.8 1.2 2.9V18h-5.1V6.2c0-.6-.5-1-1-1h-5.6c-1.4 0-2.5-1.2-2.5-2.6S26.4 0 27.8 0h7.6c1.1 0 2.2.5 2.9 1.2zM43.1 0c1.4 0 2.5 1.2 2.5 2.6V18h-5.1V2.6c0-1.4 1.1-2.6 2.6-2.6zm23.1 6.4V2.6c0-1.4 1.1-2.6 2.5-2.6s2.5 1.2 2.5 2.6V18h-5.1v-6.4h-1.9c-1.1 3.7-4.5 6.4-8.5 6.4-4.9 0-8.9-4-8.9-9s4-9 8.9-9c4 0 7.4 2.7 8.5 6.4h2zm-10.4 6.7c2.3 0 4.1-1.8 4.1-4.1S58 4.9 55.8 4.9 51.7 6.7 51.7 9s1.8 4.1 4.1 4.1zm47.6 4.9c-1.4 0-2.5-1.2-2.5-2.6s1.1-2.6 2.5-2.6 2.5 1.2 2.5 2.6-1.1 2.6-2.5 2.6z"
-                                              fill="current"></path>
-                                    </svg>
-                                </div>
-                            </a></article>
-                        </div>
-                        <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-prev"
-                             data-swiper-slide-index="7" role="group" aria-label="Slide" style="margin-right: 12px;">
-                            <article role="presentation" class="home-event-banner css-e7lzfy"><a aria-label="인기공간 할인파티"
-                                                                                                 class="css-ehfifb"
-                                                                                                 href="/event/3458?title=%EC%9D%B8%EA%B8%B0%EA%B3%B5%EA%B0%84%20%ED%95%A0%EC%9D%B8%ED%8C%8C%ED%8B%B0&amp;url=https://api3.goodchoice.kr/event3/web/adEventView?aevno=3458">
-                                <div class="css-y6a1r7">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 106 18" width="94.21"
-                                         height="16" class="css-1ir6nbl">
-                                        <path d="M94.8 18V6.7c0-.4-.3-.8-.8-.8-.4 0-.8.3-.8.8V18h-5.1V5.9C88.1 2.6 90.8 0 94 0s5.9 2.6 5.9 5.9V18h-5.1zm-9.5-5.1h1.8V18H76.9c-2.3 0-4.1-1.8-4.1-4.1V4.1c0-2.3 1.8-4.1 4.1-4.1h10.2v5.1h-1.8v7.8zm-4.5 0V5.1H79c-.6 0-1 .5-1 1v5.7c0 .6.5 1 1 1l1.8.1zM19.4 3.3v-.7c0-1.4 1.1-2.6 2.5-2.6s2.5 1.2 2.5 2.6V18h-5.1v-3.3h-3.5c-1.6 2-4.1 3.3-6.9 3.3C4 18 0 14 0 9s4-9 8.9-9c2.8 0 5.3 1.3 6.9 3.3h3.6zM17.8 8c0 .3.1.7.1 1s0 .7-.1 1h1.6V8h-1.6zm-8.9 5.1c2.3 0 4.1-1.8 4.1-4.1s-1.8-4.1-4.1-4.1S4.8 6.7 4.8 9s1.9 4.1 4.1 4.1zM38.3 1.2c.7.7 1.2 1.8 1.2 2.9V18h-5.1V6.2c0-.6-.5-1-1-1h-5.6c-1.4 0-2.5-1.2-2.5-2.6S26.4 0 27.8 0h7.6c1.1 0 2.2.5 2.9 1.2zM43.1 0c1.4 0 2.5 1.2 2.5 2.6V18h-5.1V2.6c0-1.4 1.1-2.6 2.6-2.6zm23.1 6.4V2.6c0-1.4 1.1-2.6 2.5-2.6s2.5 1.2 2.5 2.6V18h-5.1v-6.4h-1.9c-1.1 3.7-4.5 6.4-8.5 6.4-4.9 0-8.9-4-8.9-9s4-9 8.9-9c4 0 7.4 2.7 8.5 6.4h2zm-10.4 6.7c2.3 0 4.1-1.8 4.1-4.1S58 4.9 55.8 4.9 51.7 6.7 51.7 9s1.8 4.1 4.1 4.1zm47.6 4.9c-1.4 0-2.5-1.2-2.5-2.6s1.1-2.6 2.5-2.6 2.5 1.2 2.5 2.6-1.1 2.6-2.5 2.6z"
-                                              fill="current"></path>
-                                    </svg>
-                                </div>
-                            </a></article>
-                        </div>
-                        <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active"
-                             data-swiper-slide-index="8" role="group" aria-label="Slide" style="margin-right: 12px;">
-                            <article role="presentation" class="home-event-banner css-e7lzfy"><a
-                                    aria-label="8월 결제 프로모션 모음" class="css-ehfifb"
-                                    href="/event/4061?title=8%EC%9B%94%20%EA%B2%B0%EC%A0%9C%20%ED%94%84%EB%A1%9C%EB%AA%A8%EC%85%98%20%EB%AA%A8%EC%9D%8C&amp;url=https://api3.goodchoice.kr/event3/web/adEventView?aevno=4061">
-                                <div class="css-y6a1r7">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 106 18" width="94.21"
-                                         height="16" class="css-1ir6nbl">
-                                        <path d="M94.8 18V6.7c0-.4-.3-.8-.8-.8-.4 0-.8.3-.8.8V18h-5.1V5.9C88.1 2.6 90.8 0 94 0s5.9 2.6 5.9 5.9V18h-5.1zm-9.5-5.1h1.8V18H76.9c-2.3 0-4.1-1.8-4.1-4.1V4.1c0-2.3 1.8-4.1 4.1-4.1h10.2v5.1h-1.8v7.8zm-4.5 0V5.1H79c-.6 0-1 .5-1 1v5.7c0 .6.5 1 1 1l1.8.1zM19.4 3.3v-.7c0-1.4 1.1-2.6 2.5-2.6s2.5 1.2 2.5 2.6V18h-5.1v-3.3h-3.5c-1.6 2-4.1 3.3-6.9 3.3C4 18 0 14 0 9s4-9 8.9-9c2.8 0 5.3 1.3 6.9 3.3h3.6zM17.8 8c0 .3.1.7.1 1s0 .7-.1 1h1.6V8h-1.6zm-8.9 5.1c2.3 0 4.1-1.8 4.1-4.1s-1.8-4.1-4.1-4.1S4.8 6.7 4.8 9s1.9 4.1 4.1 4.1zM38.3 1.2c.7.7 1.2 1.8 1.2 2.9V18h-5.1V6.2c0-.6-.5-1-1-1h-5.6c-1.4 0-2.5-1.2-2.5-2.6S26.4 0 27.8 0h7.6c1.1 0 2.2.5 2.9 1.2zM43.1 0c1.4 0 2.5 1.2 2.5 2.6V18h-5.1V2.6c0-1.4 1.1-2.6 2.6-2.6zm23.1 6.4V2.6c0-1.4 1.1-2.6 2.5-2.6s2.5 1.2 2.5 2.6V18h-5.1v-6.4h-1.9c-1.1 3.7-4.5 6.4-8.5 6.4-4.9 0-8.9-4-8.9-9s4-9 8.9-9c4 0 7.4 2.7 8.5 6.4h2zm-10.4 6.7c2.3 0 4.1-1.8 4.1-4.1S58 4.9 55.8 4.9 51.7 6.7 51.7 9s1.8 4.1 4.1 4.1zm47.6 4.9c-1.4 0-2.5-1.2-2.5-2.6s1.1-2.6 2.5-2.6 2.5 1.2 2.5 2.6-1.1 2.6-2.5 2.6z"
-                                              fill="current"></path>
-                                    </svg>
-                                </div>
-                            </a></article>
-                        </div>
-                        <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next"
-                             data-swiper-slide-index="9" role="group" aria-label="Slide" style="margin-right: 12px;">
+                             data-swiper-slide-index="9" role="group" aria-label="Slide"
+                             style="width: 384px; margin-right: 24px;">
                             <article role="presentation" class="home-event-banner css-e7lzfy"><a
                                     aria-label="8월 신규회원 웰컴쿠폰" class="css-ehfifb"
                                     href="/event/4052?title=8%EC%9B%94%20%EC%8B%A0%EA%B7%9C%ED%9A%8C%EC%9B%90%20%EC%9B%B0%EC%BB%B4%EC%BF%A0%ED%8F%B0&amp;url=https://api3.goodchoice.kr/event3/web/adEventView?aevno=4052">
@@ -518,32 +139,228 @@
                                 </div>
                             </a></article>
                         </div>
+                        <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next"
+                             data-swiper-slide-index="10" role="group" aria-label="Slide"
+                             style="width: 384px; margin-right: 24px;">
+                            <article role="presentation" class="home-event-banner css-e7lzfy"><a aria-label="전 세계 월클 할인"
+                                                                                                 class="css-ehfifb"
+                                                                                                 href="/event/3892?title=%EC%A0%84%20%EC%84%B8%EA%B3%84%20%EC%9B%94%ED%81%B4%20%ED%95%A0%EC%9D%B8&amp;url=https://api3.goodchoice.kr/event3/web/adEventView?aevno=3892">
+                                <div class="css-y6a1r7">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 106 18" width="94.21"
+                                         height="16" class="css-1ir6nbl">
+                                        <path d="M94.8 18V6.7c0-.4-.3-.8-.8-.8-.4 0-.8.3-.8.8V18h-5.1V5.9C88.1 2.6 90.8 0 94 0s5.9 2.6 5.9 5.9V18h-5.1zm-9.5-5.1h1.8V18H76.9c-2.3 0-4.1-1.8-4.1-4.1V4.1c0-2.3 1.8-4.1 4.1-4.1h10.2v5.1h-1.8v7.8zm-4.5 0V5.1H79c-.6 0-1 .5-1 1v5.7c0 .6.5 1 1 1l1.8.1zM19.4 3.3v-.7c0-1.4 1.1-2.6 2.5-2.6s2.5 1.2 2.5 2.6V18h-5.1v-3.3h-3.5c-1.6 2-4.1 3.3-6.9 3.3C4 18 0 14 0 9s4-9 8.9-9c2.8 0 5.3 1.3 6.9 3.3h3.6zM17.8 8c0 .3.1.7.1 1s0 .7-.1 1h1.6V8h-1.6zm-8.9 5.1c2.3 0 4.1-1.8 4.1-4.1s-1.8-4.1-4.1-4.1S4.8 6.7 4.8 9s1.9 4.1 4.1 4.1zM38.3 1.2c.7.7 1.2 1.8 1.2 2.9V18h-5.1V6.2c0-.6-.5-1-1-1h-5.6c-1.4 0-2.5-1.2-2.5-2.6S26.4 0 27.8 0h7.6c1.1 0 2.2.5 2.9 1.2zM43.1 0c1.4 0 2.5 1.2 2.5 2.6V18h-5.1V2.6c0-1.4 1.1-2.6 2.6-2.6zm23.1 6.4V2.6c0-1.4 1.1-2.6 2.5-2.6s2.5 1.2 2.5 2.6V18h-5.1v-6.4h-1.9c-1.1 3.7-4.5 6.4-8.5 6.4-4.9 0-8.9-4-8.9-9s4-9 8.9-9c4 0 7.4 2.7 8.5 6.4h2zm-10.4 6.7c2.3 0 4.1-1.8 4.1-4.1S58 4.9 55.8 4.9 51.7 6.7 51.7 9s1.8 4.1 4.1 4.1zm47.6 4.9c-1.4 0-2.5-1.2-2.5-2.6s1.1-2.6 2.5-2.6 2.5 1.2 2.5 2.6-1.1 2.6-2.5 2.6z"
+                                              fill="current"></path>
+                                    </svg>
+                                </div>
+                            </a></article>
+                        </div>
+                        <div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="11" role="group"
+                             aria-label="Slide" style="width: 384px; margin-right: 24px;">
+                            <article role="presentation" class="home-event-banner css-e7lzfy"><a aria-label="월클특가 오픈런"
+                                                                                                 class="css-ehfifb"
+                                                                                                 href="/event/3606?title=%EC%9B%94%ED%81%B4%ED%8A%B9%EA%B0%80%20%EC%98%A4%ED%94%88%EB%9F%B0&amp;url=https://api3.goodchoice.kr/event3/web/adEventView?aevno=3606">
+                                <div class="css-y6a1r7">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 106 18" width="94.21"
+                                         height="16" class="css-1ir6nbl">
+                                        <path d="M94.8 18V6.7c0-.4-.3-.8-.8-.8-.4 0-.8.3-.8.8V18h-5.1V5.9C88.1 2.6 90.8 0 94 0s5.9 2.6 5.9 5.9V18h-5.1zm-9.5-5.1h1.8V18H76.9c-2.3 0-4.1-1.8-4.1-4.1V4.1c0-2.3 1.8-4.1 4.1-4.1h10.2v5.1h-1.8v7.8zm-4.5 0V5.1H79c-.6 0-1 .5-1 1v5.7c0 .6.5 1 1 1l1.8.1zM19.4 3.3v-.7c0-1.4 1.1-2.6 2.5-2.6s2.5 1.2 2.5 2.6V18h-5.1v-3.3h-3.5c-1.6 2-4.1 3.3-6.9 3.3C4 18 0 14 0 9s4-9 8.9-9c2.8 0 5.3 1.3 6.9 3.3h3.6zM17.8 8c0 .3.1.7.1 1s0 .7-.1 1h1.6V8h-1.6zm-8.9 5.1c2.3 0 4.1-1.8 4.1-4.1s-1.8-4.1-4.1-4.1S4.8 6.7 4.8 9s1.9 4.1 4.1 4.1zM38.3 1.2c.7.7 1.2 1.8 1.2 2.9V18h-5.1V6.2c0-.6-.5-1-1-1h-5.6c-1.4 0-2.5-1.2-2.5-2.6S26.4 0 27.8 0h7.6c1.1 0 2.2.5 2.9 1.2zM43.1 0c1.4 0 2.5 1.2 2.5 2.6V18h-5.1V2.6c0-1.4 1.1-2.6 2.6-2.6zm23.1 6.4V2.6c0-1.4 1.1-2.6 2.5-2.6s2.5 1.2 2.5 2.6V18h-5.1v-6.4h-1.9c-1.1 3.7-4.5 6.4-8.5 6.4-4.9 0-8.9-4-8.9-9s4-9 8.9-9c4 0 7.4 2.7 8.5 6.4h2zm-10.4 6.7c2.3 0 4.1-1.8 4.1-4.1S58 4.9 55.8 4.9 51.7 6.7 51.7 9s1.8 4.1 4.1 4.1zm47.6 4.9c-1.4 0-2.5-1.2-2.5-2.6s1.1-2.6 2.5-2.6 2.5 1.2 2.5 2.6-1.1 2.6-2.5 2.6z"
+                                              fill="current"></path>
+                                    </svg>
+                                </div>
+                            </a></article>
+                        </div>
+                        <div class="swiper-slide" data-swiper-slide-index="0" role="group" aria-label="Slide"
+                             style="width: 384px; margin-right: 24px;">
+                            <article role="presentation" class="home-event-banner css-e7lzfy"><a aria-label="전 세계 월클 할인"
+                                                                                                 class="css-ehfifb"
+                                                                                                 href="/event/3892?title=%EC%A0%84%20%EC%84%B8%EA%B3%84%20%EC%9B%94%ED%81%B4%20%ED%95%A0%EC%9D%B8&amp;url=https://api3.goodchoice.kr/event3/web/adEventView?aevno=3892"><img
+                                    alt="전 세계 월클 할인" sizes="100vw"
+                                    srcset="https://image.goodchoice.kr/resize_768x308/exhibition/cms/e3892_dnpqqosj_1200x480hotxoq_1_20240726164916.png 340w, https://image.goodchoice.kr/resize_768x308/exhibition/cms/e3892_dnpqqosj_1200x480hotxoq_1_20240726164916.png 912w, https://image.goodchoice.kr/resize_768x308/exhibition/cms/e3892_dnpqqosj_1200x480hotxoq_1_20240726164916.png 1200w"
+                                    src="https://image.goodchoice.kr/resize_768x308/exhibition/cms/e3892_dnpqqosj_1200x480hotxoq_1_20240726164916.png"
+                                    decoding="async" data-nimg="fill" loading="lazy"
+                                    style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"></a>
+                            </article>
+                        </div>
+                        <div class="swiper-slide" data-swiper-slide-index="1" role="group" aria-label="Slide"
+                             style="width: 384px; margin-right: 24px;">
+                            <article role="presentation" class="home-event-banner css-e7lzfy"><a aria-label="월클특가 오픈런"
+                                                                                                 class="css-ehfifb"
+                                                                                                 href="/event/3606?title=%EC%9B%94%ED%81%B4%ED%8A%B9%EA%B0%80%20%EC%98%A4%ED%94%88%EB%9F%B0&amp;url=https://api3.goodchoice.kr/event3/web/adEventView?aevno=3606"><img
+                                    alt="월클특가 오픈런" sizes="100vw"
+                                    srcset="https://image.goodchoice.kr/resize_768x308/exhibition/cms/e3606_dnpqqosj_1200x480_1_20240605101842_20240605102555.png 340w, https://image.goodchoice.kr/resize_768x308/exhibition/cms/e3606_dnpqqosj_1200x480_1_20240605101842_20240605102555.png 912w, https://image.goodchoice.kr/resize_768x308/exhibition/cms/e3606_dnpqqosj_1200x480_1_20240605101842_20240605102555.png 1200w"
+                                    src="https://image.goodchoice.kr/resize_768x308/exhibition/cms/e3606_dnpqqosj_1200x480_1_20240605101842_20240605102555.png"
+                                    decoding="async" data-nimg="fill" loading="lazy"
+                                    style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"></a>
+                            </article>
+                        </div>
+                        <div class="swiper-slide" data-swiper-slide-index="2" role="group" aria-label="Slide"
+                             style="width: 384px; margin-right: 24px;">
+                            <article role="presentation" class="home-event-banner css-e7lzfy"><a aria-label="베스트 호텔딜"
+                                                                                                 class="css-ehfifb"
+                                                                                                 href="/event/3608?title=%EB%B2%A0%EC%8A%A4%ED%8A%B8%20%ED%98%B8%ED%85%94%EB%94%9C&amp;url=https://api3.goodchoice.kr/event3/web/adEventView?aevno=3608"><img
+                                    alt="베스트 호텔딜" sizes="100vw"
+                                    srcset="https://image.goodchoice.kr/resize_768x308/exhibition/cms/e3608_dnpqqosj_1200x480_20240823195646.png 340w, https://image.goodchoice.kr/resize_768x308/exhibition/cms/e3608_dnpqqosj_1200x480_20240823195646.png 912w, https://image.goodchoice.kr/resize_768x308/exhibition/cms/e3608_dnpqqosj_1200x480_20240823195646.png 1200w"
+                                    src="https://image.goodchoice.kr/resize_768x308/exhibition/cms/e3608_dnpqqosj_1200x480_20240823195646.png"
+                                    decoding="async" data-nimg="fill" loading="lazy"
+                                    style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"></a>
+                            </article>
+                        </div>
+                        <div class="swiper-slide" data-swiper-slide-index="3" role="group" aria-label="Slide"
+                             style="width: 384px; margin-right: 24px;">
+                            <article role="presentation" class="home-event-banner css-e7lzfy"><a
+                                    aria-label="추석 연휴 미리 예약 할인!" class="css-ehfifb"
+                                    href="/special-deal/P20240709152824362"><img alt="추석 연휴 미리 예약 할인!" sizes="100vw"
+                                                                                 srcset="https://image.goodchoice.kr/resize_768x308/exhibition/cms/ghxpfeksxhd2_dnpqqosj_1200x480_20240821082015.png 340w, https://image.goodchoice.kr/resize_768x308/exhibition/cms/ghxpfeksxhd2_dnpqqosj_1200x480_20240821082015.png 912w, https://image.goodchoice.kr/resize_768x308/exhibition/cms/ghxpfeksxhd2_dnpqqosj_1200x480_20240821082015.png 1200w"
+                                                                                 src="https://image.goodchoice.kr/resize_768x308/exhibition/cms/ghxpfeksxhd2_dnpqqosj_1200x480_20240821082015.png"
+                                                                                 decoding="async" data-nimg="fill"
+                                                                                 loading="lazy"
+                                                                                 style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"></a>
+                            </article>
+                        </div>
+                        <div class="swiper-slide" data-swiper-slide-index="4" role="group" aria-label="Slide"
+                             style="width: 384px; margin-right: 24px;">
+                            <article role="presentation" class="home-event-banner css-e7lzfy"><a
+                                    aria-label="전국 인기 펜션 최대 5만원 할인" class="css-ehfifb"
+                                    href="/special-deal/P20240709152849067"><img alt="전국 인기 펜션 최대 5만원 할인" sizes="100vw"
+                                                                                 srcset="https://image.goodchoice.kr/resize_768x308/exhibition/cms/vpstus_eksrlxhdgkq1dnpqqosj_1200x480_20240820193821.png 340w, https://image.goodchoice.kr/resize_768x308/exhibition/cms/vpstus_eksrlxhdgkq1dnpqqosj_1200x480_20240820193821.png 912w, https://image.goodchoice.kr/resize_768x308/exhibition/cms/vpstus_eksrlxhdgkq1dnpqqosj_1200x480_20240820193821.png 1200w"
+                                                                                 src="https://image.goodchoice.kr/resize_768x308/exhibition/cms/vpstus_eksrlxhdgkq1dnpqqosj_1200x480_20240820193821.png"
+                                                                                 decoding="async" data-nimg="fill"
+                                                                                 loading="lazy"
+                                                                                 style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"></a>
+                            </article>
+                        </div>
+                        <div class="swiper-slide" data-swiper-slide-index="5" role="group" aria-label="Slide"
+                             style="width: 384px; margin-right: 24px;">
+                            <article role="presentation" class="home-event-banner css-e7lzfy"><a
+                                    aria-label="지금 할인 중인 게스트하우스" class="css-ehfifb"
+                                    href="/special-deal/P20240820091851736"><img alt="지금 할인 중인 게스트하우스" sizes="100vw"
+                                                                                 srcset="https://image.goodchoice.kr/resize_768x308/exhibition/cms/rpgk_eksrlxhdgkq1dnpqqosj_1200x480_20240820094317.png 340w, https://image.goodchoice.kr/resize_768x308/exhibition/cms/rpgk_eksrlxhdgkq1dnpqqosj_1200x480_20240820094317.png 912w, https://image.goodchoice.kr/resize_768x308/exhibition/cms/rpgk_eksrlxhdgkq1dnpqqosj_1200x480_20240820094317.png 1200w"
+                                                                                 src="https://image.goodchoice.kr/resize_768x308/exhibition/cms/rpgk_eksrlxhdgkq1dnpqqosj_1200x480_20240820094317.png"
+                                                                                 decoding="async" data-nimg="fill"
+                                                                                 loading="lazy"
+                                                                                 style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"></a>
+                            </article>
+                        </div>
+                        <div class="swiper-slide" data-swiper-slide-index="6" role="group" aria-label="Slide"
+                             style="width: 384px; margin-right: 24px;">
+                            <article role="presentation" class="home-event-banner css-e7lzfy"><a
+                                    aria-label="부산 워케이션 참가자 전용 배너" class="css-ehfifb"
+                                    href="/special-deal/P20230908152035921"><img alt="부산 워케이션 참가자 전용 배너" sizes="100vw"
+                                                                                 srcset="https://image.goodchoice.kr/resize_768x308/exhibition/cms/0716_dnpqqosj_1200x480_20240716165731.png 340w, https://image.goodchoice.kr/resize_768x308/exhibition/cms/0716_dnpqqosj_1200x480_20240716165731.png 912w, https://image.goodchoice.kr/resize_768x308/exhibition/cms/0716_dnpqqosj_1200x480_20240716165731.png 1200w"
+                                                                                 src="https://image.goodchoice.kr/resize_768x308/exhibition/cms/0716_dnpqqosj_1200x480_20240716165731.png"
+                                                                                 decoding="async" data-nimg="fill"
+                                                                                 loading="lazy"
+                                                                                 style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"></a>
+                            </article>
+                        </div>
+                        <div class="swiper-slide" data-swiper-slide-index="7" role="group" aria-label="Slide"
+                             style="width: 384px; margin-right: 24px;">
+                            <article role="presentation" class="home-event-banner css-e7lzfy"><a aria-label="인기공간 할인파티"
+                                                                                                 class="css-ehfifb"
+                                                                                                 href="/event/3458?title=%EC%9D%B8%EA%B8%B0%EA%B3%B5%EA%B0%84%20%ED%95%A0%EC%9D%B8%ED%8C%8C%ED%8B%B0&amp;url=https://api3.goodchoice.kr/event3/web/adEventView?aevno=3458"><img
+                                    alt="인기공간 할인파티" sizes="100vw"
+                                    srcset="https://image.goodchoice.kr/resize_768x308/exhibition/cms/e3458_dnpqqosj_1200x480_1_20240401202304.png 340w, https://image.goodchoice.kr/resize_768x308/exhibition/cms/e3458_dnpqqosj_1200x480_1_20240401202304.png 912w, https://image.goodchoice.kr/resize_768x308/exhibition/cms/e3458_dnpqqosj_1200x480_1_20240401202304.png 1200w"
+                                    src="https://image.goodchoice.kr/resize_768x308/exhibition/cms/e3458_dnpqqosj_1200x480_1_20240401202304.png"
+                                    decoding="async" data-nimg="fill" loading="lazy"
+                                    style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"></a>
+                            </article>
+                        </div>
+                        <div class="swiper-slide swiper-slide-prev" data-swiper-slide-index="8" role="group"
+                             aria-label="Slide" style="width: 384px; margin-right: 24px;">
+                            <article role="presentation" class="home-event-banner css-e7lzfy"><a
+                                    aria-label="8월 결제 프로모션 모음" class="css-ehfifb"
+                                    href="/event/4061?title=8%EC%9B%94%20%EA%B2%B0%EC%A0%9C%20%ED%94%84%EB%A1%9C%EB%AA%A8%EC%85%98%20%EB%AA%A8%EC%9D%8C&amp;url=https://api3.goodchoice.kr/event3/web/adEventView?aevno=4061"><img
+                                    alt="8월 결제 프로모션 모음" sizes="100vw"
+                                    srcset="https://image.goodchoice.kr/resize_768x308/exhibition/cms/e4061_______________________1200x480_20240730184859.png 340w, https://image.goodchoice.kr/resize_768x308/exhibition/cms/e4061_______________________1200x480_20240730184859.png 912w, https://image.goodchoice.kr/resize_768x308/exhibition/cms/e4061_______________________1200x480_20240730184859.png 1200w"
+                                    src="https://image.goodchoice.kr/resize_768x308/exhibition/cms/e4061_______________________1200x480_20240730184859.png"
+                                    decoding="async" data-nimg="fill" loading="lazy"
+                                    style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"></a>
+                            </article>
+                        </div>
+                        <div class="swiper-slide swiper-slide-visible swiper-slide-active" data-swiper-slide-index="9"
+                             role="group" aria-label="Slide" style="width: 384px; margin-right: 24px;">
+                            <article role="presentation" class="home-event-banner css-e7lzfy"><a
+                                    aria-label="8월 신규회원 웰컴쿠폰" class="css-ehfifb"
+                                    href="/event/4052?title=8%EC%9B%94%20%EC%8B%A0%EA%B7%9C%ED%9A%8C%EC%9B%90%20%EC%9B%B0%EC%BB%B4%EC%BF%A0%ED%8F%B0&amp;url=https://api3.goodchoice.kr/event3/web/adEventView?aevno=4052"><img
+                                    alt="8월 신규회원 웰컴쿠폰" sizes="100vw"
+                                    srcset="https://image.goodchoice.kr/resize_768x308/exhibition/cms/8dnjftlsrbznvhs_8184_Web_20240730184251.png 340w, https://image.goodchoice.kr/resize_768x308/exhibition/cms/8dnjftlsrbznvhs_8184_Web_20240730184251.png 912w, https://image.goodchoice.kr/resize_768x308/exhibition/cms/8dnjftlsrbznvhs_8184_Web_20240730184251.png 1200w"
+                                    src="https://image.goodchoice.kr/resize_768x308/exhibition/cms/8dnjftlsrbznvhs_8184_Web_20240730184251.png"
+                                    decoding="async" data-nimg="fill" loading="lazy"
+                                    style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"></a>
+                            </article>
+                        </div>
+                        <div class="swiper-slide swiper-slide-visible swiper-slide-next" data-swiper-slide-index="10"
+                             role="group" aria-label="Slide" style="width: 384px; margin-right: 24px;">
+                            <article role="presentation" class="home-event-banner css-e7lzfy"><a aria-label="전 세계 월클 할인"
+                                                                                                 class="css-ehfifb"
+                                                                                                 href="/event/3892?title=%EC%A0%84%20%EC%84%B8%EA%B3%84%20%EC%9B%94%ED%81%B4%20%ED%95%A0%EC%9D%B8&amp;url=https://api3.goodchoice.kr/event3/web/adEventView?aevno=3892"><img
+                                    alt="전 세계 월클 할인" sizes="100vw"
+                                    srcset="https://image.goodchoice.kr/resize_768x308/exhibition/cms/e3892_dnpqqosj_1200x480hotxoq_1_20240726164916.png 340w, https://image.goodchoice.kr/resize_768x308/exhibition/cms/e3892_dnpqqosj_1200x480hotxoq_1_20240726164916.png 912w, https://image.goodchoice.kr/resize_768x308/exhibition/cms/e3892_dnpqqosj_1200x480hotxoq_1_20240726164916.png 1200w"
+                                    src="https://image.goodchoice.kr/resize_768x308/exhibition/cms/e3892_dnpqqosj_1200x480hotxoq_1_20240726164916.png"
+                                    decoding="async" data-nimg="fill" loading="lazy"
+                                    style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"></a>
+                            </article>
+                        </div>
+                        <div class="swiper-slide swiper-slide-visible" data-swiper-slide-index="11" role="group"
+                             aria-label="Slide" style="width: 384px; margin-right: 24px;">
+                            <article role="presentation" class="home-event-banner css-e7lzfy"><a aria-label="월클특가 오픈런"
+                                                                                                 class="css-ehfifb"
+                                                                                                 href="/event/3606?title=%EC%9B%94%ED%81%B4%ED%8A%B9%EA%B0%80%20%EC%98%A4%ED%94%88%EB%9F%B0&amp;url=https://api3.goodchoice.kr/event3/web/adEventView?aevno=3606"><img
+                                    alt="월클특가 오픈런" sizes="100vw"
+                                    srcset="https://image.goodchoice.kr/resize_768x308/exhibition/cms/e3606_dnpqqosj_1200x480_1_20240605101842_20240605102555.png 340w, https://image.goodchoice.kr/resize_768x308/exhibition/cms/e3606_dnpqqosj_1200x480_1_20240605101842_20240605102555.png 912w, https://image.goodchoice.kr/resize_768x308/exhibition/cms/e3606_dnpqqosj_1200x480_1_20240605101842_20240605102555.png 1200w"
+                                    src="https://image.goodchoice.kr/resize_768x308/exhibition/cms/e3606_dnpqqosj_1200x480_1_20240605101842_20240605102555.png"
+                                    decoding="async" data-nimg="fill" loading="lazy"
+                                    style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"></a>
+                            </article>
+                        </div>
+                        <div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="0" role="group"
+                             aria-label="Slide" style="width: 384px; margin-right: 24px;">
+                            <article role="presentation" class="home-event-banner css-e7lzfy"><a aria-label="전 세계 월클 할인"
+                                                                                                 class="css-ehfifb"
+                                                                                                 href="/event/3892?title=%EC%A0%84%20%EC%84%B8%EA%B3%84%20%EC%9B%94%ED%81%B4%20%ED%95%A0%EC%9D%B8&amp;url=https://api3.goodchoice.kr/event3/web/adEventView?aevno=3892"><img
+                                    alt="전 세계 월클 할인" sizes="100vw"
+                                    srcset="https://image.goodchoice.kr/resize_768x308/exhibition/cms/e3892_dnpqqosj_1200x480hotxoq_1_20240726164916.png 340w, https://image.goodchoice.kr/resize_768x308/exhibition/cms/e3892_dnpqqosj_1200x480hotxoq_1_20240726164916.png 912w, https://image.goodchoice.kr/resize_768x308/exhibition/cms/e3892_dnpqqosj_1200x480hotxoq_1_20240726164916.png 1200w"
+                                    src="https://image.goodchoice.kr/resize_768x308/exhibition/cms/e3892_dnpqqosj_1200x480hotxoq_1_20240726164916.png"
+                                    decoding="async" data-nimg="fill" loading="lazy"
+                                    style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"></a>
+                            </article>
+                        </div>
+                        <div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="1" role="group"
+                             aria-label="Slide" style="width: 384px; margin-right: 24px;">
+                            <article role="presentation" class="home-event-banner css-e7lzfy"><a aria-label="월클특가 오픈런"
+                                                                                                 class="css-ehfifb"
+                                                                                                 href="/event/3606?title=%EC%9B%94%ED%81%B4%ED%8A%B9%EA%B0%80%20%EC%98%A4%ED%94%88%EB%9F%B0&amp;url=https://api3.goodchoice.kr/event3/web/adEventView?aevno=3606"><img
+                                    alt="월클특가 오픈런" sizes="100vw"
+                                    srcset="https://image.goodchoice.kr/resize_768x308/exhibition/cms/e3606_dnpqqosj_1200x480_1_20240605101842_20240605102555.png 340w, https://image.goodchoice.kr/resize_768x308/exhibition/cms/e3606_dnpqqosj_1200x480_1_20240605101842_20240605102555.png 912w, https://image.goodchoice.kr/resize_768x308/exhibition/cms/e3606_dnpqqosj_1200x480_1_20240605101842_20240605102555.png 1200w"
+                                    src="https://image.goodchoice.kr/resize_768x308/exhibition/cms/e3606_dnpqqosj_1200x480_1_20240605101842_20240605102555.png"
+                                    decoding="async" data-nimg="fill" loading="lazy"
+                                    style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"></a>
+                            </article>
+                        </div>
+                        <div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="2" role="group"
+                             aria-label="Slide" style="width: 384px; margin-right: 24px;">
+                            <article role="presentation" class="home-event-banner css-e7lzfy"><a aria-label="베스트 호텔딜"
+                                                                                                 class="css-ehfifb"
+                                                                                                 href="/event/3608?title=%EB%B2%A0%EC%8A%A4%ED%8A%B8%20%ED%98%B8%ED%85%94%EB%94%9C&amp;url=https://api3.goodchoice.kr/event3/web/adEventView?aevno=3608"><img
+                                    alt="베스트 호텔딜" sizes="100vw"
+                                    srcset="https://image.goodchoice.kr/resize_768x308/exhibition/cms/e3608_dnpqqosj_1200x480_20240823195646.png 340w, https://image.goodchoice.kr/resize_768x308/exhibition/cms/e3608_dnpqqosj_1200x480_20240823195646.png 912w, https://image.goodchoice.kr/resize_768x308/exhibition/cms/e3608_dnpqqosj_1200x480_20240823195646.png 1200w"
+                                    src="https://image.goodchoice.kr/resize_768x308/exhibition/cms/e3608_dnpqqosj_1200x480_20240823195646.png"
+                                    decoding="async" data-nimg="fill" loading="lazy"
+                                    style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"></a>
+                            </article>
+                        </div>
                     </div>
-                    <div class="swiper-pagination swiper-pagination-clickable swiper-pagination-bullets swiper-pagination-horizontal swiper-pagination-bullets-dynamic"
-                         style="width: 80px;"><span class="swiper-pagination-bullet" tabindex="0" role="button"
-                                                    aria-label="Go to slide 1" style="left: -96px;"></span><span
-                            class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 2"
-                            style="left: -96px;"></span><span class="swiper-pagination-bullet" tabindex="0"
-                                                              role="button" aria-label="Go to slide 3"
-                                                              style="left: -96px;"></span><span
-                            class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 4"
-                            style="left: -96px;"></span><span class="swiper-pagination-bullet" tabindex="0"
-                                                              role="button" aria-label="Go to slide 5"
-                                                              style="left: -96px;"></span><span
-                            class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 6"
-                            style="left: -96px;"></span><span
-                            class="swiper-pagination-bullet swiper-pagination-bullet-active-prev-prev" tabindex="0"
-                            role="button" aria-label="Go to slide 7" style="left: -96px;"></span><span
-                            class="swiper-pagination-bullet swiper-pagination-bullet-active-prev" tabindex="0"
-                            role="button" aria-label="Go to slide 8" style="left: -96px;"></span><span
-                            class="swiper-pagination-bullet swiper-pagination-bullet-active swiper-pagination-bullet-active-main"
-                            tabindex="0" role="button" aria-label="Go to slide 9" style="left: -96px;"
-                            aria-current="true"></span><span
-                            class="swiper-pagination-bullet swiper-pagination-bullet-active-next" tabindex="0"
-                            role="button" aria-label="Go to slide 10" style="left: -96px;"></span></div>
+                    <div class="swiper-pagination swiper-pagination-clickable swiper-pagination-bullets swiper-pagination-horizontal">
+                        <span class="swiper-pagination-bullet" tabindex="0" role="button"
+                              aria-label="Go to slide 1"></span><span class="swiper-pagination-bullet" tabindex="0"
+                                                                      role="button"
+                                                                      aria-label="Go to slide 2"></span><span
+                            class="swiper-pagination-bullet" tabindex="0" role="button"
+                            aria-label="Go to slide 3"></span><span
+                            class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0" role="button"
+                            aria-label="Go to slide 4" aria-current="true"></span></div>
                     <div style="user-select: none;" tabindex="0" role="button" aria-label="Prev Slide"
                          aria-controls="home-events-swiper">
-                        <div class="swiper-prev-btn css-cmzj7w" data-testid="swiper-prev-btn" tabindex="-1">
+                        <div class="swiper-prev-btn css-7ftnaz" data-testid="swiper-prev-btn" tabindex="-1">
                             <svg width="20" height="20" viewBox="0 0 20 20" fill="none"
                                  xmlns="http://www.w3.org/2000/svg" class="css-ljfiaz">
                                 <path d="M12.98 14.594L11.573 16l-4.986-4.594a1.978 1.978 0 010-2.812c.52-.518 2.19-2.049 5.007-4.594l1.401 1.392L7.975 10l5.005 4.594z"
@@ -553,7 +370,7 @@
                     </div>
                     <div style="user-select: none;" tabindex="0" role="button" aria-label="Next Slide"
                          aria-controls="home-events-swiper">
-                        <div class="swiper-next-btn css-r2qc3v" data-testid="swiper-next-btn" tabindex="-1">
+                        <div class="swiper-next-btn css-1jqm1m" data-testid="swiper-next-btn" tabindex="-1">
                             <svg width="20" height="20" viewBox="0 0 20 20" fill="none"
                                  xmlns="http://www.w3.org/2000/svg" class="css-ljfiaz">
                                 <path d="M7.016 14.594L12.02 10 7 5.392 8.402 4c2.816 2.545 4.485 4.076 5.007 4.594a1.978 1.978 0 010 2.812L8.422 16l-1.406-1.406z"
@@ -772,11 +589,6 @@
                         aria-controls="POPULAR_ACCOMMODATION_TAB_7" class="css-qdm543">게하·한옥
                     </li>
                 </ul>
-                <div role="button" aria-label="탭 확장" tabindex="0" class="css-bfmpgr"><span class="css-1ckopbp"><svg
-                        width="15" height="15" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"
-                        class="css-ljfiaz"><path
-                        d="M5.406 8.016L10 13.02 14.608 8 16 9.402s-3.817 4.225-4.594 5.007a1.978 1.978 0 01-2.812 0L4 9.422l1.406-1.406z"
-                        fill="current"></path></svg></span></div>
             </div>
         </div>
         <div class="gc-carousel-type-seller-cards css-1b1suyr">
@@ -784,9 +596,9 @@
                 <div class="swiper swiper-initialized swiper-horizontal swiper-pointer-events swiper-watch-progress"
                      aria-label="Slide Container">
                     <div class="swiper-wrapper" id="gc-carousel-type-seller-cards-swiper-4" aria-live="polite"
-                         style="transition-duration: 0ms; transform: translate3d(20px, 0px, 0px);">
+                         style="transition-duration: 0ms; transform: translate3d(0px, 0px, 0px);">
                         <div class="swiper-slide swiper-slide-visible swiper-slide-active" role="group"
-                             aria-label="Slide" style="margin-right: 12px;">
+                             aria-label="Slide" style="margin-right: 24px;">
                             <article role="presentation" class="gc-carousel-seller-card"><a target="_blank"
                                                                                             class="css-1s6ipaw"
                                                                                             href="/domestic-accommodations/46156?checkIn=2024-08-25&amp;checkOut=2024-08-26&amp;personal=2">
@@ -823,7 +635,7 @@
                             </a></article>
                         </div>
                         <div class="swiper-slide swiper-slide-visible swiper-slide-next" role="group" aria-label="Slide"
-                             style="margin-right: 12px;">
+                             style="margin-right: 24px;">
                             <article role="presentation" class="gc-carousel-seller-card"><a target="_blank"
                                                                                             class="css-1s6ipaw"
                                                                                             href="/domestic-accommodations/4478?checkIn=2024-08-25&amp;checkOut=2024-08-26&amp;personal=2">
@@ -860,7 +672,7 @@
                             </a></article>
                         </div>
                         <div class="swiper-slide swiper-slide-visible" role="group" aria-label="Slide"
-                             style="margin-right: 12px;">
+                             style="margin-right: 24px;">
                             <article role="presentation" class="gc-carousel-seller-card"><a target="_blank"
                                                                                             class="css-1s6ipaw"
                                                                                             href="/domestic-accommodations/895?checkIn=2024-08-25&amp;checkOut=2024-08-26&amp;personal=2">
@@ -895,18 +707,18 @@
                                 </div>
                             </a></article>
                         </div>
-                        <div class="swiper-slide" role="group" aria-label="Slide" style="margin-right: 12px;">
+                        <div class="swiper-slide swiper-slide-visible" role="group" aria-label="Slide"
+                             style="margin-right: 24px;">
                             <article role="presentation" class="gc-carousel-seller-card"><a target="_blank"
                                                                                             class="css-1s6ipaw"
                                                                                             href="/domestic-accommodations/48951?checkIn=2024-08-25&amp;checkOut=2024-08-26&amp;personal=2">
-                                <div class="css-1u3x8z">
-                                    <div class="gc-carousel-seller-card-image absolute top-Spacing0 left-Spacing0 desktop:hover:bg-backgroundOverlayDarkInactive css-y6a1r7">
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 106 18" width="94.21"
-                                             height="16" class="css-1ir6nbl">
-                                            <path d="M94.8 18V6.7c0-.4-.3-.8-.8-.8-.4 0-.8.3-.8.8V18h-5.1V5.9C88.1 2.6 90.8 0 94 0s5.9 2.6 5.9 5.9V18h-5.1zm-9.5-5.1h1.8V18H76.9c-2.3 0-4.1-1.8-4.1-4.1V4.1c0-2.3 1.8-4.1 4.1-4.1h10.2v5.1h-1.8v7.8zm-4.5 0V5.1H79c-.6 0-1 .5-1 1v5.7c0 .6.5 1 1 1l1.8.1zM19.4 3.3v-.7c0-1.4 1.1-2.6 2.5-2.6s2.5 1.2 2.5 2.6V18h-5.1v-3.3h-3.5c-1.6 2-4.1 3.3-6.9 3.3C4 18 0 14 0 9s4-9 8.9-9c2.8 0 5.3 1.3 6.9 3.3h3.6zM17.8 8c0 .3.1.7.1 1s0 .7-.1 1h1.6V8h-1.6zm-8.9 5.1c2.3 0 4.1-1.8 4.1-4.1s-1.8-4.1-4.1-4.1S4.8 6.7 4.8 9s1.9 4.1 4.1 4.1zM38.3 1.2c.7.7 1.2 1.8 1.2 2.9V18h-5.1V6.2c0-.6-.5-1-1-1h-5.6c-1.4 0-2.5-1.2-2.5-2.6S26.4 0 27.8 0h7.6c1.1 0 2.2.5 2.9 1.2zM43.1 0c1.4 0 2.5 1.2 2.5 2.6V18h-5.1V2.6c0-1.4 1.1-2.6 2.6-2.6zm23.1 6.4V2.6c0-1.4 1.1-2.6 2.5-2.6s2.5 1.2 2.5 2.6V18h-5.1v-6.4h-1.9c-1.1 3.7-4.5 6.4-8.5 6.4-4.9 0-8.9-4-8.9-9s4-9 8.9-9c4 0 7.4 2.7 8.5 6.4h2zm-10.4 6.7c2.3 0 4.1-1.8 4.1-4.1S58 4.9 55.8 4.9 51.7 6.7 51.7 9s1.8 4.1 4.1 4.1zm47.6 4.9c-1.4 0-2.5-1.2-2.5-2.6s1.1-2.6 2.5-2.6 2.5 1.2 2.5 2.6-1.1 2.6-2.5 2.6z"
-                                                  fill="current"></path>
-                                        </svg>
-                                    </div>
+                                <div class="css-1u3x8z"><img alt="★당일특가★ 세인트존스 호텔" sizes="100vw"
+                                                             srcset="https://image.goodchoice.kr/resize_564x338/affiliate/2019/07/12/5d28096981820.jpg 340w, https://image.goodchoice.kr/resize_564x338/affiliate/2019/07/12/5d28096981820.jpg 912w, https://image.goodchoice.kr/resize_564x338/affiliate/2019/07/12/5d28096981820.jpg 1200w"
+                                                             src="https://image.goodchoice.kr/resize_564x338/affiliate/2019/07/12/5d28096981820.jpg"
+                                                             decoding="async" data-nimg="fill"
+                                                             class="gc-carousel-seller-card-image absolute top-Spacing0 left-Spacing0 desktop:hover:bg-backgroundOverlayDarkInactive"
+                                                             loading="lazy"
+                                                             style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;">
                                 </div>
                                 <div class="css-uephkq">
                                     <div class="css-11ph1yg">
@@ -933,18 +745,17 @@
                                 </div>
                             </a></article>
                         </div>
-                        <div class="swiper-slide" role="group" aria-label="Slide" style="margin-right: 12px;">
+                        <div class="swiper-slide" role="group" aria-label="Slide" style="margin-right: 24px;">
                             <article role="presentation" class="gc-carousel-seller-card"><a target="_blank"
                                                                                             class="css-1s6ipaw"
                                                                                             href="/domestic-accommodations/3468?checkIn=2024-08-25&amp;checkOut=2024-08-26&amp;personal=2">
-                                <div class="css-1u3x8z">
-                                    <div class="gc-carousel-seller-card-image absolute top-Spacing0 left-Spacing0 desktop:hover:bg-backgroundOverlayDarkInactive css-y6a1r7">
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 106 18" width="94.21"
-                                             height="16" class="css-1ir6nbl">
-                                            <path d="M94.8 18V6.7c0-.4-.3-.8-.8-.8-.4 0-.8.3-.8.8V18h-5.1V5.9C88.1 2.6 90.8 0 94 0s5.9 2.6 5.9 5.9V18h-5.1zm-9.5-5.1h1.8V18H76.9c-2.3 0-4.1-1.8-4.1-4.1V4.1c0-2.3 1.8-4.1 4.1-4.1h10.2v5.1h-1.8v7.8zm-4.5 0V5.1H79c-.6 0-1 .5-1 1v5.7c0 .6.5 1 1 1l1.8.1zM19.4 3.3v-.7c0-1.4 1.1-2.6 2.5-2.6s2.5 1.2 2.5 2.6V18h-5.1v-3.3h-3.5c-1.6 2-4.1 3.3-6.9 3.3C4 18 0 14 0 9s4-9 8.9-9c2.8 0 5.3 1.3 6.9 3.3h3.6zM17.8 8c0 .3.1.7.1 1s0 .7-.1 1h1.6V8h-1.6zm-8.9 5.1c2.3 0 4.1-1.8 4.1-4.1s-1.8-4.1-4.1-4.1S4.8 6.7 4.8 9s1.9 4.1 4.1 4.1zM38.3 1.2c.7.7 1.2 1.8 1.2 2.9V18h-5.1V6.2c0-.6-.5-1-1-1h-5.6c-1.4 0-2.5-1.2-2.5-2.6S26.4 0 27.8 0h7.6c1.1 0 2.2.5 2.9 1.2zM43.1 0c1.4 0 2.5 1.2 2.5 2.6V18h-5.1V2.6c0-1.4 1.1-2.6 2.6-2.6zm23.1 6.4V2.6c0-1.4 1.1-2.6 2.5-2.6s2.5 1.2 2.5 2.6V18h-5.1v-6.4h-1.9c-1.1 3.7-4.5 6.4-8.5 6.4-4.9 0-8.9-4-8.9-9s4-9 8.9-9c4 0 7.4 2.7 8.5 6.4h2zm-10.4 6.7c2.3 0 4.1-1.8 4.1-4.1S58 4.9 55.8 4.9 51.7 6.7 51.7 9s1.8 4.1 4.1 4.1zm47.6 4.9c-1.4 0-2.5-1.2-2.5-2.6s1.1-2.6 2.5-2.6 2.5 1.2 2.5 2.6-1.1 2.6-2.5 2.6z"
-                                                  fill="current"></path>
-                                        </svg>
-                                    </div>
+                                <div class="css-1u3x8z"><img alt="수원역 J호텔-제이호텔" sizes="100vw"
+                                                             srcset="https://image.goodchoice.kr/resize_564x338/adimg_new/3468/422268/eaed29d47500708f8cdc488356470392.jpg 340w, https://image.goodchoice.kr/resize_564x338/adimg_new/3468/422268/eaed29d47500708f8cdc488356470392.jpg 912w, https://image.goodchoice.kr/resize_564x338/adimg_new/3468/422268/eaed29d47500708f8cdc488356470392.jpg 1200w"
+                                                             src="https://image.goodchoice.kr/resize_564x338/adimg_new/3468/422268/eaed29d47500708f8cdc488356470392.jpg"
+                                                             decoding="async" data-nimg="fill"
+                                                             class="gc-carousel-seller-card-image absolute top-Spacing0 left-Spacing0 desktop:hover:bg-backgroundOverlayDarkInactive"
+                                                             loading="lazy"
+                                                             style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;">
                                 </div>
                                 <div class="css-uephkq">
                                     <div class="css-11ph1yg">
@@ -969,18 +780,17 @@
                                 </div>
                             </a></article>
                         </div>
-                        <div class="swiper-slide" role="group" aria-label="Slide" style="margin-right: 12px;">
+                        <div class="swiper-slide" role="group" aria-label="Slide" style="margin-right: 24px;">
                             <article role="presentation" class="gc-carousel-seller-card"><a target="_blank"
                                                                                             class="css-1s6ipaw"
                                                                                             href="/domestic-accommodations/9854?checkIn=2024-08-25&amp;checkOut=2024-08-26&amp;personal=2">
-                                <div class="css-1u3x8z">
-                                    <div class="gc-carousel-seller-card-image absolute top-Spacing0 left-Spacing0 desktop:hover:bg-backgroundOverlayDarkInactive css-y6a1r7">
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 106 18" width="94.21"
-                                             height="16" class="css-1ir6nbl">
-                                            <path d="M94.8 18V6.7c0-.4-.3-.8-.8-.8-.4 0-.8.3-.8.8V18h-5.1V5.9C88.1 2.6 90.8 0 94 0s5.9 2.6 5.9 5.9V18h-5.1zm-9.5-5.1h1.8V18H76.9c-2.3 0-4.1-1.8-4.1-4.1V4.1c0-2.3 1.8-4.1 4.1-4.1h10.2v5.1h-1.8v7.8zm-4.5 0V5.1H79c-.6 0-1 .5-1 1v5.7c0 .6.5 1 1 1l1.8.1zM19.4 3.3v-.7c0-1.4 1.1-2.6 2.5-2.6s2.5 1.2 2.5 2.6V18h-5.1v-3.3h-3.5c-1.6 2-4.1 3.3-6.9 3.3C4 18 0 14 0 9s4-9 8.9-9c2.8 0 5.3 1.3 6.9 3.3h3.6zM17.8 8c0 .3.1.7.1 1s0 .7-.1 1h1.6V8h-1.6zm-8.9 5.1c2.3 0 4.1-1.8 4.1-4.1s-1.8-4.1-4.1-4.1S4.8 6.7 4.8 9s1.9 4.1 4.1 4.1zM38.3 1.2c.7.7 1.2 1.8 1.2 2.9V18h-5.1V6.2c0-.6-.5-1-1-1h-5.6c-1.4 0-2.5-1.2-2.5-2.6S26.4 0 27.8 0h7.6c1.1 0 2.2.5 2.9 1.2zM43.1 0c1.4 0 2.5 1.2 2.5 2.6V18h-5.1V2.6c0-1.4 1.1-2.6 2.6-2.6zm23.1 6.4V2.6c0-1.4 1.1-2.6 2.5-2.6s2.5 1.2 2.5 2.6V18h-5.1v-6.4h-1.9c-1.1 3.7-4.5 6.4-8.5 6.4-4.9 0-8.9-4-8.9-9s4-9 8.9-9c4 0 7.4 2.7 8.5 6.4h2zm-10.4 6.7c2.3 0 4.1-1.8 4.1-4.1S58 4.9 55.8 4.9 51.7 6.7 51.7 9s1.8 4.1 4.1 4.1zm47.6 4.9c-1.4 0-2.5-1.2-2.5-2.6s1.1-2.6 2.5-2.6 2.5 1.2 2.5 2.6-1.1 2.6-2.5 2.6z"
-                                                  fill="current"></path>
-                                        </svg>
-                                    </div>
+                                <div class="css-1u3x8z"><img alt="힐튼 경주" sizes="100vw"
+                                                             srcset="https://image.goodchoice.kr/resize_564x338/affiliate/2023/11/28/6565ad6f0b178.png 340w, https://image.goodchoice.kr/resize_564x338/affiliate/2023/11/28/6565ad6f0b178.png 912w, https://image.goodchoice.kr/resize_564x338/affiliate/2023/11/28/6565ad6f0b178.png 1200w"
+                                                             src="https://image.goodchoice.kr/resize_564x338/affiliate/2023/11/28/6565ad6f0b178.png"
+                                                             decoding="async" data-nimg="fill"
+                                                             class="gc-carousel-seller-card-image absolute top-Spacing0 left-Spacing0 desktop:hover:bg-backgroundOverlayDarkInactive"
+                                                             loading="lazy"
+                                                             style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;">
                                 </div>
                                 <div class="css-uephkq">
                                     <div class="css-11ph1yg">
@@ -1007,18 +817,17 @@
                                 </div>
                             </a></article>
                         </div>
-                        <div class="swiper-slide" role="group" aria-label="Slide" style="margin-right: 12px;">
+                        <div class="swiper-slide" role="group" aria-label="Slide" style="margin-right: 24px;">
                             <article role="presentation" class="gc-carousel-seller-card"><a target="_blank"
                                                                                             class="css-1s6ipaw"
                                                                                             href="/domestic-accommodations/49688?checkIn=2024-08-25&amp;checkOut=2024-08-26&amp;personal=2">
-                                <div class="css-1u3x8z">
-                                    <div class="gc-carousel-seller-card-image absolute top-Spacing0 left-Spacing0 desktop:hover:bg-backgroundOverlayDarkInactive css-y6a1r7">
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 106 18" width="94.21"
-                                             height="16" class="css-1ir6nbl">
-                                            <path d="M94.8 18V6.7c0-.4-.3-.8-.8-.8-.4 0-.8.3-.8.8V18h-5.1V5.9C88.1 2.6 90.8 0 94 0s5.9 2.6 5.9 5.9V18h-5.1zm-9.5-5.1h1.8V18H76.9c-2.3 0-4.1-1.8-4.1-4.1V4.1c0-2.3 1.8-4.1 4.1-4.1h10.2v5.1h-1.8v7.8zm-4.5 0V5.1H79c-.6 0-1 .5-1 1v5.7c0 .6.5 1 1 1l1.8.1zM19.4 3.3v-.7c0-1.4 1.1-2.6 2.5-2.6s2.5 1.2 2.5 2.6V18h-5.1v-3.3h-3.5c-1.6 2-4.1 3.3-6.9 3.3C4 18 0 14 0 9s4-9 8.9-9c2.8 0 5.3 1.3 6.9 3.3h3.6zM17.8 8c0 .3.1.7.1 1s0 .7-.1 1h1.6V8h-1.6zm-8.9 5.1c2.3 0 4.1-1.8 4.1-4.1s-1.8-4.1-4.1-4.1S4.8 6.7 4.8 9s1.9 4.1 4.1 4.1zM38.3 1.2c.7.7 1.2 1.8 1.2 2.9V18h-5.1V6.2c0-.6-.5-1-1-1h-5.6c-1.4 0-2.5-1.2-2.5-2.6S26.4 0 27.8 0h7.6c1.1 0 2.2.5 2.9 1.2zM43.1 0c1.4 0 2.5 1.2 2.5 2.6V18h-5.1V2.6c0-1.4 1.1-2.6 2.6-2.6zm23.1 6.4V2.6c0-1.4 1.1-2.6 2.5-2.6s2.5 1.2 2.5 2.6V18h-5.1v-6.4h-1.9c-1.1 3.7-4.5 6.4-8.5 6.4-4.9 0-8.9-4-8.9-9s4-9 8.9-9c4 0 7.4 2.7 8.5 6.4h2zm-10.4 6.7c2.3 0 4.1-1.8 4.1-4.1S58 4.9 55.8 4.9 51.7 6.7 51.7 9s1.8 4.1 4.1 4.1zm47.6 4.9c-1.4 0-2.5-1.2-2.5-2.6s1.1-2.6 2.5-2.6 2.5 1.2 2.5 2.6-1.1 2.6-2.5 2.6z"
-                                                  fill="current"></path>
-                                        </svg>
-                                    </div>
+                                <div class="css-1u3x8z"><img alt="★당일특가★ 스카이베이호텔 경포" sizes="100vw"
+                                                             srcset="https://image.goodchoice.kr/resize_564x338/affiliate/2019/02/22/5c6fbd4c90939.jpg 340w, https://image.goodchoice.kr/resize_564x338/affiliate/2019/02/22/5c6fbd4c90939.jpg 912w, https://image.goodchoice.kr/resize_564x338/affiliate/2019/02/22/5c6fbd4c90939.jpg 1200w"
+                                                             src="https://image.goodchoice.kr/resize_564x338/affiliate/2019/02/22/5c6fbd4c90939.jpg"
+                                                             decoding="async" data-nimg="fill"
+                                                             class="gc-carousel-seller-card-image absolute top-Spacing0 left-Spacing0 desktop:hover:bg-backgroundOverlayDarkInactive"
+                                                             loading="lazy"
+                                                             style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;">
                                 </div>
                                 <div class="css-uephkq">
                                     <div class="css-11ph1yg">
@@ -1045,18 +854,17 @@
                                 </div>
                             </a></article>
                         </div>
-                        <div class="swiper-slide" role="group" aria-label="Slide" style="margin-right: 12px;">
+                        <div class="swiper-slide" role="group" aria-label="Slide" style="margin-right: 24px;">
                             <article role="presentation" class="gc-carousel-seller-card"><a target="_blank"
                                                                                             class="css-1s6ipaw"
                                                                                             href="/domestic-accommodations/49868?checkIn=2024-08-25&amp;checkOut=2024-08-26&amp;personal=2">
-                                <div class="css-1u3x8z">
-                                    <div class="gc-carousel-seller-card-image absolute top-Spacing0 left-Spacing0 desktop:hover:bg-backgroundOverlayDarkInactive css-y6a1r7">
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 106 18" width="94.21"
-                                             height="16" class="css-1ir6nbl">
-                                            <path d="M94.8 18V6.7c0-.4-.3-.8-.8-.8-.4 0-.8.3-.8.8V18h-5.1V5.9C88.1 2.6 90.8 0 94 0s5.9 2.6 5.9 5.9V18h-5.1zm-9.5-5.1h1.8V18H76.9c-2.3 0-4.1-1.8-4.1-4.1V4.1c0-2.3 1.8-4.1 4.1-4.1h10.2v5.1h-1.8v7.8zm-4.5 0V5.1H79c-.6 0-1 .5-1 1v5.7c0 .6.5 1 1 1l1.8.1zM19.4 3.3v-.7c0-1.4 1.1-2.6 2.5-2.6s2.5 1.2 2.5 2.6V18h-5.1v-3.3h-3.5c-1.6 2-4.1 3.3-6.9 3.3C4 18 0 14 0 9s4-9 8.9-9c2.8 0 5.3 1.3 6.9 3.3h3.6zM17.8 8c0 .3.1.7.1 1s0 .7-.1 1h1.6V8h-1.6zm-8.9 5.1c2.3 0 4.1-1.8 4.1-4.1s-1.8-4.1-4.1-4.1S4.8 6.7 4.8 9s1.9 4.1 4.1 4.1zM38.3 1.2c.7.7 1.2 1.8 1.2 2.9V18h-5.1V6.2c0-.6-.5-1-1-1h-5.6c-1.4 0-2.5-1.2-2.5-2.6S26.4 0 27.8 0h7.6c1.1 0 2.2.5 2.9 1.2zM43.1 0c1.4 0 2.5 1.2 2.5 2.6V18h-5.1V2.6c0-1.4 1.1-2.6 2.6-2.6zm23.1 6.4V2.6c0-1.4 1.1-2.6 2.5-2.6s2.5 1.2 2.5 2.6V18h-5.1v-6.4h-1.9c-1.1 3.7-4.5 6.4-8.5 6.4-4.9 0-8.9-4-8.9-9s4-9 8.9-9c4 0 7.4 2.7 8.5 6.4h2zm-10.4 6.7c2.3 0 4.1-1.8 4.1-4.1S58 4.9 55.8 4.9 51.7 6.7 51.7 9s1.8 4.1 4.1 4.1zm47.6 4.9c-1.4 0-2.5-1.2-2.5-2.6s1.1-2.6 2.5-2.6 2.5 1.2 2.5 2.6-1.1 2.6-2.5 2.6z"
-                                                  fill="current"></path>
-                                        </svg>
-                                    </div>
+                                <div class="css-1u3x8z"><img alt="의정부 케일라호텔" sizes="100vw"
+                                                             srcset="https://image.goodchoice.kr/resize_564x338/adimg_new/49868/466470/35835ea5a02bb816291b7ff8cb8296fa.jpg 340w, https://image.goodchoice.kr/resize_564x338/adimg_new/49868/466470/35835ea5a02bb816291b7ff8cb8296fa.jpg 912w, https://image.goodchoice.kr/resize_564x338/adimg_new/49868/466470/35835ea5a02bb816291b7ff8cb8296fa.jpg 1200w"
+                                                             src="https://image.goodchoice.kr/resize_564x338/adimg_new/49868/466470/35835ea5a02bb816291b7ff8cb8296fa.jpg"
+                                                             decoding="async" data-nimg="fill"
+                                                             class="gc-carousel-seller-card-image absolute top-Spacing0 left-Spacing0 desktop:hover:bg-backgroundOverlayDarkInactive"
+                                                             loading="lazy"
+                                                             style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;">
                                 </div>
                                 <div class="css-uephkq">
                                     <div class="css-11ph1yg">
@@ -1082,7 +890,7 @@
                                 </div>
                             </a></article>
                         </div>
-                        <div class="swiper-slide" role="group" aria-label="Slide" style="margin-right: 12px;">
+                        <div class="swiper-slide" role="group" aria-label="Slide" style="margin-right: 24px;">
                             <article role="presentation" class="gc-carousel-seller-card"><a target="_blank"
                                                                                             class="css-1s6ipaw"
                                                                                             href="/domestic-accommodations/46728?checkIn=2024-08-25&amp;checkOut=2024-08-26&amp;personal=2">
@@ -1119,7 +927,7 @@
                                 </div>
                             </a></article>
                         </div>
-                        <div class="swiper-slide" role="group" aria-label="Slide" style="margin-right: 12px;">
+                        <div class="swiper-slide" role="group" aria-label="Slide" style="margin-right: 24px;">
                             <article role="presentation" class="gc-carousel-seller-card"><a target="_blank"
                                                                                             class="css-1s6ipaw"
                                                                                             href="/domestic-accommodations/1141?checkIn=2024-08-25&amp;checkOut=2024-08-26&amp;personal=2">
@@ -1156,7 +964,7 @@
                                 </div>
                             </a></article>
                         </div>
-                        <div class="swiper-slide" role="group" aria-label="Slide" style="margin-right: 12px;">
+                        <div class="swiper-slide" role="group" aria-label="Slide" style="margin-right: 24px;">
                             <article role="presentation" class="gc-carousel-seller-card"><a target="_blank"
                                                                                             class="css-1s6ipaw"
                                                                                             href="/domestic-accommodations/65523?checkIn=2024-08-25&amp;checkOut=2024-08-26&amp;personal=2">
@@ -1193,7 +1001,7 @@
                                 </div>
                             </a></article>
                         </div>
-                        <div class="swiper-slide" role="group" aria-label="Slide" style="margin-right: 12px;">
+                        <div class="swiper-slide" role="group" aria-label="Slide" style="margin-right: 24px;">
                             <article role="presentation" class="gc-carousel-seller-card"><a target="_blank"
                                                                                             class="css-1s6ipaw"
                                                                                             href="/domestic-accommodations/5952?checkIn=2024-08-25&amp;checkOut=2024-08-26&amp;personal=2">
@@ -1230,7 +1038,7 @@
                                 </div>
                             </a></article>
                         </div>
-                        <div class="swiper-slide" role="group" aria-label="Slide" style="margin-right: 12px;">
+                        <div class="swiper-slide" role="group" aria-label="Slide" style="margin-right: 24px;">
                             <article role="presentation" class="gc-carousel-seller-card"><a target="_blank"
                                                                                             class="css-1s6ipaw"
                                                                                             href="/domestic-accommodations/2067?checkIn=2024-08-25&amp;checkOut=2024-08-26&amp;personal=2">
@@ -1267,7 +1075,7 @@
                                 </div>
                             </a></article>
                         </div>
-                        <div class="swiper-slide" role="group" aria-label="Slide" style="margin-right: 12px;">
+                        <div class="swiper-slide" role="group" aria-label="Slide" style="margin-right: 24px;">
                             <article role="presentation" class="gc-carousel-seller-card"><a target="_blank"
                                                                                             class="css-1s6ipaw"
                                                                                             href="/domestic-accommodations/844?checkIn=2024-08-25&amp;checkOut=2024-08-26&amp;personal=2">
@@ -1304,7 +1112,7 @@
                                 </div>
                             </a></article>
                         </div>
-                        <div class="swiper-slide" role="group" aria-label="Slide" style="margin-right: 12px;">
+                        <div class="swiper-slide" role="group" aria-label="Slide" style="margin-right: 24px;">
                             <article role="presentation" class="gc-carousel-seller-card"><a target="_blank"
                                                                                             class="css-1s6ipaw"
                                                                                             href="/domestic-accommodations/47247?checkIn=2024-08-25&amp;checkOut=2024-08-26&amp;personal=2">
@@ -1341,7 +1149,7 @@
                                 </div>
                             </a></article>
                         </div>
-                        <div class="swiper-slide" role="group" aria-label="Slide" style="margin-right: 12px;">
+                        <div class="swiper-slide" role="group" aria-label="Slide" style="margin-right: 24px;">
                             <article role="presentation" class="gc-carousel-seller-card"><a target="_blank"
                                                                                             class="css-1s6ipaw"
                                                                                             href="/domestic-accommodations/73221?checkIn=2024-08-25&amp;checkOut=2024-08-26&amp;personal=2">
@@ -1377,7 +1185,7 @@
                                 </div>
                             </a></article>
                         </div>
-                        <div class="swiper-slide" role="group" aria-label="Slide" style="margin-right: 12px;">
+                        <div class="swiper-slide" role="group" aria-label="Slide" style="margin-right: 24px;">
                             <article role="presentation" class="gc-carousel-seller-card"><a target="_blank"
                                                                                             class="css-1s6ipaw"
                                                                                             href="/domestic-accommodations/57436?checkIn=2024-08-25&amp;checkOut=2024-08-26&amp;personal=2">
@@ -1414,7 +1222,7 @@
                                 </div>
                             </a></article>
                         </div>
-                        <div class="swiper-slide" role="group" aria-label="Slide" style="margin-right: 12px;">
+                        <div class="swiper-slide" role="group" aria-label="Slide" style="margin-right: 24px;">
                             <article role="presentation" class="gc-carousel-seller-card"><a target="_blank"
                                                                                             class="css-1s6ipaw"
                                                                                             href="/domestic-accommodations/1742?checkIn=2024-08-25&amp;checkOut=2024-08-26&amp;personal=2">
@@ -1451,7 +1259,7 @@
                                 </div>
                             </a></article>
                         </div>
-                        <div class="swiper-slide" role="group" aria-label="Slide" style="margin-right: 12px;">
+                        <div class="swiper-slide" role="group" aria-label="Slide" style="margin-right: 24px;">
                             <article role="presentation" class="gc-carousel-seller-card"><a target="_blank"
                                                                                             class="css-1s6ipaw"
                                                                                             href="/domestic-accommodations/67852?checkIn=2024-08-25&amp;checkOut=2024-08-26&amp;personal=2">
@@ -1488,7 +1296,7 @@
                                 </div>
                             </a></article>
                         </div>
-                        <div class="swiper-slide" role="group" aria-label="Slide" style="margin-right: 12px;">
+                        <div class="swiper-slide" role="group" aria-label="Slide" style="margin-right: 24px;">
                             <article role="presentation" class="gc-carousel-seller-card"><a target="_blank"
                                                                                             class="css-1s6ipaw"
                                                                                             href="/domestic-accommodations/5849?checkIn=2024-08-25&amp;checkOut=2024-08-26&amp;personal=2">
@@ -1529,7 +1337,7 @@
                     <div style="user-select: none;" class="swiper-button-disabled" tabindex="-1" role="button"
                          aria-label="Prev Slide" aria-controls="gc-carousel-type-seller-cards-swiper-4"
                          aria-disabled="true">
-                        <div class="swiper-prev-btn css-125xfza" data-testid="swiper-prev-btn" tabindex="-1">
+                        <div class="swiper-prev-btn css-surxfr" data-testid="swiper-prev-btn" tabindex="-1">
                             <svg width="20" height="20" viewBox="0 0 20 20" fill="none"
                                  xmlns="http://www.w3.org/2000/svg" class="css-ljfiaz">
                                 <path d="M12.98 14.594L11.573 16l-4.986-4.594a1.978 1.978 0 010-2.812c.52-.518 2.19-2.049 5.007-4.594l1.401 1.392L7.975 10l5.005 4.594z"
@@ -1539,7 +1347,7 @@
                     </div>
                     <div style="user-select: none;" tabindex="0" role="button" aria-label="Next Slide"
                          aria-controls="gc-carousel-type-seller-cards-swiper-4" aria-disabled="false">
-                        <div class="swiper-next-btn css-15p39nl" data-testid="swiper-next-btn" tabindex="-1">
+                        <div class="swiper-next-btn css-gkrwug" data-testid="swiper-next-btn" tabindex="-1">
                             <svg width="20" height="20" viewBox="0 0 20 20" fill="none"
                                  xmlns="http://www.w3.org/2000/svg" class="css-ljfiaz">
                                 <path d="M7.016 14.594L12.02 10 7 5.392 8.402 4c2.816 2.545 4.485 4.076 5.007 4.594a1.978 1.978 0 010 2.812L8.422 16l-1.406-1.406z"
