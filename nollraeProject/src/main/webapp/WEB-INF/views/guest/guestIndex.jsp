@@ -3,7 +3,7 @@
 <body class="w-full __variable_6eb640 font-pretendard" style="overflow: auto;">
 <main class="css-1xkde92">
     <section role="region" aria-label="상단 메인 비주얼" class="home-search-section css-15y7vr3">
-        <div class="css-1s1o2q2"><h1 class="css-ybsj4s"><span>국내부터 해외까지 </span><br><span>여행할때 여기어때</span></h1>
+        <div class="css-1s1o2q2"><h1 class="css-ybsj4s"><span>여행의 시작 !</span><br><span> 놀러갈래?</span></h1>
             <div class="css-vdghbq">
                 <div class="css-1lmhcfn">
                     <div class="gc-line-large-tab css-zxx61x">
@@ -15,13 +15,13 @@
                         </ul>
                         <div role="presentation" class="css-ra7hsd">
                             <div class="css-77wy9y"></div>
-                            <div class="css-2r64vr">
-                                <svg width="20" height="20" viewBox="0 0 20 20" fill="none"
-                                     xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M5.406 8.016L10 13.02 14.608 8 16 9.402s-3.817 4.225-4.594 5.007a1.978 1.978 0 01-2.812 0L4 9.422l1.406-1.406z"
-                                          fill="current"></path>
-                                </svg>
-                            </div>
+                            <%-- <div class="css-2r64vr">
+                                 <svg width="20" height="20" viewBox="0 0 20 20" fill="none"
+                                      xmlns="http://www.w3.org/2000/svg">
+                                     <path d="M5.406 8.016L10 13.02 14.608 8 16 9.402s-3.817 4.225-4.594 5.007a1.978 1.978 0 01-2.812 0L4 9.422l1.406-1.406z"
+                                           fill="current"></path>
+                                 </svg>
+                             </div>--%>
                         </div>
                     </div>
                 </div>
@@ -106,7 +106,7 @@
                 </div>
             </div>
         </div>
-        <img alt="상단 메인 이미지" src="https://static.yeogi.com/_next/static/media/05_Kv_PC_Light.3deeaa46.webp"
+        <img alt="상단 메인 이미지" src="<%=request.getContextPath() %>/resources/images/여름이미지3.jpg"
              decoding="async" data-nimg="fill" class="css-e7tyoy"
              style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"></section>
     <section role="region" aria-label="이벤트" class="css-nzei3w">
@@ -349,35 +349,6 @@
                             </article>
                         </div>
                     </div>
-                    <div class="swiper-pagination swiper-pagination-clickable swiper-pagination-bullets swiper-pagination-horizontal">
-                        <span class="swiper-pagination-bullet" tabindex="0" role="button"
-                              aria-label="Go to slide 1"></span><span class="swiper-pagination-bullet" tabindex="0"
-                                                                      role="button"
-                                                                      aria-label="Go to slide 2"></span><span
-                            class="swiper-pagination-bullet" tabindex="0" role="button"
-                            aria-label="Go to slide 3"></span><span
-                            class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0" role="button"
-                            aria-label="Go to slide 4" aria-current="true"></span></div>
-                    <div style="user-select: none;" tabindex="0" role="button" aria-label="Prev Slide"
-                         aria-controls="home-events-swiper">
-                        <div class="swiper-prev-btn css-7ftnaz" data-testid="swiper-prev-btn" tabindex="-1">
-                            <svg width="20" height="20" viewBox="0 0 20 20" fill="none"
-                                 xmlns="http://www.w3.org/2000/svg" class="css-ljfiaz">
-                                <path d="M12.98 14.594L11.573 16l-4.986-4.594a1.978 1.978 0 010-2.812c.52-.518 2.19-2.049 5.007-4.594l1.401 1.392L7.975 10l5.005 4.594z"
-                                      fill="current"></path>
-                            </svg>
-                        </div>
-                    </div>
-                    <div style="user-select: none;" tabindex="0" role="button" aria-label="Next Slide"
-                         aria-controls="home-events-swiper">
-                        <div class="swiper-next-btn css-1jqm1m" data-testid="swiper-next-btn" tabindex="-1">
-                            <svg width="20" height="20" viewBox="0 0 20 20" fill="none"
-                                 xmlns="http://www.w3.org/2000/svg" class="css-ljfiaz">
-                                <path d="M7.016 14.594L12.02 10 7 5.392 8.402 4c2.816 2.545 4.485 4.076 5.007 4.594a1.978 1.978 0 010 2.812L8.422 16l-1.406-1.406z"
-                                      fill="current"></path>
-                            </svg>
-                        </div>
-                    </div>
                     <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
             </div>
         </div>
@@ -543,17 +514,13 @@
                             </svg>
                         </div>
                     </div>
-                    <div style="user-select: none;" tabindex="0" role="button" aria-label="Next Slide"
-                         aria-controls="gc-curation-cards-swiper-2" aria-disabled="false">
-                        <div class="swiper-next-btn css-18jghqx" data-testid="swiper-next-btn" tabindex="-1">
-                            <svg width="20" height="20" viewBox="0 0 20 20" fill="none"
-                                 xmlns="http://www.w3.org/2000/svg" class="css-ljfiaz">
-                                <path d="M7.016 14.594L12.02 10 7 5.392 8.402 4c2.816 2.545 4.485 4.076 5.007 4.594a1.978 1.978 0 010 2.812L8.422 16l-1.406-1.406z"
-                                      fill="current"></path>
-                            </svg>
-                        </div>
-                    </div>
                     <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+            </div>
+        </div>
+    </section>
+    <section role="region" class="css-1pnialp">
+        <div class="css-1iro8sk">
+            <div class="css-hpj4q3">
             </div>
         </div>
     </section>
@@ -1345,20 +1312,15 @@
                             </svg>
                         </div>
                     </div>
-                    <div style="user-select: none;" tabindex="0" role="button" aria-label="Next Slide"
-                         aria-controls="gc-carousel-type-seller-cards-swiper-4" aria-disabled="false">
-                        <div class="swiper-next-btn css-gkrwug" data-testid="swiper-next-btn" tabindex="-1">
-                            <svg width="20" height="20" viewBox="0 0 20 20" fill="none"
-                                 xmlns="http://www.w3.org/2000/svg" class="css-ljfiaz">
-                                <path d="M7.016 14.594L12.02 10 7 5.392 8.402 4c2.816 2.545 4.485 4.076 5.007 4.594a1.978 1.978 0 010 2.812L8.422 16l-1.406-1.406z"
-                                      fill="current"></path>
-                            </svg>
-                        </div>
-                    </div>
                     <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
             </div>
         </div>
     </section>
+    <div class="css-wjyf1y">
+        <div class="css-b458pl">
+            <div class="css-1ydn4yb"></div>
+        </div>
+    </div>
     <section role="region" aria-label="국내 여행지" class="css-1pnialp">
         <div class="css-1bc2ohd">
             <div class="flex items-center justify-between"><h2 class="css-lajqqe">국내 여행지</h2></div>
@@ -1380,7 +1342,7 @@
             <div class="css-grswmc"><a role="link" aria-disabled="false" target="_self" class="css-gnoxn2"
                                        href="https://www.yeogi.com/kr/%EC%84%9C%EC%9A%B8"><span>서울</span></a></div>
             <div class="css-grswmc"><a role="link" aria-disabled="false" target="_self" class="css-gnoxn2"
-                                       href="https://www.yeogi.com/kr/%EA%B2%BD%EB%82%A8"><span>경남</span></a></div>
+                                       href="https://www.yeogi.com/kr/ %EA%B2%BD%EB%82%A8"><span>경남</span></a></div>
             <div class="css-grswmc"><a role="link" aria-disabled="false" target="_self" class="css-gnoxn2"
                                        href="https://www.yeogi.com/kr/%EB%B6%80%EC%82%B0"><span>부산</span></a></div>
             <div class="css-grswmc"><a role="link" aria-disabled="false" target="_self" class="css-gnoxn2"

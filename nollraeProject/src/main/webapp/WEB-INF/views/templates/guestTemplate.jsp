@@ -33,6 +33,7 @@
 <link href="<%=request.getContextPath()%>/resources/css/notice.css" rel="stylesheet">
 <link href="<%=request.getContextPath()%>/resources/css/event.css" rel="stylesheet">
 <link href="<%=request.getContextPath()%>/resources/css/guestIndex.css" rel="stylesheet">
+<link href="<%=request.getContextPath()%>/resources/css/login.css" rel="stylesheet">
 
 </head>
 <body>

@@ -365,9 +365,9 @@ ul[data-v-4f1dd06a] {
     margin: 96px 0 48px
 }
 
-.login__logo svg[data-v-4f1dd06a] {
-    height: 26.22px;
-    width: 160px
+img.login_logo {
+    height: 38.22px;
+    width: 156px;
 }
 
 .login__title[data-v-4f1dd06a] {
