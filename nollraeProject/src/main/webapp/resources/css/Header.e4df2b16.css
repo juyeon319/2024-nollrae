@@ -3117,13 +3117,6 @@ ul[data-v-c06c4065] {
     height: 76px
 }
 
-@media screen and (max-width: 911.9px) {
-    .gnb[data-v-c06c4065] {
-        border-bottom:none;
-        height: 56px
-    }
-}
-
 .gnb ul[data-v-c06c4065] {
     -webkit-margin-before: 0;
     -webkit-margin-after: 0;
