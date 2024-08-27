@@ -2,6 +2,8 @@
     width: 100%;
     --tw-bg-opacity: 1;
     border-top: 1px solid #ebebeb;
+    position: relative;
+    transform: translateY(-100%);
 }
 
 * {
@@ -283,10 +285,4 @@ a, input, button, div, li, textarea, form, label, select {
 .css-pi76sm {
     display: flex;
     flex-direction: column;
-}
-
-footer {
-    width: 100%;
-    bottom: 0px;
-    position: absolute;
 }
