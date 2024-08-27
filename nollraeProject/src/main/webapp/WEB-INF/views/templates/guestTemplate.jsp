@@ -36,7 +36,7 @@
 <link href="<%=request.getContextPath()%>/resources/css/login.css" rel="stylesheet">
 
 </head>
-<body>
+<body class="w-full __variable_6eb640 font-pretendard" style="overflow: auto;">
 <div id="__next">
 	<!-- GUEST HEADER(guestHeader.jsp, guest-tiles.xml) -->
 		<tiles:insertAttribute name="guestHeader"/>

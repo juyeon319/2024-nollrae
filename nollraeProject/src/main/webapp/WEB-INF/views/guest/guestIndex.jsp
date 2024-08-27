@@ -3,7 +3,7 @@
 <body class="w-full __variable_6eb640 font-pretendard" style="overflow: auto;">
 <main class="css-1xkde92">
     <section role="region" aria-label="상단 메인 비주얼" class="home-search-section css-15y7vr3">
-        <div class="css-1s1o2q2"><h1 class="css-ybsj4s"><span>여행의 시작 !</span><br><span> 놀러갈래?</span></h1>
+        <div class="css-1s1o2q2"><h1 class="css-ybsj4s"><span>여행의 시작!</span><br><span> 놀러갈래?</span></h1>
             <div class="css-vdghbq">
                 <div class="css-1lmhcfn">
                     <div class="gc-line-large-tab css-zxx61x">
