@@ -40,13 +40,14 @@ a, input, button, div, li, textarea, form, label, select {
     }
 }
 
-.css-1lqsh15 {
+/* .css-1lqsh15 {
     width: 100%;
     padding-bottom: 50px;
     border-bottom-width: 1px;
     --tw-border-opacity: 1;
     border-color: rgb(245 245 245 / var(--tw-border-opacity));
 }
+ */
 
 @media (max-width: 911.98px) {
     .css-1k7ru4c {

@@ -36,4 +36,8 @@
 		<put-attribute name="content" value="/WEB-INF/views/board/event/{1}.jsp"/>
 	</definition>
 
+	<definition name="board/fnq/**" extends="guestTiles">
+		<put-attribute name="content" value="/WEB-INF/views/board/fnq/{1}.jsp"/>
+	</definition>
+
 </tiles-definitions>

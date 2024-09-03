@@ -21,18 +21,16 @@
 		<!-- 호스트 -->
 		<mvc:view-controller path="/hostLogin.do" view-name="auth/host/hostLogin"/>
 	<!-- 회원가입 -->
-		<!-- 공통 -->
+		<!-- 약관동의 -->
 		<mvc:view-controller path="auth/agree.do" view-name="auth/agree"/>
 		<!-- 게스트 -->
 		<mvc:view-controller path="auth/guest/signUp.do" view-name="auth/guest/guestSignUp"/>
 		<!-- 호스트 -->
 		<mvc:view-controller path="/hostSignUp.do" view-name="auth/host/hostSignUp"/>
-	<!-- 아이디/비밀번호 찾기 -->
-		<mvc:view-controller path="/findId.do" view-name="auth/findId"/>
+	<!-- 비밀번호 찾기 -->
 		<mvc:view-controller path="auth/findPw.do" view-name="auth/findPw"/>
 	<!-- 회원정보수정/탈퇴 -->
-		<!-- 호스트 -->
-		<mvc:view-controller path="/hostInfo.do" view-name="auth/host/hostInfo"/>
+
 	
 <!-- 게시판 -->
 	<!-- 공지사항 -->
@@ -47,6 +45,10 @@
 	<mvc:view-controller path="/qnaSelectList.do" view-name="board/qna/qnaSelectList"/>
 	<mvc:view-controller path="/qnaSelect.do" view-name="board/qna/qnaSelect"/>
 	<mvc:view-controller path="/qnaRegist.do" view-name="board/qna/qnaRegist"/>
+	<!-- FnQ -->
+	<mvc:view-controller path="/fnqSelectList.do" view-name="board/fnq/fnqSelectList"/>
+	<mvc:view-controller path="/fnqSelect.do" view-name="board/fnq/fnqSelect"/>
+	<mvc:view-controller path="/fnqRegist.do" view-name="board/fnq/fnqRegist"/>
 	<!-- 커뮤니티 -->
 	<mvc:view-controller path="/communitySelectArea.do" view-name="board/community/communitySelectArea"/>
 	<mvc:view-controller path="/communitySelectList.do" view-name="board/community/communitySelectList"/>
